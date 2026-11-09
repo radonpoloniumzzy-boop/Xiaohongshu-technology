@@ -1,0 +1,200 @@
+{
+  "audit_date": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "account_snapshot_date": "2026-11-08",
+  "case_trial_count": 2,
+  "case_count_excludes": "infrastructure doctor, first-party navigation and creator connection probes; all separately disclosed",
+  "cases": [
+    {
+      "case_id": "T01",
+      "mode": "one standard UI query plus anonymous title-level decision-boundary check",
+      "provider": "Huitun rednote",
+      "keyword": "机器人",
+      "selected_window": "近7天",
+      "selected_keyword_verified": true,
+      "fill_verified": true,
+      "button_click_reported": true,
+      "loading": false,
+      "warning_visible": false,
+      "main_note_row_count": 10,
+      "note_column_count": 10,
+      "sequence_elapsed_seconds": 19.05,
+      "returned_structure_digest": "04982dac2e324e9ad96b927e498ed3c27e1d230a3eeb7535b1b3bf2b436f8782",
+      "digest_scope": "in-memory returned structure and row text, not full supplier HTTP paid report",
+      "raw_supplier_rows_exported": false,
+      "pre_post_row_identity_comparable": false,
+      "anonymous_decisions": [
+        {
+          "candidate": "A",
+          "status": "hold",
+          "reason": "title does not establish technology object"
+        },
+        {
+          "candidate": "B",
+          "status": "hold",
+          "reason": "story/brand mixture does not establish organic demand"
+        },
+        {
+          "candidate": "C",
+          "status": "hold",
+          "reason": "cosplay keyword hit does not establish or disprove engineering content"
+        }
+      ],
+      "limits": [
+        "no original-note review",
+        "no same-author baseline",
+        "no original video or comment review",
+        "no growth prediction"
+      ],
+      "fees": "no purchase or paid export action; existing subscription metering and full costs unknown"
+    },
+    {
+      "case_id": "T02",
+      "mode": "read-only offline replay; no old generator run",
+      "topic_count": 5,
+      "sample_count": 16,
+      "source_file_count": 5,
+      "samples_per_topic": [
+        3,
+        4,
+        3,
+        4,
+        2
+      ],
+      "unique_row_matches": 16,
+      "display_metric_time_window_hash_matches": 16,
+      "all_pass": true,
+      "verification_elapsed_seconds": 0.0364,
+      "vendor_requests": 0,
+      "rank_source": "researcher/agent pre-authored selection input; report builder reads rank",
+      "fees": "no vendor request or purchase; historical costs unknown",
+      "candidate_decisions": [
+        {
+          "candidate": "E1",
+          "existing_choice": "conditional priority",
+          "audit_reason": "application and source fit are explicit; requires physical coverage/permission; not a validated growth prediction"
+        },
+        {
+          "candidate": "HP SitePrint",
+          "existing_choice": "exploratory fifth",
+          "audit_reason": "spread signal is indirect/category-level; cannot upgrade into verified single-product heat"
+        },
+        {
+          "candidate": "Stretch",
+          "existing_choice": "reserve, not selected",
+          "audit_reason": "current batch explicitly found no valid same-product recent signal; absence in checked results is not proof of no demand"
+        }
+      ],
+      "limits": [
+        "matches derived output to cache, not provider truth",
+        "requested window match does not prove actual page window",
+        "no calibrated growth prediction",
+        "no established published outcome for five candidates"
+      ]
+    }
+  ],
+  "infrastructure_and_surface_probes": [
+    {
+      "id": "R01",
+      "kind": "existing OpenCLI doctor",
+      "status": "pass",
+      "cli_version": "1.8.6",
+      "extension_version": "1.0.22",
+      "node_version": "v24.14.1",
+      "daemon_initially_running": false,
+      "existing_daemon_started_by_doctor": true,
+      "configuration_or_version_changed": false,
+      "historical_276_tests_rerun": false
+    },
+    {
+      "id": "R04",
+      "kind": "first-party Douyin workbench navigation",
+      "status": "partial_pass",
+      "origin": "https://douyin.huitun.com",
+      "path": "/app/",
+      "hash_route": "#/dashboard",
+      "title": "工作台",
+      "visible_login_modal": false,
+      "visible_warning": null,
+      "field_groups": [
+        "达人/商品/直播/视频搜索",
+        "新增粉丝",
+        "销售额/直播/视频销售",
+        "直播/视频数量",
+        "点赞/评论/转发"
+      ],
+      "topic_query_count": 0,
+      "limits": "workbench surface only; menu permissions, query quality, export and account effectiveness not tested"
+    },
+    {
+      "id": "R05",
+      "kind": "creator browser connection",
+      "status": "blocked",
+      "elapsed_seconds": 30.26,
+      "cause_observed": "tool connection timeout and kernel reset",
+      "account_login_status": "not established",
+      "fresh_backend_data_collected": false
+    },
+    {
+      "id": "R00",
+      "kind": "public homepage fallback",
+      "status": "pass_with_prior_timeout",
+      "first_web_open": "timeout",
+      "normal_existing_browser_open": "success",
+      "protection_bypass": false,
+      "first_douyin_menu_click_navigation_confirmed": false,
+      "later_official_douyin_url_confirmed": true
+    }
+  ],
+  "historical_rounds": [
+    {
+      "id": "H01",
+      "date": "2026-10-05",
+      "topics": 5,
+      "own_snapshot_results_matched": 5,
+      "calibrated_backtest_possible": false
+    },
+    {
+      "id": "H02",
+      "date": "2026-10-27",
+      "topics": 7,
+      "source_card_hashes_checked": 7,
+      "source_card_hash_matches": 7,
+      "own_title_results_matched": 3,
+      "published_media_version_verified": false
+    },
+    {
+      "id": "H03",
+      "date": "2026-11-08",
+      "topics": 5,
+      "replayed_evidence_rows": 16,
+      "post_publication_outcome_join": "not established"
+    }
+  ],
+  "integrity": {
+    "skills_files_checked": 125,
+    "historical_source_files_checked": 13,
+    "source_files_changed": [],
+    "snapshot_files_checked": 16,
+    "snapshot_files_changed": []
+  },
+  "privacy": {
+    "private_code_published": false,
+    "private_absolute_paths_published": false,
+    "paid_report_rows_published": false,
+    "raw_network_packages_published": false,
+    "raw_private_comments_or_videos_published": false
+  },
+  "cleanup": {
+    "task_created_session_leases_released": 2,
+    "shared_daemon_stopped": false,
+    "user_original_windows_claimed_closed": false
+  },
+  "limitations": [
+    "private originals not portable to public-only models",
+    "snapshot not current backend",
+    "source hashes do not prove factual truth or prepublication immutability",
+    "no quantitative superiority/causal growth or prediction calibration",
+    "historical labor subscription and permission costs unknown"
+  ]
+}
