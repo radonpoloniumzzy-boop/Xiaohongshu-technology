@@ -1,0 +1,24 @@
+# Local credentials, traces, media and machine bindings
+.env
+.env.*
+!.env.example
+*.local.json
+.agent-workspace/
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.sqlite*
+*.db
+raw/
+traces/
+network-captures/
+*.har

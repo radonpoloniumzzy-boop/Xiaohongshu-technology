@@ -1,0 +1,63 @@
+{
+  "captured_at": "2026-11-08T04:32:59.806347+00:00",
+  "status": "collection_delivered_with_explicit_gaps",
+  "video_count": 18,
+  "duration_seconds": 610.968,
+  "live_action_or_mixed_count": 7,
+  "official_CG_supplement_count": 11,
+  "accepted_original_photos": 2,
+  "review_scope": "全文件解码核验；时间码抽帧检查，未逐秒连续播放全片；未做音频完整听审",
+  "topics": [
+    {
+      "id": "01-Qixian",
+      "name": "七鲜小厨机器人后厨",
+      "status": "已取到实物动态；核心后场流程待补",
+      "coverage": "现场机器人炒菜、点单、人机互动；另有厂家投料/翻炒/喷淋/成品实拍，两张现场原图。",
+      "gap": "后场两机械臂协作、人工盛菜分装仍缺连续动态。不得把厂家小钢炮2K片冒充该店机械臂现场。",
+      "video_count": 3,
+      "duration_seconds": 167.956,
+      "live_action_or_mixed_count": 3
+    },
+    {
+      "id": "02-EufyMake",
+      "name": "eufyMake E1 UV纹理打印",
+      "status": "工作室应用素材已到；原拟手机壳切口需收窄",
+      "coverage": "212.224秒品牌客户案例有工作室、E1实物、喷头运行和小件成品；另有6段官网CG。",
+      "gap": "本批没有手机壳真实浮雕触摸演示，也没有实拍清洗维护。UV打印的图案/表面不能把既有3D打印坯件形状也算作E1制作。主片以工作室实拍为骨架。",
+      "video_count": 7,
+      "duration_seconds": 257.996,
+      "live_action_or_mixed_count": 1
+    },
+    {
+      "id": "03-Tashan",
+      "name": "踏山外骨骼景区租赁",
+      "status": "签约与穿戴素材已到；租还流程待补",
+      "coverage": "63.168秒机构原片包含签约、设备腰腿近景、林间步行和登阶资料画面。",
+      "gap": "没有扫码取机、还机柜和西湖实际开站全流程。千台投放、约30元/小时按计划/预计表述；原片“资料”不能冒充本次签约后现场实测。",
+      "video_count": 1,
+      "duration_seconds": 63.168,
+      "live_action_or_mixed_count": 1
+    },
+    {
+      "id": "04-DysonW1",
+      "name": "Dyson W1 PencilWash",
+      "status": "已补官方账号素材；真实拆卸/倒污水待补",
+      "coverage": "24.752秒真人棚拍广告，另有5段官方结构/产品动画，合计92.528秒。品牌账号由Dyson官网社媒名单核对。",
+      "gap": "5段轮播均有明显官方CG，不能算实拍填时长；仍缺打开清洁头、倒污水盒和真实家具下躺平动作。原帖为W1+Dok，配套底座功能不能归给普通W1。",
+      "video_count": 6,
+      "duration_seconds": 92.528,
+      "live_action_or_mixed_count": 1
+    },
+    {
+      "id": "05-HPSitePrint",
+      "name": "HP SitePrint施工放线机器人",
+      "status": "已取到实机补镜；完整操作流程待补",
+      "coverage": "29.32秒官网原生短片，有工地实机移动、机顶棱镜、线条/几何/文字布局结果。",
+      "gap": "完整客户片、全站仪配合、平板操作和连续文字喷印流程尚未取得。该文件是官网短循环，不能称完整客户案例。",
+      "video_count": 1,
+      "duration_seconds": 29.32,
+      "live_action_or_mixed_count": 1
+    }
+  ],
+  "current_authorized_stage": "account diagnosis; production schedule withdrawn, no auto script/video/publish"
+}

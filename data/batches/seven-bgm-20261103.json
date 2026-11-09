@@ -1,0 +1,354 @@
+{
+  "scope": "local 7 renders and 28 remade cover file existence, not remote draft acceptance",
+  "records": [
+    {
+      "name": "螺旋机械触手SpiRobs",
+      "title": "机械手抓鸡蛋，怎么把自己卷成蚊香了",
+      "body": "螺旋触手靠形状贴合物体，在官方演示里包住了鸡蛋、杯子和球。团队还用电流变化判断是否接触。这个研究样机让我最想看的，是它收拢时怎样顺着物体的外形一点点卷上去。",
+      "topics": [
+        "软体机器人",
+        "机械手",
+        "机器人",
+        "科技",
+        "科普",
+        "科技科普",
+        "黑科技",
+        "工程设计",
+        "科学实验"
+      ],
+      "local_cover_files": [
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        }
+      ],
+      "video_candidates": [
+        {
+          "filename": "螺旋机械触手SpiRobs-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 15599975,
+          "logical_path": "VIDEO_PROJECTS_ROOT/螺旋机械触手SpiRobs/06-成品/螺旋机械触手SpiRobs-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "same_title_in_published_snapshot": [],
+      "remote_draft_completeness": "unverified on export; do not duplicate upload",
+      "continuous_review": "not_checked in local declaration"
+    },
+    {
+      "name": "宇树H2-X动作演示",
+      "title": "宇树机器人开始拍功夫片了",
+      "body": "翻过车只是半场，落地才见功夫。留意腿部怎样接住冲击、身体怎样恢复平衡。庭院里的保镖桥段是官方情境演绎，视频展示的是动作表现。",
+      "topics": [
+        "宇树科技",
+        "人形机器人",
+        "机器人",
+        "机器人技术",
+        "科技",
+        "科普",
+        "科技科普",
+        "动作控制",
+        "黑科技"
+      ],
+      "local_cover_files": [
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        }
+      ],
+      "video_candidates": [
+        {
+          "filename": "宇树H2-X动作演示-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 15233515,
+          "logical_path": "VIDEO_PROJECTS_ROOT/宇树H2-X动作演示/06-成品/宇树H2-X动作演示-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "same_title_in_published_snapshot": [],
+      "remote_draft_completeness": "unverified on export; do not duplicate upload",
+      "continuous_review": "not_checked in local declaration"
+    },
+    {
+      "name": "OriHime真人远程咖啡馆",
+      "title": "这家咖啡馆的机器人，背后是真人上班",
+      "body": "隔着机器人跟你聊天的，是远处的真人。摄像头和麦克风把现场传给操作者，转头、挥手和接话也由人控制。对不方便到店的人来说，这相当于多了一种参与店里工作的方式。",
+      "topics": [
+        "分身机器人",
+        "机器人",
+        "远程办公",
+        "咖啡馆",
+        "无障碍",
+        "科技",
+        "科普",
+        "科技科普",
+        "人机交互"
+      ],
+      "local_cover_files": [
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        }
+      ],
+      "video_candidates": [
+        {
+          "filename": "OriHime真人远程咖啡馆-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 12390177,
+          "logical_path": "VIDEO_PROJECTS_ROOT/OriHime真人远程咖啡馆/06-成品/OriHime真人远程咖啡馆-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "same_title_in_published_snapshot": [],
+      "remote_draft_completeness": "unverified on export; do not duplicate upload",
+      "continuous_review": "not_checked in local declaration"
+    },
+    {
+      "name": "Beepy掌上Linux原型",
+      "title": "长得像黑莓，背面却装了块树莓派",
+      "body": "有实体键盘、能跑 Linux，黑白屏用的是记忆型液晶。官方原型还能用字符跑出《星球大战》。如果拿它当掌上开发机，你会先敲哪条命令？",
+      "topics": [
+        "树莓派",
+        "Linux",
+        "掌上电脑",
+        "数码",
+        "科技",
+        "科普",
+        "科技科普",
+        "极客",
+        "硬件"
+      ],
+      "local_cover_files": [
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        }
+      ],
+      "video_candidates": [
+        {
+          "filename": "Beepy掌上Linux原型-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 7550154,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Beepy掌上Linux原型/06-成品/Beepy掌上Linux原型-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "same_title_in_published_snapshot": [],
+      "remote_draft_completeness": "unverified on export; do not duplicate upload",
+      "continuous_review": "not_checked in local declaration"
+    },
+    {
+      "name": "PuraXView阔直板",
+      "title": "这手机没折叠，怎么也长这么宽？",
+      "body": "这台阔直板把机身直接做宽。官方展示里，竖屏读漫画、横屏看视频都能多一点展开空间。实际握持时拇指能不能轻松够到另一边，还得上手才知道。",
+      "topics": [
+        "华为",
+        "手机",
+        "数码",
+        "科技",
+        "手机体验",
+        "科技科普",
+        "手机设计",
+        "漫画",
+        "数码产品"
+      ],
+      "local_cover_files": [
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        }
+      ],
+      "video_candidates": [
+        {
+          "filename": "PuraXView阔直板-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 7613487,
+          "logical_path": "VIDEO_PROJECTS_ROOT/PuraXView阔直板/06-成品/PuraXView阔直板-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "same_title_in_published_snapshot": [
+        {
+          "id": "6ae995cd000000001b01fdef",
+          "published_at": "2026-11-08 08:06",
+          "status": "列表及详情未标异常",
+          "views": 11
+        }
+      ],
+      "remote_draft_completeness": "unverified on export; do not duplicate upload",
+      "continuous_review": "not_checked in local declaration"
+    },
+    {
+      "name": "LoonaDeskmate桌面搭子",
+      "title": "手机放上底座，怎么开始跟我对视了",
+      "body": "手机显示表情，电动底座负责转头和点头。眼睛跟着抬起来的那一下，普通桌搭突然有点像在跟你对视。你会把它当桌面搭子吗？",
+      "topics": [
+        "桌面机器人",
+        "机器人",
+        "桌搭",
+        "手机支架",
+        "数码",
+        "科技",
+        "人机交互",
+        "科普",
+        "科技科普"
+      ],
+      "local_cover_files": [
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        }
+      ],
+      "video_candidates": [
+        {
+          "filename": "LoonaDeskmate桌面搭子-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 7725800,
+          "logical_path": "VIDEO_PROJECTS_ROOT/LoonaDeskmate桌面搭子/06-成品/LoonaDeskmate桌面搭子-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "same_title_in_published_snapshot": [
+        {
+          "id": "6ae995aa000000001100da36",
+          "published_at": "2026-11-06 17:05",
+          "status": "限制推荐和搜索",
+          "views": 3
+        }
+      ],
+      "remote_draft_completeness": "unverified on export; do not duplicate upload",
+      "continuous_review": "not_checked in local declaration"
+    },
+    {
+      "name": "二白陪伴机器人",
+      "title": "机器人逛菜摊，购物篮比它还抢镜",
+      "body": "购物篮是官方情境片里的道具，最抢镜的反而是机器人在门边跟人接话的片段。二白走的是陪伴路线，用轮子移动，用脸屏和语音做互动。开机、配网和设置仍需要人来操作。",
+      "topics": [
+        "陪伴机器人",
+        "家庭机器人",
+        "机器人",
+        "人机交互",
+        "科技",
+        "科普",
+        "科技科普",
+        "智能硬件",
+        "数码"
+      ],
+      "local_cover_files": [
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        },
+        {
+          "logical_path": "LOCAL_ONLY_PATH",
+          "exists": true
+        }
+      ],
+      "video_candidates": [
+        {
+          "filename": "二白陪伴机器人-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 22062787,
+          "logical_path": "VIDEO_PROJECTS_ROOT/二白陪伴机器人/06-成品/二白陪伴机器人-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "same_title_in_published_snapshot": [
+        {
+          "id": "6ae99591000000001a027e83",
+          "published_at": "2026-11-04 17:05",
+          "status": "列表及详情未标异常",
+          "views": 96
+        }
+      ],
+      "remote_draft_completeness": "unverified on export; do not duplicate upload",
+      "continuous_review": "not_checked in local declaration"
+    }
+  ],
+  "draft_receipt_coverage": {
+    "body_topics_main_cover": 1,
+    "remade_main_cover": 2,
+    "scope": "local jsonl receipts only; no 7x4 covers/body/topics/poll completeness assertion"
+  },
+  "remote_current_checked_on_export": false
+}

@@ -1,0 +1,1852 @@
+{
+  "export_date": "2026-11-09",
+  "project_count": 56,
+  "projects_with_status": 44,
+  "observed_final_mp4_count": 89,
+  "records": [
+    {
+      "project_id": "project-bf5d3a7640cf",
+      "name": "Apate反诈骗AI",
+      "logical_root": "VIDEO_PROJECTS_ROOT/Apate反诈骗AI",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "5c4d528da86476dd065daa8c68e9aafd10c3768452f07b3894d3342b4886cc47"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-fa34499603c3",
+      "name": "Beepy掌上Linux原型",
+      "logical_root": "VIDEO_PROJECTS_ROOT/Beepy掌上Linux原型",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "4bef63e4535e2cd72c4aed5d3ad0f7560da255f4ab4a52be8d098a3eb9016080"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_review_ready",
+        "current_version": "实拍剪辑-v1-20261103",
+        "qa": {
+          "continuous_viewing": "not_checked",
+          "listening": "not_checked",
+          "jianying_ui": "not_checked"
+        },
+        "next": "完整听审、连续观看与剪映界面打开验收尚未完成；封面和上传另按用户指令"
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "Beepy掌上Linux原型-实拍剪辑-v1-20261103.mp4",
+          "bytes": 7551254,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Beepy掌上Linux原型/06-成品/Beepy掌上Linux原型-实拍剪辑-v1-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Beepy掌上Linux原型-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 7550154,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Beepy掌上Linux原型/06-成品/Beepy掌上Linux原型-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-4ba002d03f98",
+      "name": "Birdie",
+      "logical_root": "VIDEO_PROJECTS_ROOT/Birdie",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6aac0ff5000000001103a885"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "Birdie-倒挂小鸟-配音字幕基准版-v1(4).mp4",
+          "bytes": 244290978,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Birdie/06-成品/Birdie-倒挂小鸟-配音字幕基准版-v1(4).mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-f3c26bdc11db",
+      "name": "Curta机械计算器",
+      "logical_root": "VIDEO_PROJECTS_ROOT/Curta机械计算器",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "25c8586e24541a482713b2db7737f1083ae87d7dae92e6304dfbd104854129c4"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "Curta机械计算器-实物新配音-v4-20261003.mp4",
+          "bytes": 55543154,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Curta机械计算器/06-成品/Curta机械计算器-实物新配音-v4-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Curta机械计算器-实物新配音-v4.1-补关注-20261003.mp4",
+          "bytes": 55750244,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Curta机械计算器/06-成品/Curta机械计算器-实物新配音-v4.1-补关注-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Curta机械计算器-新实录成片-v1-20261003.mp4",
+          "bytes": 3658209,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Curta机械计算器/06-成品/Curta机械计算器-新实录成片-v1-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Curta机械计算器-新实录成片-v2-20261003.mp4",
+          "bytes": 3645003,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Curta机械计算器/06-成品/Curta机械计算器-新实录成片-v2-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 4,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-9a36f2a83ab5",
+      "name": "Figure02机器人退役",
+      "logical_root": "VIDEO_PROJECTS_ROOT/Figure02机器人退役",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "e61d44d28b92cf26c95e24ea343b680a4f828ac500ee93c8e7f2199f1c114a2a"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "Figure02机器人退役-实物新配音-v4-20261003.mp4",
+          "bytes": 32883187,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Figure02机器人退役/06-成品/Figure02机器人退役-实物新配音-v4-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Figure02机器人退役-实物新配音-v4.1-补关注-20261003.mp4",
+          "bytes": 33016621,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Figure02机器人退役/06-成品/Figure02机器人退役-实物新配音-v4.1-补关注-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Figure02机器人退役-新实录成片-v1-20261003.mp4",
+          "bytes": 7387193,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Figure02机器人退役/06-成品/Figure02机器人退役-新实录成片-v1-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Figure02机器人退役-新实录成片-v2-20261003.mp4",
+          "bytes": 7385012,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Figure02机器人退役/06-成品/Figure02机器人退役-新实录成片-v2-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 4,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-a4d68642965f",
+      "name": "Glide导盲设备",
+      "logical_root": "VIDEO_PROJECTS_ROOT/Glide导盲设备",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "15d163f7bbfedff733e16a8bd8833cfe48ab87ad3e39601e01a39dc905be4301"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "Glide导盲设备-实拍对位修正版-v2-20261020.mp4",
+          "bytes": 20329889,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Glide导盲设备/06-成品/Glide导盲设备-实拍对位修正版-v2-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Glide导盲设备-实拍成片-v1-20261020.mp4",
+          "bytes": 20282109,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Glide导盲设备/06-成品/Glide导盲设备-实拍成片-v1-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-9605cb96f56a",
+      "name": "HohemEyepic可拆云台相机",
+      "logical_root": "VIDEO_PROJECTS_ROOT/HohemEyepic可拆云台相机",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "c969f07a2836f91f017ebfb52491d32ad368cd4e8da2904f557548f19d675c8a"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ac7b56d00000000180280bf"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "HohemEyepic可拆云台相机-实物新配音-v4-20261003.mp4",
+          "bytes": 34885570,
+          "logical_path": "VIDEO_PROJECTS_ROOT/HohemEyepic可拆云台相机/06-成品/HohemEyepic可拆云台相机-实物新配音-v4-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "HohemEyepic可拆云台相机-实物新配音-v4.1-补关注-20261003.mp4",
+          "bytes": 35092907,
+          "logical_path": "VIDEO_PROJECTS_ROOT/HohemEyepic可拆云台相机/06-成品/HohemEyepic可拆云台相机-实物新配音-v4.1-补关注-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "HohemEyepic可拆云台相机-新实录成片-v1-20261003.mp4",
+          "bytes": 4161523,
+          "logical_path": "VIDEO_PROJECTS_ROOT/HohemEyepic可拆云台相机/06-成品/HohemEyepic可拆云台相机-新实录成片-v1-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "HohemEyepic可拆云台相机-新实录成片-v2-20261003.mp4",
+          "bytes": 4158868,
+          "logical_path": "VIDEO_PROJECTS_ROOT/HohemEyepic可拆云台相机/06-成品/HohemEyepic可拆云台相机-新实录成片-v2-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 4,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-7366b9a2ac00",
+      "name": "HUTT10方圆一体擦窗机器人",
+      "logical_root": "VIDEO_PROJECTS_ROOT/HUTT10方圆一体擦窗机器人",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "905d2e8537867d227fa3aebb0f733a044d8760817ffc200ea8e2c26a53bac6e2"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-89c608ea7a07",
+      "name": "HypershellHalo髋膝外骨骼",
+      "logical_root": "VIDEO_PROJECTS_ROOT/HypershellHalo髋膝外骨骼",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "b5049916914b7e502173cc9a315cab8746a0fb26c8730bad3dbf5beff69e649c"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "HypershellHalo髋膝外骨骼-实物新配音-v4-20261003.mp4",
+          "bytes": 25244876,
+          "logical_path": "VIDEO_PROJECTS_ROOT/HypershellHalo髋膝外骨骼/06-成品/HypershellHalo髋膝外骨骼-实物新配音-v4-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "HypershellHalo髋膝外骨骼-实物新配音-v4.1-补关注-20261003.mp4",
+          "bytes": 25378079,
+          "logical_path": "VIDEO_PROJECTS_ROOT/HypershellHalo髋膝外骨骼/06-成品/HypershellHalo髋膝外骨骼-实物新配音-v4.1-补关注-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "HypershellHalo髋膝外骨骼-新实录成片-v1-20261003.mp4",
+          "bytes": 4069620,
+          "logical_path": "VIDEO_PROJECTS_ROOT/HypershellHalo髋膝外骨骼/06-成品/HypershellHalo髋膝外骨骼-新实录成片-v1-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "HypershellHalo髋膝外骨骼-新实录成片-v2-20261003.mp4",
+          "bytes": 3820837,
+          "logical_path": "VIDEO_PROJECTS_ROOT/HypershellHalo髋膝外骨骼/06-成品/HypershellHalo髋膝外骨骼-新实录成片-v2-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 4,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-125cbdc8139c",
+      "name": "LoonaDeskmate桌面搭子",
+      "logical_root": "VIDEO_PROJECTS_ROOT/LoonaDeskmate桌面搭子",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "920eb404eb51290f72006f441bf93141658c064f4c899cd68c8f94a6c40b3b80"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_review_ready",
+        "current_version": "实拍剪辑-v1-20261103",
+        "qa": {
+          "continuous_viewing": "not_checked",
+          "listening": "not_checked",
+          "jianying_ui": "not_checked"
+        },
+        "next": "完整听审、连续观看与剪映界面打开验收尚未完成；封面和上传另按用户指令"
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "LoonaDeskmate桌面搭子-实拍剪辑-v1-20261103.mp4",
+          "bytes": 7727739,
+          "logical_path": "VIDEO_PROJECTS_ROOT/LoonaDeskmate桌面搭子/06-成品/LoonaDeskmate桌面搭子-实拍剪辑-v1-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "LoonaDeskmate桌面搭子-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 7725800,
+          "logical_path": "VIDEO_PROJECTS_ROOT/LoonaDeskmate桌面搭子/06-成品/LoonaDeskmate桌面搭子-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-6d7240209c6b",
+      "name": "MEZMOPEN",
+      "logical_root": "VIDEO_PROJECTS_ROOT/MEZMOPEN",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-bb0735e3f85f",
+      "name": "Microduck机器鸭",
+      "logical_root": "VIDEO_PROJECTS_ROOT/Microduck机器鸭",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "3f93beb4e95162b7264a5c5ba1b5577b4ad3b53ce304442975ec5bc62091ee04"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6abf2bb6000000000200f05c"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "Microduck机器鸭-实录剪辑-v1-20260928.mp4",
+          "bytes": 25726294,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Microduck机器鸭/06-成品/Microduck机器鸭-实录剪辑-v1-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-1c77e18511e8",
+      "name": "NIMO智能显示眼镜",
+      "logical_root": "VIDEO_PROJECTS_ROOT/NIMO智能显示眼镜",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "2d4355a2b0396c7475ac30fa592b63ed4cf3283dbf5d001cf62f44e983efb914"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ac7b54c0000000002010713"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "NIMO智能显示眼镜-实物原片重剪-v3-20261003.mp4",
+          "bytes": 26140166,
+          "logical_path": "VIDEO_PROJECTS_ROOT/NIMO智能显示眼镜/06-成品/NIMO智能显示眼镜-实物原片重剪-v3-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "NIMO智能显示眼镜-实物新配音-v4-20261003.mp4",
+          "bytes": 29470007,
+          "logical_path": "VIDEO_PROJECTS_ROOT/NIMO智能显示眼镜/06-成品/NIMO智能显示眼镜-实物新配音-v4-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "NIMO智能显示眼镜-实物新配音-v4.1-补关注-20261003.mp4",
+          "bytes": 29676969,
+          "logical_path": "VIDEO_PROJECTS_ROOT/NIMO智能显示眼镜/06-成品/NIMO智能显示眼镜-实物新配音-v4.1-补关注-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "NIMO智能显示眼镜-新实录成片-v1-20261003.mp4",
+          "bytes": 18823874,
+          "logical_path": "VIDEO_PROJECTS_ROOT/NIMO智能显示眼镜/06-成品/NIMO智能显示眼镜-新实录成片-v1-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "NIMO智能显示眼镜-新实录成片-v2-20261003.mp4",
+          "bytes": 17669281,
+          "logical_path": "VIDEO_PROJECTS_ROOT/NIMO智能显示眼镜/06-成品/NIMO智能显示眼镜-新实录成片-v2-20261003.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 5,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-c87c73b66897",
+      "name": "OriHime真人远程咖啡馆",
+      "logical_root": "VIDEO_PROJECTS_ROOT/OriHime真人远程咖啡馆",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "f05c3c1c4176e7aa2b83f3678f3588b5573a446eb70caaaec05f6dfdd19dae1b"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_review_ready",
+        "current_version": "实拍剪辑-v1-20261103",
+        "qa": {
+          "continuous_viewing": "not_checked",
+          "listening": "not_checked",
+          "jianying_ui": "not_checked"
+        },
+        "next": "完整听审、连续观看与剪映界面打开验收尚未完成；封面和上传另按用户指令"
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "OriHime真人远程咖啡馆-实拍剪辑-v1-20261103.mp4",
+          "bytes": 12389282,
+          "logical_path": "VIDEO_PROJECTS_ROOT/OriHime真人远程咖啡馆/06-成品/OriHime真人远程咖啡馆-实拍剪辑-v1-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "OriHime真人远程咖啡馆-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 12390177,
+          "logical_path": "VIDEO_PROJECTS_ROOT/OriHime真人远程咖啡馆/06-成品/OriHime真人远程咖啡馆-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-2314c090c378",
+      "name": "Procreate 实景取色",
+      "logical_root": "VIDEO_PROJECTS_ROOT/Procreate 实景取色",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "Procreate 实景取色-实录竖屏-v1-20260922.mp4",
+          "bytes": 13311901,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Procreate 实景取色/06-成品/Procreate 实景取色-实录竖屏-v1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Procreate 实景取色-实录竖屏-v1.1-20260922.mp4",
+          "bytes": 14279024,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Procreate 实景取色/06-成品/Procreate 实景取色-实录竖屏-v1.1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "Procreate 实景取色-无Logo-v1.1-20260928.mp4",
+          "bytes": 15792463,
+          "logical_path": "VIDEO_PROJECTS_ROOT/Procreate 实景取色/06-成品/Procreate 实景取色-无Logo-v1.1-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 3,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-f60d119543a1",
+      "name": "PuraXView阔直板",
+      "logical_root": "VIDEO_PROJECTS_ROOT/PuraXView阔直板",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "a33edfc8903da1114db2b41c8810b6603c1b9967f9e3ff61b018647ad8388f87"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_review_ready",
+        "current_version": "实拍剪辑-v1-20261103",
+        "qa": {
+          "continuous_viewing": "not_checked",
+          "listening": "not_checked",
+          "jianying_ui": "not_checked"
+        },
+        "next": "完整听审、连续观看与剪映界面打开验收尚未完成；封面和上传另按用户指令"
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "PuraXView阔直板-实拍剪辑-v1-20261103.mp4",
+          "bytes": 7614497,
+          "logical_path": "VIDEO_PROJECTS_ROOT/PuraXView阔直板/06-成品/PuraXView阔直板-实拍剪辑-v1-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "PuraXView阔直板-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 7613487,
+          "logical_path": "VIDEO_PROJECTS_ROOT/PuraXView阔直板/06-成品/PuraXView阔直板-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-4d88a6088119",
+      "name": "REK遥控格斗机器人",
+      "logical_root": "VIDEO_PROJECTS_ROOT/REK遥控格斗机器人",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "8bba3a032fa1631cddc04fcac70cab67746366eb11a9e0d79dd6a52117eb1392"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "REK遥控格斗机器人-实拍成片-v1-20261020.mp4",
+          "bytes": 21493806,
+          "logical_path": "VIDEO_PROJECTS_ROOT/REK遥控格斗机器人/06-成品/REK遥控格斗机器人-实拍成片-v1-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-41bc557ba075",
+      "name": "一元拍卖-独立重构版-v1",
+      "logical_root": "VIDEO_PROJECTS_ROOT/一元拍卖-独立重构版-v1",
+      "status_sources": [
+        {
+          "file": "PROJECT-STATE.md",
+          "sha256": "b7a23686d800c374c681484a1648dfd735422338ab74d8183ec095dc7c7595c6"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "identity_pending",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-28bed67b1609",
+      "name": "三面拉链",
+      "logical_root": "VIDEO_PROJECTS_ROOT/三面拉链",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "9b7558ee28767cbf166064106ea82dbf3edf3a2c33e1429b149e9b13a3db59e2"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_pending_review",
+        "current_version": null,
+        "qa": null,
+        "next": null
+      },
+      "mapped_analysis_note_ids": [
+        "6ab00a2d0000000026009a5b"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "三面拉链-新配音剪辑-v2-20260920.mp4",
+          "bytes": 28575865,
+          "logical_path": "VIDEO_PROJECTS_ROOT/三面拉链/06-成品/三面拉链-新配音剪辑-v2-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "三面拉链-新配音剪辑-v3-Logo与黑场修复.mp4",
+          "bytes": 29813274,
+          "logical_path": "VIDEO_PROJECTS_ROOT/三面拉链/06-成品/三面拉链-新配音剪辑-v3-Logo与黑场修复.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "三面拉链-新配音剪辑-v3.1-Logo与黑场修复.mp4",
+          "bytes": 29923292,
+          "logical_path": "VIDEO_PROJECTS_ROOT/三面拉链/06-成品/三面拉链-新配音剪辑-v3.1-Logo与黑场修复.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "三面拉链-用户修改版-v1.mp4",
+          "bytes": 314332100,
+          "logical_path": "VIDEO_PROJECTS_ROOT/三面拉链/06-成品/三面拉链-用户修改版-v1.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 4,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-fc4e28255dc4",
+      "name": "二白陪伴机器人",
+      "logical_root": "VIDEO_PROJECTS_ROOT/二白陪伴机器人",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "612fc74a774f6139bfa3da43ab20c8f7cb67ffde6d3e5a2091d2b32897180300"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_review_ready",
+        "current_version": "实拍剪辑-v1-20261103",
+        "qa": {
+          "continuous_viewing": "not_checked",
+          "listening": "not_checked",
+          "jianying_ui": "not_checked"
+        },
+        "next": "完整听审、连续观看与剪映界面打开验收尚未完成；封面和上传另按用户指令"
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "二白陪伴机器人-实拍剪辑-v1-20261103.mp4",
+          "bytes": 22062805,
+          "logical_path": "VIDEO_PROJECTS_ROOT/二白陪伴机器人/06-成品/二白陪伴机器人-实拍剪辑-v1-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "二白陪伴机器人-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 22062787,
+          "logical_path": "VIDEO_PROJECTS_ROOT/二白陪伴机器人/06-成品/二白陪伴机器人-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-75d7f76a9475",
+      "name": "京东试吃机器人",
+      "logical_root": "VIDEO_PROJECTS_ROOT/京东试吃机器人",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "31f9eee485fbf697acd2d446ed99bc593aecdf7417b2ee9ead9d9bd41d748adc"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "京东试吃机器人-实拍原声6-v1-20261005.mp4",
+          "bytes": 29140184,
+          "logical_path": "VIDEO_PROJECTS_ROOT/京东试吃机器人/06-成品/京东试吃机器人-实拍原声6-v1-20261005.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-f07b5d817378",
+      "name": "会离开机械臂、自己爬过去的手",
+      "logical_root": "VIDEO_PROJECTS_ROOT/会离开机械臂、自己爬过去的手",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "1415fa5a78e8097d522ecf99e96d39c7f96fc4df5b500861059ff161ee143077"
+        }
+      ],
+      "declared_state": {
+        "status": "rough_cut_pending_review",
+        "current_version": null,
+        "qa": {
+          "decode": "passed",
+          "metadata": "passed",
+          "linked_assets": "passed",
+          "black_intervals": [],
+          "source_overlaps": [],
+          "manual_listening": "pending",
+          "continuous_visual_review": "pending",
+          "jianying_ui": "pending"
+        },
+        "next": null
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "会离开机械臂、自己爬过去的手-实录剪辑-v1-20260920.mp4",
+          "bytes": 12532078,
+          "logical_path": "VIDEO_PROJECTS_ROOT/会离开机械臂、自己爬过去的手/06-成品/会离开机械臂、自己爬过去的手-实录剪辑-v1-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "会离开机械臂、自己爬过去的手-实录剪辑-v1.1-去黑闪-20260920.mp4",
+          "bytes": 12451306,
+          "logical_path": "VIDEO_PROJECTS_ROOT/会离开机械臂、自己爬过去的手/06-成品/会离开机械臂、自己爬过去的手-实录剪辑-v1.1-去黑闪-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-4e73daad0e94",
+      "name": "半露式CD机DISC-Nano",
+      "logical_root": "VIDEO_PROJECTS_ROOT/半露式CD机DISC-Nano",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "9ebae3cbf42326be4f086a6f6ce19cac34ee610893e1f99f4f184602b0cf778e"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ac7b5020000000015012768"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "半露式CD机DISC-Nano-实拍原声6-v1-20261005.mp4",
+          "bytes": 20473514,
+          "logical_path": "VIDEO_PROJECTS_ROOT/半露式CD机DISC-Nano/06-成品/半露式CD机DISC-Nano-实拍原声6-v1-20261005.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "半露式CD机DISC-Nano-实拍原声6-v2-20261005.mp4",
+          "bytes": 20669544,
+          "logical_path": "VIDEO_PROJECTS_ROOT/半露式CD机DISC-Nano/06-成品/半露式CD机DISC-Nano-实拍原声6-v2-20261005.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-e2b0de5c2ef8",
+      "name": "启元T1",
+      "logical_root": "VIDEO_PROJECTS_ROOT/启元T1",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6aa95bd9000000000b0340da"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "启元T1-Codex兼容测试-v1(4).mp4",
+          "bytes": 297708039,
+          "logical_path": "VIDEO_PROJECTS_ROOT/启元T1/06-成品/启元T1-Codex兼容测试-v1(4).mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-b03fec70ab6d",
+      "name": "培养皮肤机械手指",
+      "logical_root": "VIDEO_PROJECTS_ROOT/培养皮肤机械手指",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "b2e6446ca797729bc49169eca53e0ed6d33a18162f2dd26de4648addd2da15d0"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-e602dde451a0",
+      "name": "大疆ROMO2扫拖机器人",
+      "logical_root": "VIDEO_PROJECTS_ROOT/大疆ROMO2扫拖机器人",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "61ecc1134f3e5b26f9848d8418011f0ad7269951c5a4095d0d2dbf6e431ba091"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ad6dccf0000000028039ce9"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "大疆ROMO2扫拖机器人-实拍成片-v1-20261020.mp4",
+          "bytes": 11279998,
+          "logical_path": "VIDEO_PROJECTS_ROOT/大疆ROMO2扫拖机器人/06-成品/大疆ROMO2扫拖机器人-实拍成片-v1-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-c7a4f4d95005",
+      "name": "天工Omni捂脸跑",
+      "logical_root": "VIDEO_PROJECTS_ROOT/天工Omni捂脸跑",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ab93a7c000000001a030f02"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "天工Omni捂脸跑-实录竖屏-v1-20260922.mp4",
+          "bytes": 38186330,
+          "logical_path": "VIDEO_PROJECTS_ROOT/天工Omni捂脸跑/06-成品/天工Omni捂脸跑-实录竖屏-v1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "天工Omni捂脸跑-实录竖屏-v1.1-20260922.mp4",
+          "bytes": 38181637,
+          "logical_path": "VIDEO_PROJECTS_ROOT/天工Omni捂脸跑/06-成品/天工Omni捂脸跑-实录竖屏-v1.1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "天工Omni捂脸跑-无Logo-v1.1-20260928.mp4",
+          "bytes": 44555467,
+          "logical_path": "VIDEO_PROJECTS_ROOT/天工Omni捂脸跑/06-成品/天工Omni捂脸跑-无Logo-v1.1-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 3,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-4dd08c1ed60a",
+      "name": "太阳能烤箱",
+      "logical_root": "VIDEO_PROJECTS_ROOT/太阳能烤箱",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "6ca31489a4ed82bcee658d8533b0e65bf56d1b92faecffa07c6a77a7d78b8ede"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_pending_review",
+        "current_version": null,
+        "qa": null,
+        "next": null
+      },
+      "mapped_analysis_note_ids": [
+        "6ab005af000000001001f12c"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "太阳能烤箱-新配音剪辑-v2-20260920.mp4",
+          "bytes": 43220409,
+          "logical_path": "VIDEO_PROJECTS_ROOT/太阳能烤箱/06-成品/太阳能烤箱-新配音剪辑-v2-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "太阳能烤箱-新配音剪辑-v3-Logo与黑场修复.mp4",
+          "bytes": 43293463,
+          "logical_path": "VIDEO_PROJECTS_ROOT/太阳能烤箱/06-成品/太阳能烤箱-新配音剪辑-v3-Logo与黑场修复.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "太阳能烤箱-用户修改版-v1.mp4",
+          "bytes": 114376296,
+          "logical_path": "VIDEO_PROJECTS_ROOT/太阳能烤箱/06-成品/太阳能烤箱-用户修改版-v1.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 3,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-3c30e5dd2259",
+      "name": "宇树H2-X动作演示",
+      "logical_root": "VIDEO_PROJECTS_ROOT/宇树H2-X动作演示",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "e680baab152170dc9620256f6bb3d164b8fbcb9bd2dd872bde61298e890eb848"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_review_ready",
+        "current_version": "实拍剪辑-v1-20261103",
+        "qa": {
+          "continuous_viewing": "not_checked",
+          "listening": "not_checked",
+          "jianying_ui": "not_checked"
+        },
+        "next": "完整听审、连续观看与剪映界面打开验收尚未完成；封面和上传另按用户指令"
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "宇树H2-X动作演示-实拍剪辑-v1-20261103.mp4",
+          "bytes": 15233612,
+          "logical_path": "VIDEO_PROJECTS_ROOT/宇树H2-X动作演示/06-成品/宇树H2-X动作演示-实拍剪辑-v1-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "宇树H2-X动作演示-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 15233515,
+          "logical_path": "VIDEO_PROJECTS_ROOT/宇树H2-X动作演示/06-成品/宇树H2-X动作演示-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-bfc6cc7fe37d",
+      "name": "宇树R1倒立行走",
+      "logical_root": "VIDEO_PROJECTS_ROOT/宇树R1倒立行走",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "141f4d1e2e7ea0b4f22f22079405ef18ac3fbf0113edbc74bce82042b06f209e"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "宇树R1倒立行走-实拍对位修正版-v2-20261020.mp4",
+          "bytes": 35634395,
+          "logical_path": "VIDEO_PROJECTS_ROOT/宇树R1倒立行走/06-成品/宇树R1倒立行走-实拍对位修正版-v2-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "宇树R1倒立行走-实拍成片-v1-20261020.mp4",
+          "bytes": 34686935,
+          "logical_path": "VIDEO_PROJECTS_ROOT/宇树R1倒立行走/06-成品/宇树R1倒立行走-实拍成片-v1-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-09253cbd1d95",
+      "name": "客厅到露台微缩铁路",
+      "logical_root": "VIDEO_PROJECTS_ROOT/客厅到露台微缩铁路",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "0fccc1b531d2545c0699457d497231fc7b879dc2725c3c6c06ff378ea8569519"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "客厅到露台微缩铁路-实拍原声6-v1-20261005.mp4",
+          "bytes": 40054586,
+          "logical_path": "VIDEO_PROJECTS_ROOT/客厅到露台微缩铁路/06-成品/客厅到露台微缩铁路-实拍原声6-v1-20261005.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-bd6519ddc8ab",
+      "name": "山猫M20轮足机器人",
+      "logical_root": "VIDEO_PROJECTS_ROOT/山猫M20轮足机器人",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "ec316882d76634de556c397b71bfeec56e4441130c3e9e981631da54891b3d7e"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ad6dcab000000002a024aef"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "山猫M20轮足机器人-实拍对位修正版-v2-20261020.mp4",
+          "bytes": 35830722,
+          "logical_path": "VIDEO_PROJECTS_ROOT/山猫M20轮足机器人/06-成品/山猫M20轮足机器人-实拍对位修正版-v2-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "山猫M20轮足机器人-实拍成片-v1-20261020.mp4",
+          "bytes": 36204603,
+          "logical_path": "VIDEO_PROJECTS_ROOT/山猫M20轮足机器人/06-成品/山猫M20轮足机器人-实拍成片-v1-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-af714a85a852",
+      "name": "悬挂坐鞍 Standing Ovation",
+      "logical_root": "VIDEO_PROJECTS_ROOT/悬挂坐鞍 Standing Ovation",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ab2b1fc000000000a01fb12"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "悬挂坐鞍 Standing Ovation-实录竖屏-v1-20260922.mp4",
+          "bytes": 20142017,
+          "logical_path": "VIDEO_PROJECTS_ROOT/悬挂坐鞍 Standing Ovation/06-成品/悬挂坐鞍 Standing Ovation-实录竖屏-v1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "悬挂坐鞍 Standing Ovation-实录竖屏-v1.1-20260922.mp4",
+          "bytes": 19957489,
+          "logical_path": "VIDEO_PROJECTS_ROOT/悬挂坐鞍 Standing Ovation/06-成品/悬挂坐鞍 Standing Ovation-实录竖屏-v1.1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-ee477a6b71f3",
+      "name": "手机皮肤相机 Lumoscope",
+      "logical_root": "VIDEO_PROJECTS_ROOT/手机皮肤相机 Lumoscope",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "19cd9cddbe5f8a0cd2087ec5fbc5bcb1188512ddb01a68ddba79a1b215534882"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6abf2b76000000001b033e9b"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "手机皮肤相机 Lumoscope-实录剪辑-v1-20260928.mp4",
+          "bytes": 25965826,
+          "logical_path": "VIDEO_PROJECTS_ROOT/手机皮肤相机 Lumoscope/06-成品/手机皮肤相机 Lumoscope-实录剪辑-v1-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-00748411f9a3",
+      "name": "手机膜水珠微距",
+      "logical_root": "VIDEO_PROJECTS_ROOT/手机膜水珠微距",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "5ec02f0a3d991e1bdf2fd83154244f8030497df6b77701809ddb61007deea875"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ac7b4d9000000001802bf66"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "手机膜水珠微距-实拍原声6-v1-20261005.mp4",
+          "bytes": 23468981,
+          "logical_path": "VIDEO_PROJECTS_ROOT/手机膜水珠微距/06-成品/手机膜水珠微距-实拍原声6-v1-20261005.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "手机膜水珠微距-实拍原声6-v2-20261005.mp4",
+          "bytes": 22697243,
+          "logical_path": "VIDEO_PROJECTS_ROOT/手机膜水珠微距/06-成品/手机膜水珠微距-实拍原声6-v2-20261005.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-1e0a845b7f25",
+      "name": "捷径陷阱-布雷斯悖论-v1",
+      "logical_root": "VIDEO_PROJECTS_ROOT/捷径陷阱-布雷斯悖论-v1",
+      "status_sources": [
+        {
+          "file": "PROJECT-STATE.md",
+          "sha256": "cb97b4bae293931e182233fd19297ea3550a714c3ee537c7ad6eeeb9da80186a"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "identity_pending",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-fbcddc83794b",
+      "name": "捷径陷阱-布雷斯悖论-v2",
+      "logical_root": "VIDEO_PROJECTS_ROOT/捷径陷阱-布雷斯悖论-v2",
+      "status_sources": [
+        {
+          "file": "PROJECT-STATE.md",
+          "sha256": "993faaf733a02f6a6a7245ed17744cdc12fade0880c653a9d0a1833fe20d929d"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "identity_pending",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-a925d28ce8f0",
+      "name": "放气后能收起来的充气电动车 poimo",
+      "logical_root": "VIDEO_PROJECTS_ROOT/放气后能收起来的充气电动车 poimo",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "3ee8acf47cfcec984312f0fe9b17186923e761f6db3c22a923f205f813e25192"
+        }
+      ],
+      "declared_state": {
+        "status": "rough_cut_pending_review",
+        "current_version": null,
+        "qa": {
+          "decode": "passed",
+          "metadata": "passed",
+          "linked_assets": "passed",
+          "black_intervals": [],
+          "source_overlaps": [
+            [
+              "004",
+              "012"
+            ],
+            [
+              "006",
+              "009"
+            ]
+          ],
+          "manual_listening": "pending",
+          "continuous_visual_review": "pending",
+          "jianying_ui": "pending"
+        },
+        "next": null
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "放气后能收起来的充气电动车 poimo-实录剪辑-v1-20260920.mp4",
+          "bytes": 21149284,
+          "logical_path": "VIDEO_PROJECTS_ROOT/放气后能收起来的充气电动车 poimo/06-成品/放气后能收起来的充气电动车 poimo-实录剪辑-v1-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-b1ae4a5398c3",
+      "name": "旋转LED风扇屏",
+      "logical_root": "VIDEO_PROJECTS_ROOT/旋转LED风扇屏",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "c8270e8b7af0fa58066e0e83ca7ed88e8d7c2e99b750b775a3e01bce0696b572"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6abf2bd7000000001a027c3a"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "旋转LED风扇屏-实录剪辑-v1-20260928.mp4",
+          "bytes": 36975475,
+          "logical_path": "VIDEO_PROJECTS_ROOT/旋转LED风扇屏/06-成品/旋转LED风扇屏-实录剪辑-v1-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-8cb23a01515b",
+      "name": "用木头做的钉子 LIGNOLOC",
+      "logical_root": "VIDEO_PROJECTS_ROOT/用木头做的钉子 LIGNOLOC",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "373d62ef56c988cd048f7b69452ad6f61ae6d9de12ed3890d16afa7d4e7af315"
+        }
+      ],
+      "declared_state": {
+        "status": "rough_cut_pending_review",
+        "current_version": null,
+        "qa": {
+          "decode": "passed",
+          "metadata": "passed",
+          "linked_assets": "passed",
+          "black_intervals": [],
+          "source_overlaps": [
+            [
+              "001",
+              "003"
+            ],
+            [
+              "001",
+              "009"
+            ],
+            [
+              "003",
+              "009"
+            ]
+          ],
+          "manual_listening": "pending",
+          "continuous_visual_review": "pending",
+          "jianying_ui": "pending"
+        },
+        "next": null
+      },
+      "mapped_analysis_note_ids": [
+        "6ab2b1c300000000020106a5"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "用木头做的钉子 LIGNOLOC-实录剪辑-v1-20260920.mp4",
+          "bytes": 24774249,
+          "logical_path": "VIDEO_PROJECTS_ROOT/用木头做的钉子 LIGNOLOC/06-成品/用木头做的钉子 LIGNOLOC-实录剪辑-v1-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-8979cf50c1f3",
+      "name": "糖盒里的微型电脑",
+      "logical_root": "VIDEO_PROJECTS_ROOT/糖盒里的微型电脑",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "82d3232f36e1044f6196746b5f122719a09fe4b53c2947921913a5ecf4e2230e"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6abf2ba3000000001c02f003"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "糖盒里的微型电脑-实录剪辑-v1-20260928.mp4",
+          "bytes": 21365923,
+          "logical_path": "VIDEO_PROJECTS_ROOT/糖盒里的微型电脑/06-成品/糖盒里的微型电脑-实录剪辑-v1-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-e85ae6f8b197",
+      "name": "翼展二十四厘米的机械蜜蜂 BionicBee",
+      "logical_root": "VIDEO_PROJECTS_ROOT/翼展二十四厘米的机械蜜蜂 BionicBee",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "b5bb633412d9fe88f4f9b8be602b47e7e3364c906577713ad403eff86b0cba5a"
+        }
+      ],
+      "declared_state": {
+        "status": "rough_cut_pending_review",
+        "current_version": null,
+        "qa": {
+          "decode": "passed",
+          "metadata": "passed",
+          "linked_assets": "passed",
+          "black_intervals": [],
+          "source_overlaps": [],
+          "manual_listening": "pending",
+          "continuous_visual_review": "pending",
+          "jianying_ui": "pending"
+        },
+        "next": null
+      },
+      "mapped_analysis_note_ids": [
+        "6ab939c20000000018014cc4"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "翼展二十四厘米的机械蜜蜂 BionicBee-实录剪辑-v1-20260920.mp4",
+          "bytes": 14690360,
+          "logical_path": "VIDEO_PROJECTS_ROOT/翼展二十四厘米的机械蜜蜂 BionicBee/06-成品/翼展二十四厘米的机械蜜蜂 BionicBee-实录剪辑-v1-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "翼展二十四厘米的机械蜜蜂 BionicBee-实录剪辑-v1.1-去黑闪-20260920.mp4",
+          "bytes": 14813088,
+          "logical_path": "VIDEO_PROJECTS_ROOT/翼展二十四厘米的机械蜜蜂 BionicBee/06-成品/翼展二十四厘米的机械蜜蜂 BionicBee-实录剪辑-v1.1-去黑闪-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-4b0cd132e1bf",
+      "name": "老手机奇形设计 Nokia7280",
+      "logical_root": "VIDEO_PROJECTS_ROOT/老手机奇形设计 Nokia7280",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ab939eb000000001b01d8ff"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "老手机奇形设计 Nokia7280-实录竖屏-v1-20260922.mp4",
+          "bytes": 25758699,
+          "logical_path": "VIDEO_PROJECTS_ROOT/老手机奇形设计 Nokia7280/06-成品/老手机奇形设计 Nokia7280-实录竖屏-v1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "老手机奇形设计 Nokia7280-实录竖屏-v1.1-20260922.mp4",
+          "bytes": 25758699,
+          "logical_path": "VIDEO_PROJECTS_ROOT/老手机奇形设计 Nokia7280/06-成品/老手机奇形设计 Nokia7280-实录竖屏-v1.1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "老手机奇形设计 Nokia7280-实录竖屏-v1.2-20260922.mp4",
+          "bytes": 25753041,
+          "logical_path": "VIDEO_PROJECTS_ROOT/老手机奇形设计 Nokia7280/06-成品/老手机奇形设计 Nokia7280-实录竖屏-v1.2-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "老手机奇形设计 Nokia7280-无Logo-v1.2-20260928.mp4",
+          "bytes": 30102178,
+          "logical_path": "VIDEO_PROJECTS_ROOT/老手机奇形设计 Nokia7280/06-成品/老手机奇形设计 Nokia7280-无Logo-v1.2-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 4,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-4a7ebd4be5de",
+      "name": "能调“咸淡”的电子勺子",
+      "logical_root": "VIDEO_PROJECTS_ROOT/能调“咸淡”的电子勺子",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-35a682c90046",
+      "name": "能遥控手机的解压玩具 CheerPlay",
+      "logical_root": "VIDEO_PROJECTS_ROOT/能遥控手机的解压玩具 CheerPlay",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "4d69ede3c2fea40f3d565e6926d6a24d19e4b79d55e8fe39d55544724e7f19d2"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6abf2bc3000000001802a3b5"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "能遥控手机的解压玩具 CheerPlay-实录剪辑-v1-20260928.mp4",
+          "bytes": 25186078,
+          "logical_path": "VIDEO_PROJECTS_ROOT/能遥控手机的解压玩具 CheerPlay/06-成品/能遥控手机的解压玩具 CheerPlay-实录剪辑-v1-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-19e52cd0561f",
+      "name": "荣耀Robot Phone",
+      "logical_root": "VIDEO_PROJECTS_ROOT/荣耀Robot Phone",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "8101d4a50b12bb242cabda5328b4e854b42aeb4fcf3cc637e4f3b680135da87a"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "荣耀Robot Phone-实拍对位修正版-v2-20261020.mp4",
+          "bytes": 12738145,
+          "logical_path": "VIDEO_PROJECTS_ROOT/荣耀Robot Phone/06-成品/荣耀Robot Phone-实拍对位修正版-v2-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "荣耀Robot Phone-实拍成片-v1-20261020.mp4",
+          "bytes": 13733632,
+          "logical_path": "VIDEO_PROJECTS_ROOT/荣耀Robot Phone/06-成品/荣耀Robot Phone-实拍成片-v1-20261020.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-add8e2a54e2f",
+      "name": "菜鸟ZeeBot",
+      "logical_root": "VIDEO_PROJECTS_ROOT/菜鸟ZeeBot",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "dc9bd344e639d309862b583d5bcddc09094ae59e5254df4536aaa3805e59f80d"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-634f794170dd",
+      "name": "螺旋机械触手SpiRobs",
+      "logical_root": "VIDEO_PROJECTS_ROOT/螺旋机械触手SpiRobs",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "39022d77a85a5da58717b48511d4df19d3fc7630cf2db35a174b27d9d232364a"
+        }
+      ],
+      "declared_state": {
+        "status": "rendered_review_ready",
+        "current_version": "实拍剪辑-v1-20261103",
+        "qa": {
+          "continuous_viewing": "not_checked",
+          "listening": "not_checked",
+          "jianying_ui": "not_checked"
+        },
+        "next": "完整听审、连续观看与剪映界面打开验收尚未完成；封面和上传另按用户指令"
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "螺旋机械触手SpiRobs-实拍剪辑-v1-20261103.mp4",
+          "bytes": 15599491,
+          "logical_path": "VIDEO_PROJECTS_ROOT/螺旋机械触手SpiRobs/06-成品/螺旋机械触手SpiRobs-实拍剪辑-v1-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "螺旋机械触手SpiRobs-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "bytes": 15599975,
+          "logical_path": "VIDEO_PROJECTS_ROOT/螺旋机械触手SpiRobs/06-成品/螺旋机械触手SpiRobs-实拍剪辑-v2-BGM增强-20261103.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 2,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-928af97ab98e",
+      "name": "贴在后背的个人冷暖设备 REON POCKET PRO",
+      "logical_root": "VIDEO_PROJECTS_ROOT/贴在后背的个人冷暖设备 REON POCKET PRO",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-1a0bd225f169",
+      "name": "走半天还在原地的地板 HoloTile",
+      "logical_root": "VIDEO_PROJECTS_ROOT/走半天还在原地的地板 HoloTile",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-076fc63280a5",
+      "name": "走路时给你加速的电动鞋 Moonwalkers",
+      "logical_root": "VIDEO_PROJECTS_ROOT/走路时给你加速的电动鞋 Moonwalkers",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "1f8cc65a0647b0812e0db032f72dfa87dc68adec168757928ae96c1139b11969"
+        }
+      ],
+      "declared_state": {
+        "status": "rough_cut_pending_review",
+        "current_version": null,
+        "qa": {
+          "decode": "passed",
+          "metadata": "passed",
+          "linked_assets": "passed",
+          "black_intervals": [],
+          "source_overlaps": [
+            [
+              "001",
+              "010"
+            ]
+          ],
+          "manual_listening": "pending",
+          "continuous_visual_review": "pending",
+          "jianying_ui": "pending"
+        },
+        "next": null
+      },
+      "mapped_analysis_note_ids": [
+        "6ab2b1e100000000180190c4"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "走路时给你加速的电动鞋 Moonwalkers-实录剪辑-v1-20260920.mp4",
+          "bytes": 24130297,
+          "logical_path": "VIDEO_PROJECTS_ROOT/走路时给你加速的电动鞋 Moonwalkers/06-成品/走路时给你加速的电动鞋 Moonwalkers-实录剪辑-v1-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-81c78e8ba70d",
+      "name": "起飞之前先蹬一脚的无人机 RAVEN",
+      "logical_root": "VIDEO_PROJECTS_ROOT/起飞之前先蹬一脚的无人机 RAVEN",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-ba8ed4a03a98",
+      "name": "超声波菜刀 C200",
+      "logical_root": "VIDEO_PROJECTS_ROOT/超声波菜刀 C200",
+      "status_sources": [],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ab93a8f000000001b032079"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "超声波菜刀 C200-实录竖屏-v1-20260922.mp4",
+          "bytes": 22488640,
+          "logical_path": "VIDEO_PROJECTS_ROOT/超声波菜刀 C200/06-成品/超声波菜刀 C200-实录竖屏-v1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "超声波菜刀 C200-实录竖屏-v1.1-20260922.mp4",
+          "bytes": 22488640,
+          "logical_path": "VIDEO_PROJECTS_ROOT/超声波菜刀 C200/06-成品/超声波菜刀 C200-实录竖屏-v1.1-20260922.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        },
+        {
+          "filename": "超声波菜刀 C200-无Logo-v1.1-20260928.mp4",
+          "bytes": 25721850,
+          "logical_path": "VIDEO_PROJECTS_ROOT/超声波菜刀 C200/06-成品/超声波菜刀 C200-无Logo-v1.1-20260928.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 3,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-158b4496a8df",
+      "name": "载人飞行滑板",
+      "logical_root": "VIDEO_PROJECTS_ROOT/载人飞行滑板",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "beba80cb619923671c45619c2e842714c46fadf595e8500c8bb9acd0f4b8d476"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [],
+      "observed_mp4_count": 0,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-223737ebb572",
+      "name": "遇到台阶会改变形状的轮子",
+      "logical_root": "VIDEO_PROJECTS_ROOT/遇到台阶会改变形状的轮子",
+      "status_sources": [
+        {
+          "file": "project.json",
+          "sha256": "fd094f665c279343f1e5f2f0afacd74686916d23fcfb3e21ad0fc2a87c663af5"
+        }
+      ],
+      "declared_state": {
+        "status": "rough_cut_pending_review",
+        "current_version": null,
+        "qa": {
+          "decode": "passed",
+          "metadata": "passed",
+          "linked_assets": "passed",
+          "black_intervals": [],
+          "source_overlaps": [],
+          "manual_listening": "pending",
+          "continuous_visual_review": "pending",
+          "jianying_ui": "pending"
+        },
+        "next": null
+      },
+      "mapped_analysis_note_ids": [],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "遇到台阶会改变形状的轮子-实录剪辑-v1-20260920.mp4",
+          "bytes": 23669766,
+          "logical_path": "VIDEO_PROJECTS_ROOT/遇到台阶会改变形状的轮子/06-成品/遇到台阶会改变形状的轮子-实录剪辑-v1-20260920.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    },
+    {
+      "project_id": "project-31872026ddec",
+      "name": "酒店套娃送水机器人",
+      "logical_root": "VIDEO_PROJECTS_ROOT/酒店套娃送水机器人",
+      "status_sources": [
+        {
+          "file": "项目状态.md",
+          "sha256": "4c9d68b54c47c24d0d910a3784ddd82d82c28b78de8cbb8d9615e4a8aba9067c"
+        }
+      ],
+      "declared_state": {},
+      "mapped_analysis_note_ids": [
+        "6ac7b52c0000000015001976"
+      ],
+      "mapping_scope": "local analysis/script/title linkage, not byte-identical local/published version assertion",
+      "rendered_mp4_files": [
+        {
+          "filename": "酒店套娃送水机器人-实拍原声6-v1-20261005.mp4",
+          "bytes": 35054263,
+          "logical_path": "VIDEO_PROJECTS_ROOT/酒店套娃送水机器人/06-成品/酒店套娃送水机器人-实拍原声6-v1-20261005.mp4",
+          "sha256": null,
+          "state": "exists; not independently reviewed by this export"
+        }
+      ],
+      "observed_mp4_count": 1,
+      "scope_hint": "technology_workspace",
+      "source_freshness": "local declaration may predate later renders/uploads; do not treat as current remote draft status"
+    }
+  ]
+}

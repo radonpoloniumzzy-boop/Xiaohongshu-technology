@@ -1,0 +1,234 @@
+{
+  "export_date": "2026-11-09",
+  "scope": "Explicit allowlist exports only, source hashes identify private originals; raw network captures not included",
+  "sources": [
+    {
+      "source_id": "全量单篇分析.json",
+      "logical_location": "ANALYTICS_ROOT/全量单篇分析.json",
+      "sha256": "e55563efe2c7dd8bc71bf77d4a3d307bc33582efe93363763da4a8ca10844222",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "笔记全量41篇.json",
+      "logical_location": "ANALYTICS_ROOT/笔记全量41篇.json",
+      "sha256": "13cb4d40fce5dd4513756b81b392c92ee9b1e720901e0f9578510a8a84cef2c1",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "账号30日逐日.json",
+      "logical_location": "ANALYTICS_ROOT/账号30日逐日.json",
+      "sha256": "11dd0b16477a04dedfe6a57a404495f1a10d9c2d4b0bfba7d6cfc0c9337f1bfd",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "诊断计算.json",
+      "logical_location": "ANALYTICS_ROOT/账号全链路诊断-20261108/诊断计算.json",
+      "sha256": "5288b970b762b0c99904fc9c1edff7d024f8cde86c971f29a5a048137cb2aa51",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "单篇观众画像.json",
+      "logical_location": "ANALYTICS_ROOT/单篇观众画像.json",
+      "sha256": "1b843a996e8ee6faea2ab55b67d2fd71519e2b737e7013b2bc728d84f50327fe",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "单篇来源分析.json",
+      "logical_location": "ANALYTICS_ROOT/单篇来源分析.json",
+      "sha256": "47d914d1f5eb4409c2e5af79f0c0cb110b2974177951d2b3f3087c8d2782fbfc",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "平台同类诊断.json",
+      "logical_location": "ANALYTICS_ROOT/平台同类诊断.json",
+      "sha256": "7c31254a79e0d3ed354bd9114ed423fa58a6d16946ca63d45a829a549aff679d",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "留存曲线分析.json",
+      "logical_location": "ANALYTICS_ROOT/留存曲线分析.json",
+      "sha256": "a8be98d6e66efc2253b2aa14ae4b30bbe8994a69ee7efc608bfd5e7310b7dace",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "封面PK分析.json",
+      "logical_location": "ANALYTICS_ROOT/封面PK分析.json",
+      "sha256": "dcdcc6c6e8847dd5fc70cd1077b7178f50de8b25f556990d56c6212f427f2883",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "23篇时间口径审计.json",
+      "logical_location": "ANALYTICS_ROOT/逐篇拆解-23篇/苏弥时间审计/23篇时间口径审计.json",
+      "sha256": "8a126df84e67a410a96a58e9a466e7cf8a713428adb8e227d48e1540c7d9f0a0",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "整合审片结果.json",
+      "logical_location": "ANALYTICS_ROOT/逐篇拆解-23篇/整合审片结果.json",
+      "sha256": "d84272c156767489ae71a78f5d56540f7f892c1f9832eb71f487c2602cfd22d6",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "中后段同曲线辅助定位.json",
+      "logical_location": "ANALYTICS_ROOT/逐篇拆解-23篇/中后段同曲线辅助定位.json",
+      "sha256": "5a3e944dd32bb62944bd87fb60f705be32b419267dbf0d997cf93d3d25365806",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "当前封面事实核对.json",
+      "logical_location": "ANALYTICS_ROOT/逐篇拆解-23篇/当前封面事实核对.json",
+      "sha256": "3cf4abc5f9505491d44f49559506c3d1d35c53b9f746a036dd5f51cbc4874f2a",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "线上视频采集状态.json",
+      "logical_location": "ANALYTICS_ROOT/逐篇拆解-23篇/线上视频采集状态.json",
+      "sha256": "4f25f28cbd737d7b8e5254ddffebb00e0d152e02d6b8ada234b28a441906e61f",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "23篇本地脚本字幕映射-v1.json",
+      "logical_location": "ANALYTICS_ROOT/逐篇拆解-23篇/咸咸脚本索引/23篇本地脚本字幕映射-v1.json",
+      "sha256": "0cb4b71d10b0ead6a5d44dbb63b3fa947a74ec03291523e215004ac39637b761",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/Beepy掌上Linux原型/project.json",
+      "sha256": "4bef63e4535e2cd72c4aed5d3ad0f7560da255f4ab4a52be8d098a3eb9016080",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/LoonaDeskmate桌面搭子/project.json",
+      "sha256": "920eb404eb51290f72006f441bf93141658c064f4c899cd68c8f94a6c40b3b80",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/OriHime真人远程咖啡馆/project.json",
+      "sha256": "f05c3c1c4176e7aa2b83f3678f3588b5573a446eb70caaaec05f6dfdd19dae1b",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/PuraXView阔直板/project.json",
+      "sha256": "a33edfc8903da1114db2b41c8810b6603c1b9967f9e3ff61b018647ad8388f87",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/三面拉链/project.json",
+      "sha256": "9b7558ee28767cbf166064106ea82dbf3edf3a2c33e1429b149e9b13a3db59e2",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/二白陪伴机器人/project.json",
+      "sha256": "612fc74a774f6139bfa3da43ab20c8f7cb67ffde6d3e5a2091d2b32897180300",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/会离开机械臂、自己爬过去的手/project.json",
+      "sha256": "1415fa5a78e8097d522ecf99e96d39c7f96fc4df5b500861059ff161ee143077",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/太阳能烤箱/project.json",
+      "sha256": "6ca31489a4ed82bcee658d8533b0e65bf56d1b92faecffa07c6a77a7d78b8ede",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/宇树H2-X动作演示/project.json",
+      "sha256": "e680baab152170dc9620256f6bb3d164b8fbcb9bd2dd872bde61298e890eb848",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/放气后能收起来的充气电动车 poimo/project.json",
+      "sha256": "3ee8acf47cfcec984312f0fe9b17186923e761f6db3c22a923f205f813e25192",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/用木头做的钉子 LIGNOLOC/project.json",
+      "sha256": "373d62ef56c988cd048f7b69452ad6f61ae6d9de12ed3890d16afa7d4e7af315",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/翼展二十四厘米的机械蜜蜂 BionicBee/project.json",
+      "sha256": "b5bb633412d9fe88f4f9b8be602b47e7e3364c906577713ad403eff86b0cba5a",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/螺旋机械触手SpiRobs/project.json",
+      "sha256": "39022d77a85a5da58717b48511d4df19d3fc7630cf2db35a174b27d9d232364a",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/走路时给你加速的电动鞋 Moonwalkers/project.json",
+      "sha256": "1f8cc65a0647b0812e0db032f72dfa87dc68adec168757928ae96c1139b11969",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "project.json",
+      "logical_location": "VIDEO_PROJECTS_ROOT/遇到台阶会改变形状的轮子/project.json",
+      "sha256": "fd094f665c279343f1e5f2f0afacd74686916d23fcfb3e21ad0fc2a87c663af5",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "七篇成片交付汇总.json",
+      "logical_location": "RESEARCH_ROOT/七题预筛-20261027/七篇视频制作-v2-BGM增强-20261103/七篇成片交付汇总.json",
+      "sha256": "3be31a5a520d743b3bf7cd426465cb0c9231407ae56d60da31529c9f18ecf08b",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "七题四封面发布包.json",
+      "logical_location": "RESEARCH_ROOT/七题预筛-20261027/七篇草稿发布包-20261103/七题四封面发布包.json",
+      "sha256": "394ef7edc013376d5ff27d220c7d9341d7a73d3918e414283ef296f9e31bfff9",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "素材总清单.json",
+      "logical_location": "RESEARCH_ROOT/五题预筛-20261108/素材采集-v1/素材总清单.json",
+      "sha256": "5a80802b2c75c5ee9064154351390acd7d42a066e66a233f99a3a970f0789df4",
+      "role": "local source, not uploaded raw"
+    },
+    {
+      "source_id": "当前账号诊断-增长来源画像内容互动.md",
+      "logical_location": "LOCAL_ONLY_PATH",
+      "sha256": "517871ff0cc40b4093b9e38b2eafa9c03c6d171c5a191e26ccd200a37a14cea0",
+      "role": "report, links adapted and local paths scrubbed"
+    },
+    {
+      "source_id": "23篇逐篇诊断-20261108.md",
+      "logical_location": "LOCAL_ONLY_PATH",
+      "sha256": "35f6d33fc552a2a331916a8cd66d02f3a1ffc5e2ac6619c8bee184d7b3353b68",
+      "role": "report, links adapted and local paths scrubbed"
+    },
+    {
+      "source_id": "复核.md",
+      "logical_location": "LOCAL_ONLY_PATH",
+      "sha256": "9aa840a1bc22bf3942306c597700260ccdb73f316c4f472264bc0b15047ed177",
+      "role": "report, links adapted and local paths scrubbed"
+    },
+    {
+      "source_id": "复核.md",
+      "logical_location": "LOCAL_ONLY_PATH",
+      "sha256": "7d4627a8159c4efe1028b432c2f7ca3a09870028713048ef7d825b10f9c8828b",
+      "role": "report, links adapted and local paths scrubbed"
+    },
+    {
+      "source_id": "复核.md",
+      "logical_location": "LOCAL_ONLY_PATH",
+      "sha256": "e3b8bb57d9328a41d677a609729d5a5fc454314a053d9786df841dd245dff8bd",
+      "role": "report, links adapted and local paths scrubbed"
+    }
+  ]
+}

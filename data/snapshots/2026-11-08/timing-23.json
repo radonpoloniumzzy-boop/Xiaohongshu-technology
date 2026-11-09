@@ -1,0 +1,3304 @@
+{
+  "summary": {
+    "audited_rows": 23,
+    "eligible_unique_ids": 23,
+    "cohort_excluded_rows": 18,
+    "all_native_peer_pairs_match": true,
+    "D0_D6_additive_count_windows_available": 22,
+    "D1_D7_additive_count_windows_available": 22,
+    "exact_first_168h_available": 0,
+    "core_diagnosis_clock_mismatches": 21,
+    "core_source_clock_mismatches": 21,
+    "core_curve_clock_mismatches": 23,
+    "module_cutoff_before_publication_rows": 0,
+    "module_cutoff_after_capture_reference_rows": 0,
+    "flag_counts": {
+      "MODULE_CLOCKS_ASYNCHRONOUS": 23,
+      "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED": 22,
+      "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED": 15,
+      "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL": 22,
+      "DAY_SERIES_HAS_MISSING_DATES": 2,
+      "FIRST_SEVEN_CALENDAR_DAY_COUNT_WINDOW_UNAVAILABLE": 1
+    },
+    "native_retention_video_url_bindings_verified": 23
+  },
+  "records": [
+    {
+      "index": 1,
+      "id": "6ad6dccf0000000028039ce9",
+      "title": "扫地机能建地图，为啥过不去门槛？",
+      "publication": "2026-10-27T08:16:01+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 11.655544,
+          "age_completed_24h": 11,
+          "calendar_day_offset": 12,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 11.655544,
+          "age_completed_24h": 11,
+          "calendar_day_offset": 12,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 11.655544,
+          "age_completed_24h": 11,
+          "calendar_day_offset": 12,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 12.072211,
+          "age_completed_24h": 12,
+          "calendar_day_offset": 12,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 11.655544,
+          "age_completed_24h": 11,
+          "calendar_day_offset": 12,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 11.655544,
+          "age_completed_24h": 11,
+          "calendar_day_offset": 12,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-29T23:00:00+08:00",
+          "age_days_elapsed": 2.613877,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-10-31",
+            "2026-11-01",
+            "2026-11-02"
+          ],
+          "post_publication_observation_hours": 159.733056,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 117,
+            "impressions": 590,
+            "likes": 3,
+            "comments": 0,
+            "saves": 3,
+            "shares": 1,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-10-31",
+            "2026-11-01",
+            "2026-11-02",
+            "2026-11-03"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 82,
+            "impressions": 478,
+            "likes": 2,
+            "comments": 0,
+            "saves": 1,
+            "shares": 1,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 2,
+      "id": "6ad6dcab000000002a024aef",
+      "title": "机器狗装上轮子，连楼梯也能爬",
+      "publication": "2026-10-25T08:15:01+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 13.656238,
+          "age_completed_24h": 13,
+          "calendar_day_offset": 14,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 13.656238,
+          "age_completed_24h": 13,
+          "calendar_day_offset": 14,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 13.656238,
+          "age_completed_24h": 13,
+          "calendar_day_offset": 14,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-10-28T01:00:00+08:00",
+          "age_days_elapsed": 2.697905,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 3,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 13.656238,
+          "age_completed_24h": 13,
+          "calendar_day_offset": 14,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 13.656238,
+          "age_completed_24h": 13,
+          "calendar_day_offset": 14,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-27T00:00:00+08:00",
+          "age_days_elapsed": 1.656238,
+          "age_completed_24h": 1,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-25",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-10-31"
+          ],
+          "post_publication_observation_hours": 159.749722,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 354,
+            "impressions": 1164,
+            "likes": 33,
+            "comments": 3,
+            "saves": 29,
+            "shares": 0,
+            "followers": 19,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-10-31",
+            "2026-11-01"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 37,
+            "impressions": 433,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 3,
+      "id": "6ac7b56d00000000180280bf",
+      "title": "这台云台相机，镜头拆了还能看画面",
+      "publication": "2026-10-17T07:24:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 21.691667,
+          "age_completed_24h": 21,
+          "calendar_day_offset": 22,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-11-01T00:00:00+08:00",
+          "age_days_elapsed": 14.691667,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-11-01T00:00:00+08:00",
+          "age_days_elapsed": 14.691667,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-10-19T01:00:00+08:00",
+          "age_days_elapsed": 1.733333,
+          "age_completed_24h": 1,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-11-01T00:00:00+08:00",
+          "age_days_elapsed": 14.691667,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-11-01T00:00:00+08:00",
+          "age_days_elapsed": 14.691667,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-19T21:00:00+08:00",
+          "age_days_elapsed": 2.566667,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20",
+            "2026-10-21",
+            "2026-10-22",
+            "2026-10-23"
+          ],
+          "post_publication_observation_hours": 160.6,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 333,
+            "impressions": 1165,
+            "likes": 21,
+            "comments": 1,
+            "saves": 23,
+            "shares": 1,
+            "followers": 8,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 14
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20",
+            "2026-10-21",
+            "2026-10-22",
+            "2026-10-23",
+            "2026-10-24"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 19,
+            "impressions": 103,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "DAY_SERIES_HAS_MISSING_DATES",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 4,
+      "id": "6ac7b54c0000000002010713",
+      "title": "智能眼镜镜片透明，消息显示在哪？",
+      "publication": "2026-10-15T07:23:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 23.692361,
+          "age_completed_24h": 23,
+          "calendar_day_offset": 24,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-30T00:00:00+08:00",
+          "age_days_elapsed": 14.692361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-30T00:00:00+08:00",
+          "age_days_elapsed": 14.692361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-06T01:00:00+08:00",
+          "age_days_elapsed": 21.734028,
+          "age_completed_24h": 21,
+          "calendar_day_offset": 22,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-30T00:00:00+08:00",
+          "age_days_elapsed": 14.692361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-30T00:00:00+08:00",
+          "age_days_elapsed": 14.692361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-17T22:00:00+08:00",
+          "age_days_elapsed": 2.609028,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20",
+            "2026-10-21"
+          ],
+          "post_publication_observation_hours": 160.616667,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 178,
+            "impressions": 925,
+            "likes": 7,
+            "comments": 0,
+            "saves": 4,
+            "shares": 0,
+            "followers": 2,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 16
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-16",
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20",
+            "2026-10-21",
+            "2026-10-22"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 63,
+            "impressions": 643,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 1,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 6
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 5,
+      "id": "6ac7b52c0000000015001976",
+      "title": "酒店送水机器人，怎么是个套娃？",
+      "publication": "2026-10-13T07:23:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 25.692361,
+          "age_completed_24h": 25,
+          "calendar_day_offset": 26,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-28T00:00:00+08:00",
+          "age_days_elapsed": 14.692361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-28T00:00:00+08:00",
+          "age_days_elapsed": 14.692361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-10-18T01:00:00+08:00",
+          "age_days_elapsed": 4.734028,
+          "age_completed_24h": 4,
+          "calendar_day_offset": 5,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-28T00:00:00+08:00",
+          "age_days_elapsed": 14.692361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-28T00:00:00+08:00",
+          "age_days_elapsed": 14.692361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-15T20:00:00+08:00",
+          "age_days_elapsed": 2.525694,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19"
+          ],
+          "post_publication_observation_hours": 160.616667,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 197,
+            "impressions": 1290,
+            "likes": 12,
+            "comments": 0,
+            "saves": 11,
+            "shares": 0,
+            "followers": 13,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 57,
+            "impressions": 807,
+            "likes": 1,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 2,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 6,
+      "id": "6ac7b5020000000015012768",
+      "title": "CD比机器还大，露在外面也能播？",
+      "publication": "2026-10-11T07:22:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 27.693056,
+          "age_completed_24h": 27,
+          "calendar_day_offset": 28,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-26T00:00:00+08:00",
+          "age_days_elapsed": 14.693056,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-26T00:00:00+08:00",
+          "age_days_elapsed": 14.693056,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-10-13T01:00:00+08:00",
+          "age_days_elapsed": 1.734722,
+          "age_completed_24h": 1,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-26T00:00:00+08:00",
+          "age_days_elapsed": 14.693056,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-26T00:00:00+08:00",
+          "age_days_elapsed": 14.693056,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-13T20:00:00+08:00",
+          "age_days_elapsed": 2.526389,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-11",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-17"
+          ],
+          "post_publication_observation_hours": 160.633333,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 476,
+            "impressions": 1178,
+            "likes": 91,
+            "comments": 2,
+            "saves": 66,
+            "shares": 1,
+            "followers": 44,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-17",
+            "2026-10-18"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 20,
+            "impressions": 229,
+            "likes": 2,
+            "comments": 0,
+            "saves": 1,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 7,
+      "id": "6ac7b4d9000000001802bf66",
+      "title": "手机膜上的水珠，怎么长出小表情？",
+      "publication": "2026-10-09T07:21:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 29.69375,
+          "age_completed_24h": 29,
+          "calendar_day_offset": 30,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-24T00:00:00+08:00",
+          "age_days_elapsed": 14.69375,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-24T00:00:00+08:00",
+          "age_days_elapsed": 14.69375,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 30.110417,
+          "age_completed_24h": 30,
+          "calendar_day_offset": 30,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-24T00:00:00+08:00",
+          "age_days_elapsed": 14.69375,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-24T00:00:00+08:00",
+          "age_days_elapsed": 14.69375,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-11T22:00:00+08:00",
+          "age_days_elapsed": 2.610417,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ],
+          "post_publication_observation_hours": 160.65,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 261,
+            "impressions": 613,
+            "likes": 22,
+            "comments": 0,
+            "saves": 18,
+            "shares": 0,
+            "followers": 6,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 59,
+            "impressions": 209,
+            "likes": 6,
+            "comments": 0,
+            "saves": 3,
+            "shares": 0,
+            "followers": 2,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 8,
+      "id": "6abf2bd7000000001a027c3a",
+      "title": "风扇不吹风，开始给我放广告了",
+      "publication": "2026-10-08T07:59:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 30.667361,
+          "age_completed_24h": 30,
+          "calendar_day_offset": 31,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-23T00:00:00+08:00",
+          "age_days_elapsed": 14.667361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-23T00:00:00+08:00",
+          "age_days_elapsed": 14.667361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 31.084028,
+          "age_completed_24h": 31,
+          "calendar_day_offset": 31,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-23T00:00:00+08:00",
+          "age_days_elapsed": 14.667361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-23T00:00:00+08:00",
+          "age_days_elapsed": 14.667361,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-10T21:00:00+08:00",
+          "age_days_elapsed": 2.542361,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14"
+          ],
+          "post_publication_observation_hours": 160.016667,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 131,
+            "impressions": 386,
+            "likes": 11,
+            "comments": 0,
+            "saves": 4,
+            "shares": 0,
+            "followers": 6,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 10
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 20,
+            "impressions": 181,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 2,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 1
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 9,
+      "id": "6abf2bc3000000001802a3b5",
+      "title": "手里玩着玩具，手机已经刷上了",
+      "publication": "2026-10-07T07:58:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 31.668056,
+          "age_completed_24h": 31,
+          "calendar_day_offset": 32,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-22T00:00:00+08:00",
+          "age_days_elapsed": 14.668056,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-22T00:00:00+08:00",
+          "age_days_elapsed": 14.668056,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-10-07T19:00:00+08:00",
+          "age_days_elapsed": 0.459722,
+          "age_completed_24h": 0,
+          "calendar_day_offset": 0,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-22T00:00:00+08:00",
+          "age_days_elapsed": 14.668056,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-22T00:00:00+08:00",
+          "age_days_elapsed": 14.668056,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-10T02:00:00+08:00",
+          "age_days_elapsed": 2.751389,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 3,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12",
+            "2026-10-13"
+          ],
+          "post_publication_observation_hours": 160.033333,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 538,
+            "impressions": 1160,
+            "likes": 61,
+            "comments": 0,
+            "saves": 57,
+            "shares": 8,
+            "followers": 18,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 15
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 20,
+            "impressions": 116,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 1
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 10,
+      "id": "6abf2bb6000000000200f05c",
+      "title": "给机器鸭装上轮子，路子一下野了",
+      "publication": "2026-10-06T08:00:34+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 32.666273,
+          "age_completed_24h": 32,
+          "calendar_day_offset": 33,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-21T00:00:00+08:00",
+          "age_days_elapsed": 14.666273,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-21T00:00:00+08:00",
+          "age_days_elapsed": 14.666273,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 33.08294,
+          "age_completed_24h": 33,
+          "calendar_day_offset": 33,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-21T00:00:00+08:00",
+          "age_days_elapsed": 14.666273,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-21T00:00:00+08:00",
+          "age_days_elapsed": 14.666273,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-09T05:00:00+08:00",
+          "age_days_elapsed": 2.874606,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 3,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12"
+          ],
+          "post_publication_observation_hours": 159.990556,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 358,
+            "impressions": 695,
+            "likes": 38,
+            "comments": 0,
+            "saves": 24,
+            "shares": 1,
+            "followers": 14,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 11
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12",
+            "2026-10-13"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 35,
+            "impressions": 290,
+            "likes": 1,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 4
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 11,
+      "id": "6abf2ba3000000001c02f003",
+      "title": "糖吃完了，盒子居然还能开机",
+      "publication": "2026-10-05T08:00:38+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 33.666227,
+          "age_completed_24h": 33,
+          "calendar_day_offset": 34,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-20T00:00:00+08:00",
+          "age_days_elapsed": 14.666227,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-20T00:00:00+08:00",
+          "age_days_elapsed": 14.666227,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 34.082894,
+          "age_completed_24h": 34,
+          "calendar_day_offset": 34,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-20T00:00:00+08:00",
+          "age_days_elapsed": 14.666227,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-20T00:00:00+08:00",
+          "age_days_elapsed": 14.666227,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-08T07:00:00+08:00",
+          "age_days_elapsed": 2.957894,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 3,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11"
+          ],
+          "post_publication_observation_hours": 159.989444,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 8095,
+            "impressions": 37851,
+            "likes": 276,
+            "comments": 11,
+            "saves": 215,
+            "shares": 8,
+            "followers": 104,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 1332
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 6659,
+            "impressions": 36087,
+            "likes": 172,
+            "comments": 4,
+            "saves": 127,
+            "shares": 6,
+            "followers": 73,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 1101
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED"
+      ]
+    },
+    {
+      "index": 12,
+      "id": "6abf2b76000000001b033e9b",
+      "title": "别人帮你磨皮，它偏要拍明白",
+      "publication": "2026-10-04T08:00:40+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 34.666204,
+          "age_completed_24h": 34,
+          "calendar_day_offset": 35,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-19T00:00:00+08:00",
+          "age_days_elapsed": 14.666204,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-19T00:00:00+08:00",
+          "age_days_elapsed": 14.666204,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 35.08287,
+          "age_completed_24h": 35,
+          "calendar_day_offset": 35,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-19T00:00:00+08:00",
+          "age_days_elapsed": 14.666204,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-19T00:00:00+08:00",
+          "age_days_elapsed": 14.666204,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-06T14:00:00+08:00",
+          "age_days_elapsed": 2.249537,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10"
+          ],
+          "post_publication_observation_hours": 159.988889,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 139,
+            "impressions": 405,
+            "likes": 11,
+            "comments": 0,
+            "saves": 6,
+            "shares": 0,
+            "followers": 8,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 2
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 26,
+            "impressions": 166,
+            "likes": 1,
+            "comments": 0,
+            "saves": 1,
+            "shares": 0,
+            "followers": 1,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 1
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 13,
+      "id": "6ab93a8f000000001b032079",
+      "title": "进厨房先问：菜刀充电了吗？",
+      "publication": "2026-10-03T08:00:35+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 35.666262,
+          "age_completed_24h": 35,
+          "calendar_day_offset": 36,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-18T00:00:00+08:00",
+          "age_days_elapsed": 14.666262,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-18T00:00:00+08:00",
+          "age_days_elapsed": 14.666262,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 36.082928,
+          "age_completed_24h": 36,
+          "calendar_day_offset": 36,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-18T00:00:00+08:00",
+          "age_days_elapsed": 14.666262,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-18T00:00:00+08:00",
+          "age_days_elapsed": 14.666262,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-06T07:00:00+08:00",
+          "age_days_elapsed": 2.957928,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 3,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-03",
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09"
+          ],
+          "post_publication_observation_hours": 159.990278,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 204,
+            "impressions": 804,
+            "likes": 21,
+            "comments": 0,
+            "saves": 19,
+            "shares": 5,
+            "followers": 10,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 63
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 75,
+            "impressions": 549,
+            "likes": 3,
+            "comments": 0,
+            "saves": 2,
+            "shares": 2,
+            "followers": 1,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 22
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 14,
+      "id": "6ab93a7c000000001a030f02",
+      "title": "跑姿扭扭捏捏，成绩一点没客气",
+      "publication": "2026-10-02T08:00:36+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 36.66625,
+          "age_completed_24h": 36,
+          "calendar_day_offset": 37,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-17T00:00:00+08:00",
+          "age_days_elapsed": 14.66625,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-17T00:00:00+08:00",
+          "age_days_elapsed": 14.66625,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 37.082917,
+          "age_completed_24h": 37,
+          "calendar_day_offset": 37,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-17T00:00:00+08:00",
+          "age_days_elapsed": 14.66625,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-17T00:00:00+08:00",
+          "age_days_elapsed": 14.66625,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-05T07:00:00+08:00",
+          "age_days_elapsed": 2.957917,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 3,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-02",
+            "2026-10-03",
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08"
+          ],
+          "post_publication_observation_hours": 159.99,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 179,
+            "impressions": 1015,
+            "likes": 13,
+            "comments": 0,
+            "saves": 5,
+            "shares": 2,
+            "followers": 4,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 35
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-03",
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 35,
+            "impressions": 548,
+            "likes": 3,
+            "comments": 0,
+            "saves": 0,
+            "shares": 1,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 10
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 15,
+      "id": "6ab939eb000000001b01d8ff",
+      "title": "你问什么色号，我说手机号",
+      "publication": "2026-10-01T08:01:02+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 37.665949,
+          "age_completed_24h": 37,
+          "calendar_day_offset": 38,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-16T00:00:00+08:00",
+          "age_days_elapsed": 14.665949,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-16T00:00:00+08:00",
+          "age_days_elapsed": 14.665949,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T09:00:00+08:00",
+          "age_days_elapsed": 38.040949,
+          "age_completed_24h": 38,
+          "calendar_day_offset": 38,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-16T00:00:00+08:00",
+          "age_days_elapsed": 14.665949,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-16T00:00:00+08:00",
+          "age_days_elapsed": 14.665949,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-04T04:00:00+08:00",
+          "age_days_elapsed": 2.832616,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 3,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-03",
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07"
+          ],
+          "post_publication_observation_hours": 159.982778,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 401,
+            "impressions": 1578,
+            "likes": 36,
+            "comments": 0,
+            "saves": 14,
+            "shares": 0,
+            "followers": 20,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 27
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-02",
+            "2026-10-03",
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 58,
+            "impressions": 930,
+            "likes": 2,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 1,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 7
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 16,
+      "id": "6ab939c20000000018014cc4",
+      "title": "这只蜜蜂不采蜜，先负责飞起来",
+      "publication": "2026-09-30T07:47:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 38.675694,
+          "age_completed_24h": 38,
+          "calendar_day_offset": 39,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-15T00:00:00+08:00",
+          "age_days_elapsed": 14.675694,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-15T00:00:00+08:00",
+          "age_days_elapsed": 14.675694,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 39.092361,
+          "age_completed_24h": 39,
+          "calendar_day_offset": 39,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-15T00:00:00+08:00",
+          "age_days_elapsed": 14.675694,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-15T00:00:00+08:00",
+          "age_days_elapsed": 14.675694,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-10-01T23:00:00+08:00",
+          "age_days_elapsed": 1.634028,
+          "age_completed_24h": 1,
+          "calendar_day_offset": 1,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-03",
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06"
+          ],
+          "post_publication_observation_hours": 160.216667,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 180,
+            "impressions": 717,
+            "likes": 16,
+            "comments": 0,
+            "saves": 6,
+            "shares": 1,
+            "followers": 7,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 15
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-03",
+            "2026-10-04",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 26,
+            "impressions": 353,
+            "likes": 2,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 2
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 17,
+      "id": "6ab2b1fc000000000a01fb12",
+      "title": "站累了找椅子，他给椅子修了条路",
+      "publication": "2026-09-27T07:51:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 41.672917,
+          "age_completed_24h": 41,
+          "calendar_day_offset": 42,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-12T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-12T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 42.089583,
+          "age_completed_24h": 42,
+          "calendar_day_offset": 42,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-12T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-12T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-09-29T21:00:00+08:00",
+          "age_days_elapsed": 2.547917,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-09-27",
+            "2026-09-28",
+            "2026-09-29",
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-03"
+          ],
+          "post_publication_observation_hours": 160.15,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 1034,
+            "impressions": 1868,
+            "likes": 25,
+            "comments": 0,
+            "saves": 7,
+            "shares": 0,
+            "followers": 11,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 218
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-09-28",
+            "2026-09-29",
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-03",
+            "2026-10-04"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 17,
+            "impressions": 370,
+            "likes": 1,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 34
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 18,
+      "id": "6ab2b1e100000000180190c4",
+      "title": "走路时给你加速的电动鞋",
+      "publication": "2026-09-26T07:51:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 42.672917,
+          "age_completed_24h": 42,
+          "calendar_day_offset": 43,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-11T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-11T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 43.089583,
+          "age_completed_24h": 43,
+          "calendar_day_offset": 43,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-11T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-11T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-09-27T17:00:00+08:00",
+          "age_days_elapsed": 1.38125,
+          "age_completed_24h": 1,
+          "calendar_day_offset": 1,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-09-26",
+            "2026-09-27",
+            "2026-09-28",
+            "2026-09-29",
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "post_publication_observation_hours": 160.15,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 170,
+            "impressions": 468,
+            "likes": 12,
+            "comments": 0,
+            "saves": 9,
+            "shares": 1,
+            "followers": 10,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 5
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-09-27",
+            "2026-09-28",
+            "2026-09-29",
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-03"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 7,
+            "impressions": 185,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 19,
+      "id": "6ab2b1c300000000020106a5",
+      "title": "以前木头挨钉，现在木头也来上班了",
+      "publication": "2026-09-25T07:51:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 43.672917,
+          "age_completed_24h": 43,
+          "calendar_day_offset": 44,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-10T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-10T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-09-25T20:00:00+08:00",
+          "age_days_elapsed": 0.50625,
+          "age_completed_24h": 0,
+          "calendar_day_offset": 0,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-10T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-10T00:00:00+08:00",
+          "age_days_elapsed": 14.672917,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-09-27T23:00:00+08:00",
+          "age_days_elapsed": 2.63125,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-09-25",
+            "2026-09-26",
+            "2026-09-27",
+            "2026-09-28",
+            "2026-09-29",
+            "2026-09-30",
+            "2026-10-01"
+          ],
+          "post_publication_observation_hours": 160.15,
+          "can_sum_available_additive_counts": false,
+          "additive_sums": {
+            "views": null,
+            "impressions": null,
+            "likes": null,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "followers": null,
+            "danmaku": null,
+            "quotes": null,
+            "play60s": null
+          },
+          "missing_dates_by_count_metric": {
+            "views": [
+              "2026-09-29"
+            ],
+            "impressions": [
+              "2026-09-29"
+            ],
+            "likes": [
+              "2026-09-29"
+            ],
+            "comments": [
+              "2026-09-29"
+            ],
+            "saves": [
+              "2026-09-29"
+            ],
+            "shares": [
+              "2026-09-29"
+            ],
+            "followers": [
+              "2026-09-29"
+            ],
+            "danmaku": [
+              "2026-09-29"
+            ],
+            "quotes": [
+              "2026-09-29"
+            ],
+            "play60s": [
+              "2026-09-29"
+            ]
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-09-26",
+            "2026-09-27",
+            "2026-09-28",
+            "2026-09-29",
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": false,
+          "additive_sums": {
+            "views": null,
+            "impressions": null,
+            "likes": null,
+            "comments": null,
+            "saves": null,
+            "shares": null,
+            "followers": null,
+            "danmaku": null,
+            "quotes": null,
+            "play60s": null
+          },
+          "missing_dates_by_count_metric": {
+            "views": [
+              "2026-09-29"
+            ],
+            "impressions": [
+              "2026-09-29"
+            ],
+            "likes": [
+              "2026-09-29"
+            ],
+            "comments": [
+              "2026-09-29"
+            ],
+            "saves": [
+              "2026-09-29"
+            ],
+            "shares": [
+              "2026-09-29"
+            ],
+            "followers": [
+              "2026-09-29"
+            ],
+            "danmaku": [
+              "2026-09-29"
+            ],
+            "quotes": [
+              "2026-09-29"
+            ],
+            "play60s": [
+              "2026-09-29"
+            ]
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "DAY_SERIES_HAS_MISSING_DATES",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL",
+        "FIRST_SEVEN_CALENDAR_DAY_COUNT_WINDOW_UNAVAILABLE"
+      ]
+    },
+    {
+      "index": 20,
+      "id": "6ab00a2d0000000026009a5b",
+      "title": "三条拉链，拉出了一个支架？",
+      "publication": "2026-09-21T09:31:00+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 47.603472,
+          "age_completed_24h": 47,
+          "calendar_day_offset": 48,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-06T00:00:00+08:00",
+          "age_days_elapsed": 14.603472,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-06T00:00:00+08:00",
+          "age_days_elapsed": 14.603472,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 48.020139,
+          "age_completed_24h": 48,
+          "calendar_day_offset": 48,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-06T00:00:00+08:00",
+          "age_days_elapsed": 14.603472,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-06T00:00:00+08:00",
+          "age_days_elapsed": 14.603472,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-09-23T16:00:00+08:00",
+          "age_days_elapsed": 2.270139,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-09-26",
+            "2026-09-27"
+          ],
+          "post_publication_observation_hours": 158.483333,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 227,
+            "impressions": 866,
+            "likes": 16,
+            "comments": 2,
+            "saves": 10,
+            "shares": 2,
+            "followers": 7,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 21
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-09-26",
+            "2026-09-27",
+            "2026-09-28"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 36,
+            "impressions": 238,
+            "likes": 4,
+            "comments": 0,
+            "saves": 4,
+            "shares": 0,
+            "followers": 2,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 6
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 21,
+      "id": "6ab005af000000001001f12c",
+      "title": "这盘蛋糕☀️真是太阳晒熟的",
+      "publication": "2026-09-21T08:01:07+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 47.665891,
+          "age_completed_24h": 47,
+          "calendar_day_offset": 48,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-06T00:00:00+08:00",
+          "age_days_elapsed": 14.665891,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-06T00:00:00+08:00",
+          "age_days_elapsed": 14.665891,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 48.082558,
+          "age_completed_24h": 48,
+          "calendar_day_offset": 48,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-06T00:00:00+08:00",
+          "age_days_elapsed": 14.665891,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-06T00:00:00+08:00",
+          "age_days_elapsed": 14.665891,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-09-23T00:00:00+08:00",
+          "age_days_elapsed": 1.665891,
+          "age_completed_24h": 1,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-09-26",
+            "2026-09-27"
+          ],
+          "post_publication_observation_hours": 159.981389,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 203,
+            "impressions": 730,
+            "likes": 42,
+            "comments": 0,
+            "saves": 3,
+            "shares": 0,
+            "followers": 3,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 31
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-09-26",
+            "2026-09-27",
+            "2026-09-28"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 35,
+            "impressions": 341,
+            "likes": 3,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 6
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 22,
+      "id": "6aac0ff5000000001103a885",
+      "title": "这只小鸟 怎么倒下了？！",
+      "publication": "2026-09-18T00:06:14+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 50.995671,
+          "age_completed_24h": 50,
+          "calendar_day_offset": 51,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-03T00:00:00+08:00",
+          "age_days_elapsed": 14.995671,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-03T00:00:00+08:00",
+          "age_days_elapsed": 14.995671,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T10:00:00+08:00",
+          "age_days_elapsed": 51.412338,
+          "age_completed_24h": 51,
+          "calendar_day_offset": 51,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-03T00:00:00+08:00",
+          "age_days_elapsed": 14.995671,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-03T00:00:00+08:00",
+          "age_days_elapsed": 14.995671,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-09-20T11:00:00+08:00",
+          "age_days_elapsed": 2.454005,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 2,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-09-18",
+            "2026-09-19",
+            "2026-09-20",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24"
+          ],
+          "post_publication_observation_hours": 167.896111,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 188,
+            "impressions": 799,
+            "likes": 12,
+            "comments": 0,
+            "saves": 1,
+            "shares": 0,
+            "followers": 1,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-09-19",
+            "2026-09-20",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 14,
+            "impressions": 173,
+            "likes": 1,
+            "comments": 0,
+            "saves": 1,
+            "shares": 0,
+            "followers": 0,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 0
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "NOTE_UPDATE_TIME_LATER_THAN_HISTORICAL_MODULE_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    },
+    {
+      "index": 23,
+      "id": "6aa95bd9000000000b0340da",
+      "title": "这只机器狗😮出门连走路姿势都换了",
+      "publication": "2026-09-16T17:00:59+08:00",
+      "cutoffs_and_ages": {
+        "core": {
+          "at_shanghai": "2026-11-08T00:00:00+08:00",
+          "age_days_elapsed": 52.290984,
+          "age_completed_24h": 52,
+          "calendar_day_offset": 53,
+          "json_path": "$.body.data.basic_data_last_update_time"
+        },
+        "root_analysis_marker": {
+          "at_shanghai": "2026-10-01T00:00:00+08:00",
+          "age_days_elapsed": 14.290984,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.data_last_update_time"
+        },
+        "diagnosis_native": {
+          "at_shanghai": "2026-10-01T00:00:00+08:00",
+          "age_days_elapsed": 14.290984,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.analyse_infos_last_update_time"
+        },
+        "curve": {
+          "at_shanghai": "2026-11-08T09:00:00+08:00",
+          "age_days_elapsed": 52.665984,
+          "age_completed_24h": 52,
+          "calendar_day_offset": 53,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "source": {
+          "at_shanghai": "2026-10-01T00:00:00+08:00",
+          "age_days_elapsed": 14.290984,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.last_update_time"
+        },
+        "day_series": {
+          "at_shanghai": "2026-10-01T00:00:00+08:00",
+          "age_days_elapsed": 14.290984,
+          "age_completed_24h": 14,
+          "calendar_day_offset": 15,
+          "json_path": "$.body.data.day.data_last_update_time"
+        },
+        "hour_series": {
+          "at_shanghai": "2026-09-19T07:00:00+08:00",
+          "age_days_elapsed": 2.58265,
+          "age_completed_24h": 2,
+          "calendar_day_offset": 3,
+          "json_path": "$.body.data.hour.data_last_update_time"
+        }
+      },
+      "natural_day_windows": {
+        "D0_D6": {
+          "calendar_dates": [
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-18",
+            "2026-09-19",
+            "2026-09-20",
+            "2026-09-21",
+            "2026-09-22"
+          ],
+          "post_publication_observation_hours": 150.983611,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 234,
+            "impressions": 662,
+            "likes": 40,
+            "comments": 0,
+            "saves": 8,
+            "shares": 0,
+            "followers": 12,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 9
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        },
+        "D1_D7": {
+          "calendar_dates": [
+            "2026-09-17",
+            "2026-09-18",
+            "2026-09-19",
+            "2026-09-20",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23"
+          ],
+          "post_publication_observation_hours": 168.0,
+          "can_sum_available_additive_counts": true,
+          "additive_sums": {
+            "views": 198,
+            "impressions": 328,
+            "likes": 36,
+            "comments": 0,
+            "saves": 7,
+            "shares": 0,
+            "followers": 11,
+            "danmaku": 0,
+            "quotes": 0,
+            "play60s": 7
+          },
+          "missing_dates_by_count_metric": {
+            "views": [],
+            "impressions": [],
+            "likes": [],
+            "comments": [],
+            "saves": [],
+            "shares": [],
+            "followers": [],
+            "danmaku": [],
+            "quotes": [],
+            "play60s": []
+          },
+          "equals_first_168h_since_publication": false
+        }
+      },
+      "flags": [
+        "MODULE_CLOCKS_ASYNCHRONOUS",
+        "USER_UPDATE_TIME_BEFORE_PUBLICATION_SEMANTICS_UNVERIFIED",
+        "HOUR_SERIES_SPARSE_DO_NOT_ZERO_FILL"
+      ]
+    }
+  ],
+  "scope": "Exact local full audit retained; exported core clocks/windows and counts. D0-D6 and D1-D7 are not exact first168h."
+}

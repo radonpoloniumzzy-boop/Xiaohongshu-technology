@@ -1,0 +1,791 @@
+{
+  "snapshot_date": "2026-11-08",
+  "repository_export_date": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "live_refresh_on_export": false,
+  "data": {
+    "generated_at": "2026-11-08T19:03:17.640570+08:00",
+    "account_windows": {
+      "seven": "2026-11-01..2026-11-07",
+      "previous_seven": "2026-10-25..2026-10-31",
+      "thirty": "2026-10-09..2026-11-07"
+    },
+    "periods": {
+      "seven": {
+        "views": 5229,
+        "exposure": 35293,
+        "follows": 70,
+        "likes": 165,
+        "saves": 150,
+        "comments": 3,
+        "shares": 8,
+        "posts": 2,
+        "per_day": {
+          "views": 747.0,
+          "follows": 10.0,
+          "posts": 0.2857142857142857
+        },
+        "per_1000_views": {
+          "likes": 31.55479059093517,
+          "saves": 28.686173264486516,
+          "comments": 0.5737234652897304,
+          "shares": 1.5299292407726142,
+          "follows": 13.386880856760374
+        }
+      },
+      "thirty": {
+        "views": 26323,
+        "exposure": 167284,
+        "follows": 317,
+        "likes": 979,
+        "saves": 753,
+        "comments": 12,
+        "shares": 39,
+        "posts": 18,
+        "per_day": {
+          "views": 877.4333333333333,
+          "follows": 10.566666666666666,
+          "posts": 0.6
+        },
+        "per_1000_views": {
+          "likes": 37.19180944421229,
+          "saves": 28.60616191163621,
+          "comments": 0.4558750902252783,
+          "shares": 1.4815940432321544,
+          "follows": 12.042700300117767
+        }
+      },
+      "previous_seven": {
+        "views": 3613,
+        "exposure": 30298,
+        "follows": 41,
+        "likes": 148,
+        "saves": 120,
+        "comments": 4,
+        "shares": 7,
+        "posts": 3,
+        "per_day": {
+          "views": 516.1428571428571,
+          "follows": 5.857142857142857,
+          "posts": 0.42857142857142855
+        },
+        "per_1000_views": {
+          "likes": 40.963188486022695,
+          "saves": 33.21339606974813,
+          "comments": 1.1071132023249377,
+          "shares": 1.937448104068641,
+          "follows": 11.347910323830611
+        }
+      }
+    },
+    "changes": {
+      "views": {
+        "previous": 3613,
+        "current": 5229,
+        "relative_change_pct": 44.72737337392749
+      },
+      "exposure": {
+        "previous": 30298,
+        "current": 35293,
+        "relative_change_pct": 16.486236715294744
+      },
+      "follows": {
+        "previous": 41,
+        "current": 70,
+        "relative_change_pct": 70.73170731707317
+      },
+      "likes": {
+        "previous": 148,
+        "current": 165,
+        "relative_change_pct": 11.486486486486491
+      },
+      "saves": {
+        "previous": 120,
+        "current": 150,
+        "relative_change_pct": 25.0
+      },
+      "comments": {
+        "previous": 4,
+        "current": 3,
+        "relative_change_pct": -25.0
+      },
+      "shares": {
+        "previous": 7,
+        "current": 8,
+        "relative_change_pct": 14.28571428571428
+      }
+    },
+    "source_views": {
+      "seven": [
+        {
+          "source_type": 1,
+          "title": "首页推荐",
+          "color": "#FF2442",
+          "value": 69
+        },
+        {
+          "title": "搜索",
+          "color": "#FF5068",
+          "value": 13,
+          "source_type": 2
+        },
+        {
+          "value": 13,
+          "source_type": 4,
+          "title": "视频推荐",
+          "color": "#FF7C8E"
+        },
+        {
+          "color": "#FF9CAA",
+          "value": 5,
+          "source_type": 99,
+          "title": "其他来源"
+        }
+      ],
+      "thirty": [
+        {
+          "title": "首页推荐",
+          "color": "#FF2442",
+          "value": 62,
+          "source_type": 1
+        },
+        {
+          "title": "视频推荐",
+          "color": "#FF5068",
+          "value": 28,
+          "source_type": 4
+        },
+        {
+          "title": "搜索",
+          "color": "#FF7C8E",
+          "value": 5,
+          "source_type": 2
+        },
+        {
+          "title": "其他来源",
+          "color": "#FF9CAA",
+          "value": 5,
+          "source_type": 99
+        }
+      ],
+      "seven_begin_time": 1793462400000,
+      "seven_end_time": 1793980800000,
+      "thirty_begin_time": 1791475200000,
+      "thirty_end_time": 1793980800000
+    },
+    "source_follows": {
+      "normalizer_raw": 98,
+      "rows": [
+        {
+          "source": "首页推荐",
+          "raw_value_untyped": 73,
+          "ui_share_pct": 74.48979591836735
+        },
+        {
+          "source": "视频推荐",
+          "raw_value_untyped": 21,
+          "ui_share_pct": 21.428571428571427
+        },
+        {
+          "source": "其他来源",
+          "raw_value_untyped": 3,
+          "ui_share_pct": 3.061224489795918
+        },
+        {
+          "source": "搜索",
+          "raw_value_untyped": 1,
+          "ui_share_pct": 1.0204081632653061
+        },
+        {
+          "source": "个人主页",
+          "raw_value_untyped": 0,
+          "ui_share_pct": 0.0
+        }
+      ],
+      "ui_supported": true,
+      "window": "原模块未标明/接口未给起止，不能与任意7/30日观看相除为分渠道转化率",
+      "scope": "按DOM显示归一比例；raw 73/21/3/1/0不可擅称百分比或人数"
+    },
+    "fans": {
+      "total": 564,
+      "gender": [
+        {
+          "title": "男性",
+          "color": "#3D8AF5",
+          "value": 61,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "女性",
+          "color": "#FF7C8E",
+          "value": 39,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        }
+      ],
+      "age": [
+        {
+          "title": "<18",
+          "color": "#FF2442",
+          "value": 15,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "18-24",
+          "color": "#FF2442",
+          "value": 19,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "25-34",
+          "color": "#FF2442",
+          "value": 20,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "35-44",
+          "color": "#FF2442",
+          "value": 26,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": ">44",
+          "color": "#FF2442",
+          "value": 18,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        }
+      ],
+      "interest": [
+        {
+          "title": "社科",
+          "color": "#FF2442",
+          "value": 11,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "兴趣爱好",
+          "color": "#FF2442",
+          "value": 9,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "游戏",
+          "color": "#FF2442",
+          "value": 9,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "二次元",
+          "color": "#FF2442",
+          "value": 8,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "生活记录",
+          "color": "#FF2442",
+          "value": 7,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "科技数码",
+          "color": "#FF2442",
+          "value": 6,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "搞笑",
+          "color": "#FF2442",
+          "value": 5,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        },
+        {
+          "title": "宠物",
+          "color": "#FF2442",
+          "value": 4,
+          "set_title": true,
+          "set_value": true,
+          "set_color": true
+        }
+      ],
+      "target_female_pct": 40,
+      "female_current_pct": 39,
+      "gap_pp": 1,
+      "scope": "总体粉丝，不是单篇观众或新增女性粉丝；兴趣非性别交叉且非完整分布"
+    },
+    "fan_module_windows": {
+      "seven": {
+        "start": "2026-10-31",
+        "end": "2026-11-06",
+        "reported_new": 76,
+        "reported_leave": 1,
+        "current_fans": 564,
+        "series_sum": 76,
+        "series": {
+          "2026-10-31": 8,
+          "2026-11-01": 31,
+          "2026-11-02": 13,
+          "2026-11-03": 7,
+          "2026-11-04": 6,
+          "2026-11-05": 6,
+          "2026-11-06": 5
+        }
+      },
+      "thirty": {
+        "start": "2026-10-08",
+        "end": "2026-11-06",
+        "reported_new": 328,
+        "reported_leave": 1,
+        "current_fans": 564,
+        "series_sum": 328,
+        "series": {
+          "2026-10-08": 13,
+          "2026-10-09": 7,
+          "2026-10-10": 6,
+          "2026-10-11": 35,
+          "2026-10-12": 7,
+          "2026-10-13": 14,
+          "2026-10-14": 5,
+          "2026-10-15": 5,
+          "2026-10-16": 8,
+          "2026-10-17": 22,
+          "2026-10-18": 23,
+          "2026-10-19": 16,
+          "2026-10-20": 12,
+          "2026-10-21": 8,
+          "2026-10-22": 8,
+          "2026-10-23": 15,
+          "2026-10-24": 15,
+          "2026-10-25": 23,
+          "2026-10-26": 2,
+          "2026-10-27": 1,
+          "2026-10-28": 0,
+          "2026-10-29": 2,
+          "2026-10-30": 5,
+          "2026-10-31": 8,
+          "2026-11-01": 31,
+          "2026-11-02": 13,
+          "2026-11-03": 7,
+          "2026-11-04": 6,
+          "2026-11-05": 6,
+          "2026-11-06": 5
+        }
+      }
+    },
+    "home_and_watch": {
+      "seven": {
+        "home_view_count": 61,
+        "home_conversion_rise_fans_rate": 3.3,
+        "home_conversion_rise_fans_cycle_rate": 0,
+        "avg_view_time": 14.7,
+        "avg_view_time_rate": -17,
+        "video_full_view_rate": 4.9,
+        "video_full_view_cycle_rate": 6,
+        "cover_click_rate": 13.8,
+        "cover_click_cycle_rate": 36
+      },
+      "thirty": {
+        "home_view_count": 280,
+        "home_conversion_rise_fans_rate": 1.8,
+        "home_conversion_rise_fans_cycle_rate": -41,
+        "avg_view_time": 19.1,
+        "avg_view_time_rate": 7,
+        "video_full_view_rate": 4.4,
+        "video_full_view_cycle_rate": -25,
+        "cover_click_rate": 12.8,
+        "cover_click_cycle_rate": 19
+      }
+    },
+    "growth_accounting_decomposition": {
+      "view_scale_component": 18.338223083310268,
+      "density_component": 10.661776916689735,
+      "sum_change": 29.000000000000004,
+      "reported_follow_delta": 29,
+      "scope": "按前周关注/观看计数密度分解，顺序依赖且非因果；不是独立用户转化率"
+    },
+    "fan_viewing": {
+      "cohort_n": 23,
+      "min_share_pct": 1.4,
+      "median_share_pct": 5.8,
+      "max_share_pct": 12.5,
+      "fans_mean_above_overall_notes": 15,
+      "scope": "观看粉丝占比不是粉丝触达/活跃/回访率；部分均看与完播字段需口径复核"
+    },
+    "concentration": {
+      "visible_notes": 41,
+      "all_cumulative_views": 36364,
+      "top1_title": "糖吃完了，盒子居然还能开机",
+      "top1_views": 28164,
+      "top1_share_pct": 77.45022549774502,
+      "not_monthly_share": true
+    },
+    "daily_peaks": [
+      {
+        "date": "2026-10-11",
+        "view_list": 1754,
+        "impl_count_list": 7157,
+        "rise_fans_list": 35,
+        "publish_note_num_list": 1,
+        "like_list": 116,
+        "collect_list": 87,
+        "comment_list": 2,
+        "share_list": 4,
+        "cover_click_rate_list": 14.1,
+        "avg_view_time_list": 20,
+        "video_full_view_rate_list": 2.9
+      },
+      {
+        "date": "2026-11-01",
+        "view_list": 1963,
+        "impl_count_list": 12406,
+        "rise_fans_list": 31,
+        "publish_note_num_list": 0,
+        "like_list": 61,
+        "collect_list": 61,
+        "comment_list": 1,
+        "share_list": 1,
+        "cover_click_rate_list": 15.7,
+        "avg_view_time_list": 11.8,
+        "video_full_view_rate_list": 5.2
+      },
+      {
+        "date": "2026-10-18",
+        "view_list": 2599,
+        "impl_count_list": 16235,
+        "rise_fans_list": 23,
+        "publish_note_num_list": 1,
+        "like_list": 90,
+        "collect_list": 68,
+        "comment_list": 0,
+        "share_list": 1,
+        "cover_click_rate_list": 15.9,
+        "avg_view_time_list": 9.6,
+        "video_full_view_rate_list": 4.7
+      },
+      {
+        "date": "2026-10-25",
+        "view_list": 1187,
+        "impl_count_list": 8718,
+        "rise_fans_list": 23,
+        "publish_note_num_list": 1,
+        "like_list": 62,
+        "collect_list": 51,
+        "comment_list": 3,
+        "share_list": 0,
+        "cover_click_rate_list": 10.4,
+        "avg_view_time_list": 16.4,
+        "video_full_view_rate_list": 4.5
+      },
+      {
+        "date": "2026-10-17",
+        "view_list": 2521,
+        "impl_count_list": 15631,
+        "rise_fans_list": 22,
+        "publish_note_num_list": 1,
+        "like_list": 85,
+        "collect_list": 70,
+        "comment_list": 1,
+        "share_list": 5,
+        "cover_click_rate_list": 14,
+        "avg_view_time_list": 23,
+        "video_full_view_rate_list": 4.4
+      },
+      {
+        "date": "2026-10-19",
+        "view_list": 949,
+        "impl_count_list": 6528,
+        "rise_fans_list": 16,
+        "publish_note_num_list": 0,
+        "like_list": 43,
+        "collect_list": 40,
+        "comment_list": 0,
+        "share_list": 1,
+        "cover_click_rate_list": 13.1,
+        "avg_view_time_list": 36.3,
+        "video_full_view_rate_list": 4.9
+      }
+    ],
+    "publication_examples": [
+      {
+        "id": "6abf2ba3000000001c02f003",
+        "title": "糖吃完了，盒子居然还能开机",
+        "published_at": "2026-10-05 08:00",
+        "views_current_detail": 28165,
+        "followers_reported": 414,
+        "D0_views": 2118,
+        "D0_D6_counts": {
+          "views": 8095,
+          "impressions": 37851,
+          "likes": 276,
+          "comments": 11,
+          "saves": 215,
+          "shares": 8,
+          "followers": 104,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 1332
+        },
+        "D1_D7_counts": {
+          "views": 6659,
+          "impressions": 36087,
+          "likes": 172,
+          "comments": 4,
+          "saves": 127,
+          "shares": 6,
+          "followers": 73,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 1101
+        },
+        "scope": "日桶不等于精确前168h，实时累计与其他字段更新标记不同；不作性别/入口新增归因。"
+      },
+      {
+        "id": "6ab2b1fc000000000a01fb12",
+        "title": "站累了找椅子，他给椅子修了条路",
+        "published_at": "2026-09-27 07:51",
+        "views_current_detail": 1063,
+        "followers_reported": 12,
+        "D0_views": 1017,
+        "D0_D6_counts": {
+          "views": 1034,
+          "impressions": 1868,
+          "likes": 25,
+          "comments": 0,
+          "saves": 7,
+          "shares": 0,
+          "followers": 11,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 218
+        },
+        "D1_D7_counts": {
+          "views": 17,
+          "impressions": 370,
+          "likes": 1,
+          "comments": 0,
+          "saves": 0,
+          "shares": 0,
+          "followers": 0,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 34
+        },
+        "scope": "日桶不等于精确前168h，实时累计与其他字段更新标记不同；不作性别/入口新增归因。"
+      },
+      {
+        "id": "6ac7b5020000000015012768",
+        "title": "CD比机器还大，露在外面也能播？",
+        "published_at": "2026-10-11 07:22",
+        "views_current_detail": 495,
+        "followers_reported": 44,
+        "D0_views": 457,
+        "D0_D6_counts": {
+          "views": 476,
+          "impressions": 1178,
+          "likes": 91,
+          "comments": 2,
+          "saves": 66,
+          "shares": 1,
+          "followers": 44,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 0
+        },
+        "D1_D7_counts": {
+          "views": 20,
+          "impressions": 229,
+          "likes": 2,
+          "comments": 0,
+          "saves": 1,
+          "shares": 0,
+          "followers": 0,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 0
+        },
+        "scope": "日桶不等于精确前168h，实时累计与其他字段更新标记不同；不作性别/入口新增归因。"
+      },
+      {
+        "id": "6ad6dccf0000000028039ce9",
+        "title": "扫地机能建地图，为啥过不去门槛？",
+        "published_at": "2026-10-27 08:16",
+        "views_current_detail": 180,
+        "followers_reported": 0,
+        "D0_views": 53,
+        "D0_D6_counts": {
+          "views": 117,
+          "impressions": 590,
+          "likes": 3,
+          "comments": 0,
+          "saves": 3,
+          "shares": 1,
+          "followers": 0,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 0
+        },
+        "D1_D7_counts": {
+          "views": 82,
+          "impressions": 478,
+          "likes": 2,
+          "comments": 0,
+          "saves": 1,
+          "shares": 1,
+          "followers": 0,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 0
+        },
+        "scope": "日桶不等于精确前168h，实时累计与其他字段更新标记不同；不作性别/入口新增归因。"
+      },
+      {
+        "id": "6ab005af000000001001f12c",
+        "title": "这盘蛋糕☀️真是太阳晒熟的",
+        "published_at": "2026-09-21 08:01",
+        "views_current_detail": 237,
+        "followers_reported": 3,
+        "D0_views": 168,
+        "D0_D6_counts": {
+          "views": 203,
+          "impressions": 730,
+          "likes": 42,
+          "comments": 0,
+          "saves": 3,
+          "shares": 0,
+          "followers": 3,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 31
+        },
+        "D1_D7_counts": {
+          "views": 35,
+          "impressions": 341,
+          "likes": 3,
+          "comments": 0,
+          "saves": 0,
+          "shares": 0,
+          "followers": 0,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 6
+        },
+        "scope": "日桶不等于精确前168h，实时累计与其他字段更新标记不同；不作性别/入口新增归因。"
+      },
+      {
+        "id": "6ac7b52c0000000015001976",
+        "title": "酒店送水机器人，怎么是个套娃？",
+        "published_at": "2026-10-13 07:23",
+        "views_current_detail": 215,
+        "followers_reported": 13,
+        "D0_views": 141,
+        "D0_D6_counts": {
+          "views": 197,
+          "impressions": 1290,
+          "likes": 12,
+          "comments": 0,
+          "saves": 11,
+          "shares": 0,
+          "followers": 13,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 0
+        },
+        "D1_D7_counts": {
+          "views": 57,
+          "impressions": 807,
+          "likes": 1,
+          "comments": 0,
+          "saves": 0,
+          "shares": 0,
+          "followers": 2,
+          "danmaku": 0,
+          "quotes": 0,
+          "play60s": 0
+        },
+        "scope": "日桶不等于精确前168h，实时累计与其他字段更新标记不同；不作性别/入口新增归因。"
+      }
+    ],
+    "unresolved": [
+      "独立观众/粉丝触达分母未明确",
+      "性别×新增关注/入口/留存未取得",
+      "主页承接具体呈现原因未核",
+      "分渠道同窗新增与曝光不足，不能算分渠道转化",
+      "若假设同分母/同窗，菜刀2.5s均看与8.3%全完播/70.8s片长不自洽；保留原字段、待平台口径解释"
+    ],
+    "daily_scale_counterexample": {
+      "rows": [
+        {
+          "date": "2026-11-01",
+          "view_list": 1963,
+          "impl_count_list": 12406,
+          "rise_fans_list": 31,
+          "publish_note_num_list": 0,
+          "like_list": 61,
+          "collect_list": 61,
+          "comment_list": 1,
+          "share_list": 1,
+          "cover_click_rate_list": 15.7,
+          "avg_view_time_list": 11.8,
+          "video_full_view_rate_list": 5.2
+        },
+        {
+          "date": "2026-11-06",
+          "view_list": 431,
+          "impl_count_list": 2191,
+          "rise_fans_list": 5,
+          "publish_note_num_list": 1,
+          "like_list": 16,
+          "collect_list": 11,
+          "comment_list": 1,
+          "share_list": 0,
+          "cover_click_rate_list": 17.2,
+          "avg_view_time_list": 17.8,
+          "video_full_view_rate_list": 4.1
+        },
+        {
+          "date": "2026-11-07",
+          "view_list": 280,
+          "impl_count_list": 1451,
+          "rise_fans_list": 2,
+          "publish_note_num_list": 0,
+          "like_list": 3,
+          "collect_list": 5,
+          "comment_list": 0,
+          "share_list": 0,
+          "cover_click_rate_list": 11.2,
+          "avg_view_time_list": 15.5,
+          "video_full_view_rate_list": 3.7
+        }
+      ],
+      "exposure_change_1_to6_pct": -82.33919071417056,
+      "exposure_change_1_to7_pct": -88.30404642914719,
+      "scope": "逐日整号值，不是相同内容实验；曝光下降是直接现象，原因（单篇/入口/审核/衰减）未完成分渠道因果分解。观看不可简单由曝光×封面CTR还原。"
+    }
+  }
+}

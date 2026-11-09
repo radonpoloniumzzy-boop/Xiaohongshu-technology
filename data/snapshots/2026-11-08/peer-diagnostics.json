@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "quota": "vqa",
+    "count": 4.176,
+    "median": null,
+    "summary": "超过70%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "quota": "clickRate",
+    "count": 0.10278,
+    "median": 0.092,
+    "summary": "超过57%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "quota": "fullViewRate",
+    "count": 0.05914,
+    "median": 0.049,
+    "summary": "超过56%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "quota": "followFromDiscovery",
+    "count": 0,
+    "median": 1,
+    "summary": "超过0%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "quota": "noteEngage",
+    "count": 8,
+    "median": 15,
+    "summary": "超过35%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "quota": "viewTimeAvg",
+    "count": 25.7,
+    "median": 14.345,
+    "summary": "超过80%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "quota": "interactRate",
+    "count": 0.05085,
+    "median": 0.051,
+    "summary": "超过49%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "quota": "fullView5sRate",
+    "count": 0.55914,
+    "median": 0.42,
+    "summary": "超过79%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "quota": "vqa",
+    "count": 3.825,
+    "median": null,
+    "summary": "超过53%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "quota": "clickRate",
+    "count": 0.0627,
+    "median": 0.093,
+    "summary": "超过26%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "quota": "fullViewRate",
+    "count": 0.04267,
+    "median": 0.049,
+    "summary": "超过44%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "quota": "followFromDiscovery",
+    "count": 19,
+    "median": 1,
+    "summary": "超过94%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "quota": "noteEngage",
+    "count": 65,
+    "median": 15,
+    "summary": "超过80%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "quota": "viewTimeAvg",
+    "count": 4.5,
+    "median": 14.311,
+    "summary": "超过5%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "quota": "interactRate",
+    "count": 0.17808,
+    "median": 0.051,
+    "summary": "超过93%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "quota": "fullView5sRate",
+    "count": 0.51467,
+    "median": 0.42,
+    "summary": "超过70%同类",
+    "updated_at": "2026-11-08 00:00"
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "quota": "vqa",
+    "count": 4.332,
+    "median": null,
+    "summary": "超过79%同类",
+    "updated_at": "2026-11-01 00:00"
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "quota": "clickRate",
+    "count": 0.08119,
+    "median": 0.092,
+    "summary": "超过41%同类",
+    "updated_at": "2026-11-01 00:00"
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "quota": "fullViewRate",
+    "count": 0.01765,
+    "median": 0.045,
+    "summary": "超过22%同类",
+    "updated_at": "2026-11-01 00:00"
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "quota": "followFromDiscovery",
+    "count": 8,
+    "median": 1,
+    "summary": "超过90%同类",
+    "updated_at": "2026-11-01 00:00"
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "quota": "noteEngage",
+    "count": 45,
+    "median": 12,
+    "summary": "超过80%同类",
+    "updated_at": "2026-11-01 00:00"
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "quota": "viewTimeAvg",
+    "count": 13.7,
+    "median": 13.659,
+    "summary": "超过50%同类",
+    "updated_at": "2026-11-01 00:00"
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "quota": "interactRate",
+    "count": 0.13824,
+    "median": 0.046,
+    "summary": "超过91%同类",
+    "updated_at": "2026-11-01 00:00"
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "quota": "fullView5sRate",
+    "count": 0.67647,
+    "median": 0.41,
+    "summary": "超过95%同类",
+    "updated_at": "2026-11-01 00:00"
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "quota": "vqa",
+    "count": 4.16,
+    "median": null,
+    "summary": "超过69%同类",
+    "updated_at": "2026-10-30 00:00"
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "quota": "clickRate",
+    "count": 0.05451,
+    "median": 0.092,
+    "summary": "超过21%同类",
+    "updated_at": "2026-10-30 00:00"
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "quota": "fullViewRate",
+    "count": 0.03721,
+    "median": 0.045,
+    "summary": "超过42%同类",
+    "updated_at": "2026-10-30 00:00"
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "quota": "followFromDiscovery",
+    "count": 2,
+    "median": 1,
+    "summary": "超过65%同类",
+    "updated_at": "2026-10-30 00:00"
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "quota": "noteEngage",
+    "count": 11,
+    "median": 12,
+    "summary": "超过47%同类",
+    "updated_at": "2026-10-30 00:00"
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "quota": "viewTimeAvg",
+    "count": 17.7,
+    "median": 13.659,
+    "summary": "超过64%同类",
+    "updated_at": "2026-10-30 00:00"
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "quota": "interactRate",
+    "count": 0.05446,
+    "median": 0.046,
+    "summary": "超过57%同类",
+    "updated_at": "2026-10-30 00:00"
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "quota": "fullView5sRate",
+    "count": 0.51628,
+    "median": 0.41,
+    "summary": "超过72%同类",
+    "updated_at": "2026-10-30 00:00"
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "quota": "vqa",
+    "count": 3.795,
+    "median": null,
+    "summary": "超过51%同类",
+    "updated_at": "2026-10-28 00:00"
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "quota": "clickRate",
+    "count": 0.04596,
+    "median": 0.092,
+    "summary": "超过14%同类",
+    "updated_at": "2026-10-28 00:00"
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "quota": "fullViewRate",
+    "count": 0.01456,
+    "median": 0.045,
+    "summary": "超过19%同类",
+    "updated_at": "2026-10-28 00:00"
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "quota": "followFromDiscovery",
+    "count": 13,
+    "median": 1,
+    "summary": "超过95%同类",
+    "updated_at": "2026-10-28 00:00"
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "quota": "noteEngage",
+    "count": 23,
+    "median": 12,
+    "summary": "超过67%同类",
+    "updated_at": "2026-10-28 00:00"
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "quota": "viewTimeAvg",
+    "count": 14.7,
+    "median": 13.659,
+    "summary": "超过54%同类",
+    "updated_at": "2026-10-28 00:00"
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "quota": "interactRate",
+    "count": 0.11275,
+    "median": 0.046,
+    "summary": "超过87%同类",
+    "updated_at": "2026-10-28 00:00"
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "quota": "fullView5sRate",
+    "count": 0.60194,
+    "median": 0.41,
+    "summary": "超过86%同类",
+    "updated_at": "2026-10-28 00:00"
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "quota": "vqa",
+    "count": 3.863,
+    "median": null,
+    "summary": "超过54%同类",
+    "updated_at": "2026-10-26 00:00"
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "quota": "clickRate",
+    "count": 0.07565,
+    "median": 0.092,
+    "summary": "超过37%同类",
+    "updated_at": "2026-10-26 00:00"
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "quota": "fullViewRate",
+    "count": 0.03213,
+    "median": 0.045,
+    "summary": "超过37%同类",
+    "updated_at": "2026-10-26 00:00"
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "quota": "followFromDiscovery",
+    "count": 44,
+    "median": 1,
+    "summary": "超过99%同类",
+    "updated_at": "2026-10-26 00:00"
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "quota": "noteEngage",
+    "count": 159,
+    "median": 12,
+    "summary": "超过95%同类",
+    "updated_at": "2026-10-26 00:00"
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "quota": "viewTimeAvg",
+    "count": 25.5,
+    "median": 13.659,
+    "summary": "超过81%同类",
+    "updated_at": "2026-10-26 00:00"
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "quota": "interactRate",
+    "count": 0.32922,
+    "median": 0.046,
+    "summary": "超过99%同类",
+    "updated_at": "2026-10-26 00:00"
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "quota": "fullView5sRate",
+    "count": 0.73695,
+    "median": 0.41,
+    "summary": "超过99%同类",
+    "updated_at": "2026-10-26 00:00"
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "quota": "vqa",
+    "count": 3.923,
+    "median": null,
+    "summary": "超过56%同类",
+    "updated_at": "2026-10-24 00:00"
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "quota": "clickRate",
+    "count": 0.02772,
+    "median": 0.092,
+    "summary": "超过5%同类",
+    "updated_at": "2026-10-24 00:00"
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "quota": "fullViewRate",
+    "count": 0.04152,
+    "median": 0.045,
+    "summary": "超过46%同类",
+    "updated_at": "2026-10-24 00:00"
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "quota": "followFromDiscovery",
+    "count": 6,
+    "median": 1,
+    "summary": "超过87%同类",
+    "updated_at": "2026-10-24 00:00"
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "quota": "noteEngage",
+    "count": 40,
+    "median": 12,
+    "summary": "超过78%同类",
+    "updated_at": "2026-10-24 00:00"
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "quota": "viewTimeAvg",
+    "count": 22.9,
+    "median": 13.659,
+    "summary": "超过77%同类",
+    "updated_at": "2026-10-24 00:00"
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "quota": "interactRate",
+    "count": 0.14493,
+    "median": 0.046,
+    "summary": "超过92%同类",
+    "updated_at": "2026-10-24 00:00"
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "quota": "fullView5sRate",
+    "count": 0.52249,
+    "median": 0.41,
+    "summary": "超过73%同类",
+    "updated_at": "2026-10-24 00:00"
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "quota": "vqa",
+    "count": 4.111,
+    "median": null,
+    "summary": "超过66%同类",
+    "updated_at": "2026-10-23 00:00"
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "quota": "clickRate",
+    "count": 0.01351,
+    "median": 0.092,
+    "summary": "超过5%同类",
+    "updated_at": "2026-10-23 00:00"
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "quota": "fullViewRate",
+    "count": 0.03289,
+    "median": 0.045,
+    "summary": "超过37%同类",
+    "updated_at": "2026-10-23 00:00"
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "quota": "followFromDiscovery",
+    "count": 6,
+    "median": 1,
+    "summary": "超过87%同类",
+    "updated_at": "2026-10-23 00:00"
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "quota": "noteEngage",
+    "count": 15,
+    "median": 12,
+    "summary": "超过56%同类",
+    "updated_at": "2026-10-23 00:00"
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "quota": "viewTimeAvg",
+    "count": 12.8,
+    "median": 13.659,
+    "summary": "超过46%同类",
+    "updated_at": "2026-10-23 00:00"
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "quota": "interactRate",
+    "count": 0.10791,
+    "median": 0.046,
+    "summary": "超过85%同类",
+    "updated_at": "2026-10-23 00:00"
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "quota": "fullView5sRate",
+    "count": 0.48026,
+    "median": 0.41,
+    "summary": "超过65%同类",
+    "updated_at": "2026-10-23 00:00"
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "quota": "vqa",
+    "count": 4.19,
+    "median": null,
+    "summary": "超过71%同类",
+    "updated_at": "2026-10-22 00:00"
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "quota": "clickRate",
+    "count": 0.11925,
+    "median": 0.092,
+    "summary": "超过67%同类",
+    "updated_at": "2026-10-22 00:00"
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "quota": "fullViewRate",
+    "count": 0.01237,
+    "median": 0.045,
+    "summary": "超过17%同类",
+    "updated_at": "2026-10-22 00:00"
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "quota": "followFromDiscovery",
+    "count": 18,
+    "median": 1,
+    "summary": "超过95%同类",
+    "updated_at": "2026-10-22 00:00"
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "quota": "noteEngage",
+    "count": 118,
+    "median": 12,
+    "summary": "超过92%同类",
+    "updated_at": "2026-10-22 00:00"
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "quota": "viewTimeAvg",
+    "count": 22.8,
+    "median": 13.659,
+    "summary": "超过77%同类",
+    "updated_at": "2026-10-22 00:00"
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "quota": "interactRate",
+    "count": 0.22868,
+    "median": 0.046,
+    "summary": "超过97%同类",
+    "updated_at": "2026-10-22 00:00"
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "quota": "fullView5sRate",
+    "count": 0.48763,
+    "median": 0.41,
+    "summary": "超过66%同类",
+    "updated_at": "2026-10-22 00:00"
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "quota": "vqa",
+    "count": 3.972,
+    "median": null,
+    "summary": "超过58%同类",
+    "updated_at": "2026-10-21 00:00"
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "quota": "clickRate",
+    "count": 0.05342,
+    "median": 0.092,
+    "summary": "超过20%同类",
+    "updated_at": "2026-10-21 00:00"
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "quota": "fullViewRate",
+    "count": 0.00765,
+    "median": 0.045,
+    "summary": "超过12%同类",
+    "updated_at": "2026-10-21 00:00"
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "quota": "followFromDiscovery",
+    "count": 14,
+    "median": 1,
+    "summary": "超过95%同类",
+    "updated_at": "2026-10-21 00:00"
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "quota": "noteEngage",
+    "count": 62,
+    "median": 12,
+    "summary": "超过85%同类",
+    "updated_at": "2026-10-21 00:00"
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "quota": "viewTimeAvg",
+    "count": 17,
+    "median": 13.659,
+    "summary": "超过61%同类",
+    "updated_at": "2026-10-21 00:00"
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "quota": "interactRate",
+    "count": 0.16492,
+    "median": 0.046,
+    "summary": "超过94%同类",
+    "updated_at": "2026-10-21 00:00"
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "quota": "fullView5sRate",
+    "count": 0.42347,
+    "median": 0.41,
+    "summary": "超过52%同类",
+    "updated_at": "2026-10-21 00:00"
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "quota": "vqa",
+    "count": 4.176,
+    "median": null,
+    "summary": "超过70%同类",
+    "updated_at": "2026-10-20 00:00"
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "quota": "clickRate",
+    "count": 0.13972,
+    "median": 0.092,
+    "summary": "超过78%同类",
+    "updated_at": "2026-10-20 00:00"
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "quota": "fullViewRate",
+    "count": 0.0453,
+    "median": 0.045,
+    "summary": "超过50%同类",
+    "updated_at": "2026-10-20 00:00"
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "quota": "followFromDiscovery",
+    "count": 204,
+    "median": 1,
+    "summary": "超过99%同类",
+    "updated_at": "2026-10-20 00:00"
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "quota": "noteEngage",
+    "count": 1002,
+    "median": 12,
+    "summary": "超过99%同类",
+    "updated_at": "2026-10-20 00:00"
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "quota": "viewTimeAvg",
+    "count": 25.5,
+    "median": 13.659,
+    "summary": "超过81%同类",
+    "updated_at": "2026-10-20 00:00"
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "quota": "interactRate",
+    "count": 0.06092,
+    "median": 0.046,
+    "summary": "超过62%同类",
+    "updated_at": "2026-10-20 00:00"
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "quota": "fullView5sRate",
+    "count": 0.59707,
+    "median": 0.41,
+    "summary": "超过86%同类",
+    "updated_at": "2026-10-20 00:00"
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "quota": "vqa",
+    "count": 3.951,
+    "median": null,
+    "summary": "超过58%同类",
+    "updated_at": "2026-10-19 00:00"
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "quota": "clickRate",
+    "count": 0.04776,
+    "median": 0.092,
+    "summary": "超过16%同类",
+    "updated_at": "2026-10-19 00:00"
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "quota": "fullViewRate",
+    "count": 0.00725,
+    "median": 0.045,
+    "summary": "超过12%同类",
+    "updated_at": "2026-10-19 00:00"
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "quota": "followFromDiscovery",
+    "count": 8,
+    "median": 1,
+    "summary": "超过90%同类",
+    "updated_at": "2026-10-19 00:00"
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "quota": "noteEngage",
+    "count": 17,
+    "median": 12,
+    "summary": "超过60%同类",
+    "updated_at": "2026-10-19 00:00"
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "quota": "viewTimeAvg",
+    "count": 26.9,
+    "median": 13.659,
+    "summary": "超过84%同类",
+    "updated_at": "2026-10-19 00:00"
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "quota": "interactRate",
+    "count": 0.11486,
+    "median": 0.046,
+    "summary": "超过87%同类",
+    "updated_at": "2026-10-19 00:00"
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "quota": "fullView5sRate",
+    "count": 0.52899,
+    "median": 0.41,
+    "summary": "超过74%同类",
+    "updated_at": "2026-10-19 00:00"
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "quota": "vqa",
+    "count": 4.008,
+    "median": null,
+    "summary": "超过60%同类",
+    "updated_at": "2026-10-18 00:00"
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "quota": "clickRate",
+    "count": 0.06791,
+    "median": 0.084,
+    "summary": "超过34%同类",
+    "updated_at": "2026-10-18 00:00"
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "quota": "fullViewRate",
+    "count": 0.08824,
+    "median": 0.06,
+    "summary": "超过64%同类",
+    "updated_at": "2026-10-18 00:00"
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "quota": "followFromDiscovery",
+    "count": 10,
+    "median": 0,
+    "summary": "超过95%同类",
+    "updated_at": "2026-10-18 00:00"
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "quota": "noteEngage",
+    "count": 40,
+    "median": 6,
+    "summary": "超过87%同类",
+    "updated_at": "2026-10-18 00:00"
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "quota": "viewTimeAvg",
+    "count": 44.6,
+    "median": 14.829,
+    "summary": "超过95%同类",
+    "updated_at": "2026-10-18 00:00"
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "quota": "interactRate",
+    "count": 0.2,
+    "median": 0.03,
+    "summary": "超过97%同类",
+    "updated_at": "2026-10-18 00:00"
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "quota": "fullView5sRate",
+    "count": 0.65126,
+    "median": 0.425,
+    "summary": "超过92%同类",
+    "updated_at": "2026-10-18 00:00"
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "quota": "vqa",
+    "count": 3.59,
+    "median": null,
+    "summary": "超过43%同类",
+    "updated_at": "2026-10-17 00:00"
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "quota": "clickRate",
+    "count": 0.05509,
+    "median": 0.092,
+    "summary": "超过21%同类",
+    "updated_at": "2026-10-17 00:00"
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "quota": "fullViewRate",
+    "count": 0.06436,
+    "median": 0.045,
+    "summary": "超过62%同类",
+    "updated_at": "2026-10-17 00:00"
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "quota": "followFromDiscovery",
+    "count": 4,
+    "median": 1,
+    "summary": "超过80%同类",
+    "updated_at": "2026-10-17 00:00"
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "quota": "noteEngage",
+    "count": 18,
+    "median": 12,
+    "summary": "超过61%同类",
+    "updated_at": "2026-10-17 00:00"
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "quota": "viewTimeAvg",
+    "count": 5.1,
+    "median": 13.659,
+    "summary": "超过9%同类",
+    "updated_at": "2026-10-17 00:00"
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "quota": "interactRate",
+    "count": 0.10753,
+    "median": 0.046,
+    "summary": "超过85%同类",
+    "updated_at": "2026-10-17 00:00"
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "quota": "fullView5sRate",
+    "count": 0.66337,
+    "median": 0.41,
+    "summary": "超过94%同类",
+    "updated_at": "2026-10-17 00:00"
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "quota": "vqa",
+    "count": 3.804,
+    "median": null,
+    "summary": "超过52%同类",
+    "updated_at": "2026-10-16 00:00"
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "quota": "clickRate",
+    "count": 0.05281,
+    "median": 0.092,
+    "summary": "超过19%同类",
+    "updated_at": "2026-10-16 00:00"
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "quota": "fullViewRate",
+    "count": 0.02273,
+    "median": 0.045,
+    "summary": "超过27%同类",
+    "updated_at": "2026-10-16 00:00"
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "quota": "followFromDiscovery",
+    "count": 20,
+    "median": 1,
+    "summary": "超过96%同类",
+    "updated_at": "2026-10-16 00:00"
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "quota": "noteEngage",
+    "count": 50,
+    "median": 12,
+    "summary": "超过82%同类",
+    "updated_at": "2026-10-16 00:00"
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "quota": "viewTimeAvg",
+    "count": 17.7,
+    "median": 13.659,
+    "summary": "超过64%同类",
+    "updated_at": "2026-10-16 00:00"
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "quota": "interactRate",
+    "count": 0.11765,
+    "median": 0.046,
+    "summary": "超过88%同类",
+    "updated_at": "2026-10-16 00:00"
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "quota": "fullView5sRate",
+    "count": 0.54091,
+    "median": 0.41,
+    "summary": "超过76%同类",
+    "updated_at": "2026-10-16 00:00"
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "quota": "vqa",
+    "count": 4.087,
+    "median": null,
+    "summary": "超过65%同类",
+    "updated_at": "2026-10-15 00:00"
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "quota": "clickRate",
+    "count": 0.07071,
+    "median": 0.092,
+    "summary": "超过33%同类",
+    "updated_at": "2026-10-15 00:00"
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "quota": "fullViewRate",
+    "count": 0.04803,
+    "median": 0.045,
+    "summary": "超过52%同类",
+    "updated_at": "2026-10-15 00:00"
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "quota": "followFromDiscovery",
+    "count": 7,
+    "median": 1,
+    "summary": "超过90%同类",
+    "updated_at": "2026-10-15 00:00"
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "quota": "noteEngage",
+    "count": 22,
+    "median": 12,
+    "summary": "超过66%同类",
+    "updated_at": "2026-10-15 00:00"
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "quota": "viewTimeAvg",
+    "count": 22.2,
+    "median": 13.659,
+    "summary": "超过75%同类",
+    "updated_at": "2026-10-15 00:00"
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "quota": "interactRate",
+    "count": 0.10599,
+    "median": 0.046,
+    "summary": "超过85%同类",
+    "updated_at": "2026-10-15 00:00"
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "quota": "fullView5sRate",
+    "count": 0.49782,
+    "median": 0.41,
+    "summary": "超过68%同类",
+    "updated_at": "2026-10-15 00:00"
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "quota": "vqa",
+    "count": 3.702,
+    "median": null,
+    "summary": "超过48%同类",
+    "updated_at": "2026-10-12 00:00"
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "quota": "clickRate",
+    "count": 0.06188,
+    "median": 0.092,
+    "summary": "超过27%同类",
+    "updated_at": "2026-10-12 00:00"
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "quota": "fullViewRate",
+    "count": 0.11842,
+    "median": 0.045,
+    "summary": "超过83%同类",
+    "updated_at": "2026-10-12 00:00"
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "quota": "followFromDiscovery",
+    "count": 12,
+    "median": 1,
+    "summary": "超过94%同类",
+    "updated_at": "2026-10-12 00:00"
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "quota": "noteEngage",
+    "count": 32,
+    "median": 12,
+    "summary": "超过74%同类",
+    "updated_at": "2026-10-12 00:00"
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "quota": "viewTimeAvg",
+    "count": 22,
+    "median": 13.659,
+    "summary": "超过75%同类",
+    "updated_at": "2026-10-12 00:00"
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "quota": "interactRate",
+    "count": 0.03051,
+    "median": 0.046,
+    "summary": "超过34%同类",
+    "updated_at": "2026-10-12 00:00"
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "quota": "fullView5sRate",
+    "count": 0.45329,
+    "median": 0.41,
+    "summary": "超过59%同类",
+    "updated_at": "2026-10-12 00:00"
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "quota": "vqa",
+    "count": 3.669,
+    "median": null,
+    "summary": "超过46%同类",
+    "updated_at": "2026-10-11 00:00"
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "quota": "clickRate",
+    "count": 0.05102,
+    "median": 0.092,
+    "summary": "超过18%同类",
+    "updated_at": "2026-10-11 00:00"
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "quota": "fullViewRate",
+    "count": 0.02,
+    "median": 0.045,
+    "summary": "超过25%同类",
+    "updated_at": "2026-10-11 00:00"
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "quota": "followFromDiscovery",
+    "count": 10,
+    "median": 1,
+    "summary": "超过92%同类",
+    "updated_at": "2026-10-11 00:00"
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "quota": "noteEngage",
+    "count": 21,
+    "median": 12,
+    "summary": "超过65%同类",
+    "updated_at": "2026-10-11 00:00"
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "quota": "viewTimeAvg",
+    "count": 16,
+    "median": 13.659,
+    "summary": "超过58%同类",
+    "updated_at": "2026-10-11 00:00"
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "quota": "interactRate",
+    "count": 0.11458,
+    "median": 0.046,
+    "summary": "超过87%同类",
+    "updated_at": "2026-10-11 00:00"
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "quota": "fullView5sRate",
+    "count": 0.55,
+    "median": 0.41,
+    "summary": "超过78%同类",
+    "updated_at": "2026-10-11 00:00"
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "quota": "vqa",
+    "count": 3.776,
+    "median": null,
+    "summary": "超过51%同类",
+    "updated_at": "2026-10-10 00:00"
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "quota": "clickRate",
+    "count": 0.08371,
+    "median": 0.084,
+    "summary": "超过49%同类",
+    "updated_at": "2026-10-10 00:00"
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "quota": "fullViewRate",
+    "count": 0.03089,
+    "median": 0.06,
+    "summary": "超过28%同类",
+    "updated_at": "2026-10-10 00:00"
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "quota": "followFromDiscovery",
+    "count": 37,
+    "median": 0,
+    "summary": "超过99%同类",
+    "updated_at": "2026-10-10 00:00"
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "quota": "noteEngage",
+    "count": 85,
+    "median": 6,
+    "summary": "超过94%同类",
+    "updated_at": "2026-10-10 00:00"
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "quota": "viewTimeAvg",
+    "count": 12.7,
+    "median": 14.829,
+    "summary": "超过41%同类",
+    "updated_at": "2026-10-10 00:00"
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "quota": "interactRate",
+    "count": 0.17131,
+    "median": 0.03,
+    "summary": "超过96%同类",
+    "updated_at": "2026-10-10 00:00"
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "quota": "fullView5sRate",
+    "count": 0.47683,
+    "median": 0.425,
+    "summary": "超过60%同类",
+    "updated_at": "2026-10-10 00:00"
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "quota": "vqa",
+    "count": 3.905,
+    "median": null,
+    "summary": "超过56%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "quota": "clickRate",
+    "count": 0.06711,
+    "median": 0.092,
+    "summary": "超过30%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "quota": "fullViewRate",
+    "count": 0.03719,
+    "median": 0.045,
+    "summary": "超过42%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "quota": "followFromDiscovery",
+    "count": 7,
+    "median": 1,
+    "summary": "超过90%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "quota": "noteEngage",
+    "count": 28,
+    "median": 12,
+    "summary": "超过71%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "quota": "viewTimeAvg",
+    "count": 11.1,
+    "median": 13.659,
+    "summary": "超过38%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "quota": "interactRate",
+    "count": 0.12931,
+    "median": 0.046,
+    "summary": "超过90%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "quota": "fullView5sRate",
+    "count": 0.52479,
+    "median": 0.41,
+    "summary": "超过73%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "quota": "vqa",
+    "count": 4.083,
+    "median": null,
+    "summary": "超过64%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "quota": "clickRate",
+    "count": 0.05822,
+    "median": 0.089,
+    "summary": "超过23%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "quota": "fullViewRate",
+    "count": 0.02765,
+    "median": 0.059,
+    "summary": "超过26%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "quota": "followFromDiscovery",
+    "count": 3,
+    "median": 1,
+    "summary": "超过75%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "quota": "noteEngage",
+    "count": 45,
+    "median": 13,
+    "summary": "超过80%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "quota": "viewTimeAvg",
+    "count": 5.6,
+    "median": 15.79,
+    "summary": "超过8%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "quota": "interactRate",
+    "count": 0.21531,
+    "median": 0.045,
+    "summary": "超过96%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "quota": "fullView5sRate",
+    "count": 0.67281,
+    "median": 0.427,
+    "summary": "超过96%同类",
+    "updated_at": "2026-10-06 00:00"
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "quota": "vqa",
+    "count": 4.95,
+    "median": null,
+    "summary": "超过99%同类",
+    "updated_at": "2026-10-03 00:00"
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "quota": "clickRate",
+    "count": 0.08579,
+    "median": 0.083,
+    "summary": "超过51%同类",
+    "updated_at": "2026-10-03 00:00"
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "quota": "fullViewRate",
+    "count": 0.16034,
+    "median": 0.064,
+    "summary": "超过83%同类",
+    "updated_at": "2026-10-03 00:00"
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "quota": "followFromDiscovery",
+    "count": 1,
+    "median": 1,
+    "summary": "超过50%同类",
+    "updated_at": "2026-10-03 00:00"
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "quota": "noteEngage",
+    "count": 13,
+    "median": 23,
+    "summary": "超过35%同类",
+    "updated_at": "2026-10-03 00:00"
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "quota": "viewTimeAvg",
+    "count": 13.4,
+    "median": 16.121,
+    "summary": "超过40%同类",
+    "updated_at": "2026-10-03 00:00"
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "quota": "interactRate",
+    "count": 0.06771,
+    "median": 0.089,
+    "summary": "超过40%同类",
+    "updated_at": "2026-10-03 00:00"
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "quota": "fullView5sRate",
+    "count": 0.59494,
+    "median": 0.431,
+    "summary": "超过82%同类",
+    "updated_at": "2026-10-03 00:00"
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "quota": "vqa",
+    "count": 4.95,
+    "median": null,
+    "summary": "超过99%同类",
+    "updated_at": "2026-10-01 00:00"
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "quota": "clickRate",
+    "count": 0.04514,
+    "median": 0.092,
+    "summary": "超过14%同类",
+    "updated_at": "2026-10-01 00:00"
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "quota": "fullViewRate",
+    "count": 0.03571,
+    "median": 0.045,
+    "summary": "超过40%同类",
+    "updated_at": "2026-10-01 00:00"
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "quota": "followFromDiscovery",
+    "count": 12,
+    "median": 1,
+    "summary": "超过94%同类",
+    "updated_at": "2026-10-01 00:00"
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "quota": "noteEngage",
+    "count": 48,
+    "median": 12,
+    "summary": "超过81%同类",
+    "updated_at": "2026-10-01 00:00"
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "quota": "viewTimeAvg",
+    "count": 15.7,
+    "median": 13.659,
+    "summary": "超过57%同类",
+    "updated_at": "2026-10-01 00:00"
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "quota": "interactRate",
+    "count": 0.19433,
+    "median": 0.046,
+    "summary": "超过96%同类",
+    "updated_at": "2026-10-01 00:00"
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "quota": "fullView5sRate",
+    "count": 0.57143,
+    "median": 0.41,
+    "summary": "超过82%同类",
+    "updated_at": "2026-10-01 00:00"
+  }
+]

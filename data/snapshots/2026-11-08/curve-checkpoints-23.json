@@ -1,0 +1,715 @@
+[
+  {
+    "index": 1,
+    "id": "6ad6dccf0000000028039ce9",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 53.614875,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 62,
+        "same_curve_ref_pct": 31,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 26,
+        "own_pct": 43,
+        "same_curve_ref_pct": 6,
+        "own_relative_to_5s_pct": 69.355,
+        "ref_relative_to_5s_pct": 19.355
+      },
+      {
+        "second": 42,
+        "own_pct": 26,
+        "same_curve_ref_pct": 3,
+        "own_relative_to_5s_pct": 41.935,
+        "ref_relative_to_5s_pct": 9.677
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 2,
+    "id": "6ad6dcab000000002a024aef",
+    "curve_updated_at": "2026-10-28 01:00",
+    "video_duration": 52.337778,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 54,
+        "same_curve_ref_pct": 29,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 26,
+        "own_pct": 17,
+        "same_curve_ref_pct": 3,
+        "own_relative_to_5s_pct": 31.481,
+        "ref_relative_to_5s_pct": 10.345
+      },
+      {
+        "second": 41,
+        "own_pct": 11,
+        "same_curve_ref_pct": 2,
+        "own_relative_to_5s_pct": 20.37,
+        "ref_relative_to_5s_pct": 6.897
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 3,
+    "id": "6ac7b56d00000000180280bf",
+    "curve_updated_at": "2026-10-19 01:00",
+    "video_duration": 69.172245,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 71,
+        "same_curve_ref_pct": 44,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 34,
+        "own_pct": 13,
+        "same_curve_ref_pct": 13,
+        "own_relative_to_5s_pct": 18.31,
+        "ref_relative_to_5s_pct": 29.545
+      },
+      {
+        "second": 55,
+        "own_pct": 7,
+        "same_curve_ref_pct": 6,
+        "own_relative_to_5s_pct": 9.859,
+        "ref_relative_to_5s_pct": 13.636
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 4,
+    "id": "6ac7b54c0000000002010713",
+    "curve_updated_at": "2026-11-06 01:00",
+    "video_duration": 66.57161,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 58,
+        "same_curve_ref_pct": 34,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 33,
+        "own_pct": 24,
+        "same_curve_ref_pct": 5,
+        "own_relative_to_5s_pct": 41.379,
+        "ref_relative_to_5s_pct": 14.706
+      },
+      {
+        "second": 53,
+        "own_pct": 10,
+        "same_curve_ref_pct": 3,
+        "own_relative_to_5s_pct": 17.241,
+        "ref_relative_to_5s_pct": 8.824
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 5,
+    "id": "6ac7b52c0000000015001976",
+    "curve_updated_at": "2026-10-18 01:00",
+    "video_duration": 47.717007,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 64,
+        "same_curve_ref_pct": 44,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 23,
+        "own_pct": 24,
+        "same_curve_ref_pct": 11,
+        "own_relative_to_5s_pct": 37.5,
+        "ref_relative_to_5s_pct": 25.0
+      },
+      {
+        "second": 38,
+        "own_pct": 9,
+        "same_curve_ref_pct": 3,
+        "own_relative_to_5s_pct": 14.062,
+        "ref_relative_to_5s_pct": 6.818
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 6,
+    "id": "6ac7b5020000000015012768",
+    "curve_updated_at": "2026-10-13 01:00",
+    "video_duration": 46.672109,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 77,
+        "same_curve_ref_pct": 59,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 23,
+        "own_pct": 38,
+        "same_curve_ref_pct": 11,
+        "own_relative_to_5s_pct": 49.351,
+        "ref_relative_to_5s_pct": 18.644
+      },
+      {
+        "second": 37,
+        "own_pct": 21,
+        "same_curve_ref_pct": 6,
+        "own_relative_to_5s_pct": 27.273,
+        "ref_relative_to_5s_pct": 10.169
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 7,
+    "id": "6ac7b4d9000000001802bf66",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 49.644263,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 55,
+        "same_curve_ref_pct": 79,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 24,
+        "own_pct": 30,
+        "same_curve_ref_pct": 47,
+        "own_relative_to_5s_pct": 54.545,
+        "ref_relative_to_5s_pct": 59.494
+      },
+      {
+        "second": 39,
+        "own_pct": 12,
+        "same_curve_ref_pct": 31,
+        "own_relative_to_5s_pct": 21.818,
+        "ref_relative_to_5s_pct": 39.241
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 8,
+    "id": "6abf2bd7000000001a027c3a",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 87.433333,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 52,
+        "same_curve_ref_pct": 59,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 43,
+        "own_pct": 10,
+        "same_curve_ref_pct": 22,
+        "own_relative_to_5s_pct": 19.231,
+        "ref_relative_to_5s_pct": 37.288
+      },
+      {
+        "second": 69,
+        "own_pct": 7,
+        "same_curve_ref_pct": 14,
+        "own_relative_to_5s_pct": 13.462,
+        "ref_relative_to_5s_pct": 23.729
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 9,
+    "id": "6abf2bc3000000001802a3b5",
+    "curve_updated_at": "2026-10-07 19:00",
+    "video_duration": 84.822494,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 53,
+        "same_curve_ref_pct": 44,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 42,
+        "own_pct": 7,
+        "same_curve_ref_pct": 7,
+        "own_relative_to_5s_pct": 13.208,
+        "ref_relative_to_5s_pct": 15.909
+      },
+      {
+        "second": 67,
+        "own_pct": 2,
+        "same_curve_ref_pct": 4,
+        "own_relative_to_5s_pct": 3.774,
+        "ref_relative_to_5s_pct": 9.091
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 10,
+    "id": "6abf2bb6000000000200f05c",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 82.779138,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 45,
+        "same_curve_ref_pct": 54,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 41,
+        "own_pct": 9,
+        "same_curve_ref_pct": 26,
+        "own_relative_to_5s_pct": 20.0,
+        "ref_relative_to_5s_pct": 48.148
+      },
+      {
+        "second": 66,
+        "own_pct": 5,
+        "same_curve_ref_pct": 18,
+        "own_relative_to_5s_pct": 11.111,
+        "ref_relative_to_5s_pct": 33.333
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 11,
+    "id": "6abf2ba3000000001c02f003",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 81.166667,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 63,
+        "same_curve_ref_pct": 27,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 40,
+        "own_pct": 24,
+        "same_curve_ref_pct": 1,
+        "own_relative_to_5s_pct": 38.095,
+        "ref_relative_to_5s_pct": 3.704
+      },
+      {
+        "second": 64,
+        "own_pct": 18,
+        "same_curve_ref_pct": 1,
+        "own_relative_to_5s_pct": 28.571,
+        "ref_relative_to_5s_pct": 3.704
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 12,
+    "id": "6abf2b76000000001b033e9b",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 89.666667,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 57,
+        "same_curve_ref_pct": 61,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 44,
+        "own_pct": 7,
+        "same_curve_ref_pct": 24,
+        "own_relative_to_5s_pct": 12.281,
+        "ref_relative_to_5s_pct": 39.344
+      },
+      {
+        "second": 71,
+        "own_pct": 3,
+        "same_curve_ref_pct": 13,
+        "own_relative_to_5s_pct": 5.263,
+        "ref_relative_to_5s_pct": 21.311
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 13,
+    "id": "6ab93a8f000000001b032079",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 70.766667,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 70,
+        "same_curve_ref_pct": 63,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 35,
+        "own_pct": 46,
+        "same_curve_ref_pct": 27,
+        "own_relative_to_5s_pct": 65.714,
+        "ref_relative_to_5s_pct": 42.857
+      },
+      {
+        "second": 56,
+        "own_pct": 36,
+        "same_curve_ref_pct": 17,
+        "own_relative_to_5s_pct": 51.429,
+        "ref_relative_to_5s_pct": 26.984
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 14,
+    "id": "6ab93a7c000000001a030f02",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 65.6,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 67,
+        "same_curve_ref_pct": 56,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 32,
+        "own_pct": 26,
+        "same_curve_ref_pct": 27,
+        "own_relative_to_5s_pct": 38.806,
+        "ref_relative_to_5s_pct": 48.214
+      },
+      {
+        "second": 52,
+        "own_pct": 20,
+        "same_curve_ref_pct": 19,
+        "own_relative_to_5s_pct": 29.851,
+        "ref_relative_to_5s_pct": 33.929
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 15,
+    "id": "6ab939eb000000001b01d8ff",
+    "curve_updated_at": "2026-11-08 09:00",
+    "video_duration": 70.336,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 59,
+        "same_curve_ref_pct": 42,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 35,
+        "own_pct": 17,
+        "same_curve_ref_pct": 14,
+        "own_relative_to_5s_pct": 28.814,
+        "ref_relative_to_5s_pct": 33.333
+      },
+      {
+        "second": 56,
+        "own_pct": 11,
+        "same_curve_ref_pct": 5,
+        "own_relative_to_5s_pct": 18.644,
+        "ref_relative_to_5s_pct": 11.905
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 16,
+    "id": "6ab939c20000000018014cc4",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 61.866667,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 55,
+        "same_curve_ref_pct": 54,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 30,
+        "own_pct": 26,
+        "same_curve_ref_pct": 28,
+        "own_relative_to_5s_pct": 47.273,
+        "ref_relative_to_5s_pct": 51.852
+      },
+      {
+        "second": 49,
+        "own_pct": 16,
+        "same_curve_ref_pct": 16,
+        "own_relative_to_5s_pct": 29.091,
+        "ref_relative_to_5s_pct": 29.63
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 17,
+    "id": "6ab2b1fc000000000a01fb12",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 67.733333,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 41,
+        "same_curve_ref_pct": 75,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 33,
+        "own_pct": 12,
+        "same_curve_ref_pct": 33,
+        "own_relative_to_5s_pct": 29.268,
+        "ref_relative_to_5s_pct": 44.0
+      },
+      {
+        "second": 54,
+        "own_pct": 7,
+        "same_curve_ref_pct": 17,
+        "own_relative_to_5s_pct": 17.073,
+        "ref_relative_to_5s_pct": 22.667
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 18,
+    "id": "6ab2b1e100000000180190c4",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 62.570667,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 58,
+        "same_curve_ref_pct": 55,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 31,
+        "own_pct": 16,
+        "same_curve_ref_pct": 25,
+        "own_relative_to_5s_pct": 27.586,
+        "ref_relative_to_5s_pct": 45.455
+      },
+      {
+        "second": 50,
+        "own_pct": 10,
+        "same_curve_ref_pct": 19,
+        "own_relative_to_5s_pct": 17.241,
+        "ref_relative_to_5s_pct": 34.545
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 19,
+    "id": "6ab2b1c300000000020106a5",
+    "curve_updated_at": "2026-09-25 20:00",
+    "video_duration": 62.336,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 52,
+        "same_curve_ref_pct": 29,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 31,
+        "own_pct": 21,
+        "same_curve_ref_pct": 2,
+        "own_relative_to_5s_pct": 40.385,
+        "ref_relative_to_5s_pct": 6.897
+      },
+      {
+        "second": 49,
+        "own_pct": 15,
+        "same_curve_ref_pct": 1,
+        "own_relative_to_5s_pct": 28.846,
+        "ref_relative_to_5s_pct": 3.448
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 20,
+    "id": "6ab00a2d0000000026009a5b",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 65.633333,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 56,
+        "same_curve_ref_pct": 56,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 32,
+        "own_pct": 26,
+        "same_curve_ref_pct": 27,
+        "own_relative_to_5s_pct": 46.429,
+        "ref_relative_to_5s_pct": 48.214
+      },
+      {
+        "second": 52,
+        "own_pct": 13,
+        "same_curve_ref_pct": 19,
+        "own_relative_to_5s_pct": 23.214,
+        "ref_relative_to_5s_pct": 33.929
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 21,
+    "id": "6ab005af000000001001f12c",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 71.63356,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 69,
+        "same_curve_ref_pct": 23,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 35,
+        "own_pct": 26,
+        "same_curve_ref_pct": 1,
+        "own_relative_to_5s_pct": 37.681,
+        "ref_relative_to_5s_pct": 4.348
+      },
+      {
+        "second": 57,
+        "own_pct": 16,
+        "same_curve_ref_pct": 0,
+        "own_relative_to_5s_pct": 23.188,
+        "ref_relative_to_5s_pct": 0.0
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 22,
+    "id": "6aac0ff5000000001103a885",
+    "curve_updated_at": "2026-11-08 10:00",
+    "video_duration": 58.666667,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 55,
+        "same_curve_ref_pct": 47,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 29,
+        "own_pct": 23,
+        "same_curve_ref_pct": 16,
+        "own_relative_to_5s_pct": 41.818,
+        "ref_relative_to_5s_pct": 34.043
+      },
+      {
+        "second": 46,
+        "own_pct": 18,
+        "same_curve_ref_pct": 12,
+        "own_relative_to_5s_pct": 32.727,
+        "ref_relative_to_5s_pct": 25.532
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  },
+  {
+    "index": 23,
+    "id": "6aa95bd9000000000b0340da",
+    "curve_updated_at": "2026-11-08 09:00",
+    "video_duration": 60.766667,
+    "positions": [
+      {
+        "second": 5,
+        "own_pct": 63,
+        "same_curve_ref_pct": 49,
+        "own_relative_to_5s_pct": 100.0,
+        "ref_relative_to_5s_pct": 100.0
+      },
+      {
+        "second": 30,
+        "own_pct": 17,
+        "same_curve_ref_pct": 9,
+        "own_relative_to_5s_pct": 26.984,
+        "ref_relative_to_5s_pct": 18.367
+      },
+      {
+        "second": 48,
+        "own_pct": 10,
+        "same_curve_ref_pct": 3,
+        "own_relative_to_5s_pct": 15.873,
+        "ref_relative_to_5s_pct": 6.122
+      }
+    ],
+    "scope": "描述性比值，由同一曲线的整数点值计算；不是后台新增指标、不是用户数或显著性结论。排除5秒前既有差异以辅助复看中后段，参考组算法及真实片长匹配未知。",
+    "not_a_causal_metric": true
+  }
+]

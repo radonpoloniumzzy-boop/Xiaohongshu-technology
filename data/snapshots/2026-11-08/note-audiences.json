@@ -1,0 +1,3108 @@
+[
+  {
+    "id": "6ae995cd000000001b01fdef",
+    "title": "这手机没折叠，怎么也长这么宽？",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ae995aa000000001100da36",
+    "title": "手机放上底座，怎么开始跟我对视了",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ae99591000000001a027e83",
+    "title": "机器人逛菜摊，购物篮比它还抢镜",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ad6dccf0000000028039ce9",
+    "title": "扫地机能建地图，为啥过不去门槛？",
+    "updated_at": "2026-11-08 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 36
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 64
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 15
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 52
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 21
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 7
+      }
+    ],
+    "city": [
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "value": 7,
+        "title": "海外",
+        "color": "#FF2442"
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "重庆",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "南宁"
+      },
+      {
+        "title": "沈阳",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "南京",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "color": "#FF2442",
+        "value": 9,
+        "title": "家居家装"
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "value": 8,
+        "title": "生活记录",
+        "color": "#FF2442"
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "宠物",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "color": "#FF2442",
+        "value": 3,
+        "title": "社科"
+      }
+    ]
+  },
+  {
+    "id": "6ad6dcbf000000002f03a7b0",
+    "title": "手柄一按，真机器人开始打拳",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ad6dcab000000002a024aef",
+    "title": "机器狗装上轮子，连楼梯也能爬",
+    "updated_at": "2026-10-27 08:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 61
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 39
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 12
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 15
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 26
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 26
+      },
+      {
+        "color": "#FF2442",
+        "value": 21,
+        "title": ">44"
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "value": 5,
+        "title": "深圳",
+        "color": "#FF2442"
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "福州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 1
+      }
+    ],
+    "interest": [
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "color": "#FF2442",
+        "value": 7,
+        "title": "影视"
+      },
+      {
+        "color": "#FF2442",
+        "value": 5,
+        "title": "娱乐"
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "汽车",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6ad6dc99000000002a00d3d5",
+    "title": "手机镜头伸出来了，还会转头跟拍",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ad6dc85000000002f03a6fd",
+    "title": "这个带轮子的手柄，能给盲人带路",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ad6dc75000000002803eafe",
+    "title": "机器人倒立走路，双手怎么撑得住？",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ac7b57d000000000a01f519",
+    "title": "不用电的计算器，乘法竟然靠手摇",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ac7b56d00000000180280bf",
+    "title": "这台云台相机，镜头拆了还能看画面",
+    "updated_at": "2026-10-18 00:00",
+    "gender": [
+      {
+        "color": "#3D8AF5",
+        "value": 67,
+        "title": "男性"
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 33
+      }
+    ],
+    "age": [
+      {
+        "color": "#FF2442",
+        "value": 13,
+        "title": "<18"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 14
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 26
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 30
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 16
+      }
+    ],
+    "city": [
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "value": 4,
+        "title": "深圳",
+        "color": "#FF2442"
+      },
+      {
+        "title": "天津",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "color": "#FF2442",
+        "value": 3,
+        "title": "杭州"
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "南京",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "color": "#FF2442",
+        "value": 8,
+        "title": "社科"
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "color": "#FF2442",
+        "value": 6,
+        "title": "游戏"
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "汽车",
+        "color": "#FF2442",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "6ac7b55d000000000201073d",
+    "title": "腿上装4个电机，外骨骼这样帮你走",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ac7b54c0000000002010713",
+    "title": "智能眼镜镜片透明，消息显示在哪？",
+    "updated_at": "2026-10-30 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 65
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 35
+      }
+    ],
+    "age": [
+      {
+        "color": "#FF2442",
+        "value": 9,
+        "title": "<18"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 19
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 24
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 29
+      },
+      {
+        "value": 18,
+        "title": ">44",
+        "color": "#FF2442"
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 13
+      },
+      {
+        "color": "#FF2442",
+        "value": 6,
+        "title": "北京"
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "color": "#FF2442",
+        "value": 5,
+        "title": "深圳"
+      },
+      {
+        "title": "香港",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "重庆",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "兰州"
+      }
+    ],
+    "interest": [
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "color": "#FF2442",
+        "value": 5,
+        "title": "游戏"
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "汽车",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6ac7b53d000000000200da1c",
+    "title": "机器人退役，竟被安排跳进熔炉",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ac7b52c0000000015001976",
+    "title": "酒店送水机器人，怎么是个套娃？",
+    "updated_at": "2026-10-17 17:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 38
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 62
+      }
+    ],
+    "age": [
+      {
+        "value": 12,
+        "title": "<18",
+        "color": "#FF2442"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 15
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 30
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 25
+      },
+      {
+        "color": "#FF2442",
+        "value": 17,
+        "title": ">44"
+      }
+    ],
+    "city": [
+      {
+        "color": "#FF2442",
+        "value": 7,
+        "title": "北京"
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "天津",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "昆明",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "苏州"
+      }
+    ],
+    "interest": [
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "游戏",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "6ac7b515000000001b020f49",
+    "title": "机器人发试吃，两只手忙出流水线",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ac7b5020000000015012768",
+    "title": "CD比机器还大，露在外面也能播？",
+    "updated_at": "2026-10-12 08:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 61
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 39
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 27
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 21
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 20
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 18
+      },
+      {
+        "value": 14,
+        "title": ">44",
+        "color": "#FF2442"
+      }
+    ],
+    "city": [
+      {
+        "value": 6,
+        "title": "北京",
+        "color": "#FF2442"
+      },
+      {
+        "color": "#FF2442",
+        "value": 5,
+        "title": "上海"
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "color": "#FF2442",
+        "value": 3,
+        "title": "天津"
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "value": 2,
+        "title": "武汉",
+        "color": "#FF2442"
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "广州"
+      },
+      {
+        "title": "沈阳",
+        "color": "#FF2442",
+        "value": 1
+      }
+    ],
+    "interest": [
+      {
+        "title": "游戏",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "value": 6,
+        "title": "搞笑",
+        "color": "#FF2442"
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "id": "6ac7b4f2000000001c01debb",
+    "title": "从客厅到露台，他真铺了条模型铁路",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ac7b4d9000000001802bf66",
+    "title": "手机膜上的水珠，怎么长出小表情？",
+    "updated_at": "2026-10-24 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 47
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 53
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 14
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 16
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 31
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 24
+      },
+      {
+        "color": "#FF2442",
+        "value": 15,
+        "title": ">44"
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 15
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "天津",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "广州"
+      },
+      {
+        "value": 2,
+        "title": "苏州",
+        "color": "#FF2442"
+      },
+      {
+        "title": "厦门",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "color": "#FF2442",
+        "value": 9,
+        "title": "兴趣爱好"
+      },
+      {
+        "value": 9,
+        "title": "生活记录",
+        "color": "#FF2442"
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "color": "#FF2442",
+        "value": 8,
+        "title": "游戏"
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "6abf2bd7000000001a027c3a",
+    "title": "风扇不吹风，开始给我放广告了",
+    "updated_at": "2026-10-22 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 40
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 60
+      }
+    ],
+    "age": [
+      {
+        "color": "#FF2442",
+        "value": 9,
+        "title": "<18"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 22
+      },
+      {
+        "value": 29,
+        "title": "25-34",
+        "color": "#FF2442"
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 25
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 15
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 19
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "color": "#FF2442",
+        "value": 3,
+        "title": "杭州"
+      },
+      {
+        "color": "#FF2442",
+        "value": 3,
+        "title": "广州"
+      },
+      {
+        "title": "天津",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "value": 7,
+        "title": "影视",
+        "color": "#FF2442"
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "value": 6,
+        "title": "美食",
+        "color": "#FF2442"
+      },
+      {
+        "value": 5,
+        "title": "家居家装",
+        "color": "#FF2442"
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6abf2bc3000000001802a3b5",
+    "title": "手里玩着玩具，手机已经刷上了",
+    "updated_at": "2026-10-07 19:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 59
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 41
+      }
+    ],
+    "age": [
+      {
+        "value": 11,
+        "title": "<18",
+        "color": "#FF2442"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 22
+      },
+      {
+        "value": 25,
+        "title": "25-34",
+        "color": "#FF2442"
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 29
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 12
+      }
+    ],
+    "city": [
+      {
+        "color": "#FF2442",
+        "value": 10,
+        "title": "海外"
+      },
+      {
+        "value": 9,
+        "title": "北京",
+        "color": "#FF2442"
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "天津",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "color": "#FF2442",
+        "value": 8,
+        "title": "影视"
+      },
+      {
+        "color": "#FF2442",
+        "value": 8,
+        "title": "科技数码"
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "color": "#FF2442",
+        "value": 6,
+        "title": "游戏"
+      },
+      {
+        "value": 6,
+        "title": "娱乐",
+        "color": "#FF2442"
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "6abf2bb6000000000200f05c",
+    "title": "给机器鸭装上轮子，路子一下野了",
+    "updated_at": "2026-10-20 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 43
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 57
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 19
+      },
+      {
+        "color": "#FF2442",
+        "value": 22,
+        "title": "18-24"
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 22
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 25
+      },
+      {
+        "color": "#FF2442",
+        "value": 12,
+        "title": ">44"
+      }
+    ],
+    "city": [
+      {
+        "color": "#FF2442",
+        "value": 5,
+        "title": "北京"
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "value": 1,
+        "title": "宁波",
+        "color": "#FF2442"
+      },
+      {
+        "title": "青岛",
+        "color": "#FF2442",
+        "value": 1
+      },
+      {
+        "value": 1,
+        "title": "深圳",
+        "color": "#FF2442"
+      },
+      {
+        "title": "佛山",
+        "color": "#FF2442",
+        "value": 1
+      },
+      {
+        "title": "昆明",
+        "color": "#FF2442",
+        "value": 1
+      }
+    ],
+    "interest": [
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 12
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 12
+      },
+      {
+        "value": 11,
+        "title": "游戏",
+        "color": "#FF2442"
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "value": 6,
+        "title": "搞笑",
+        "color": "#FF2442"
+      },
+      {
+        "title": "宠物",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6abf2ba3000000001c02f003",
+    "title": "糖吃完了，盒子居然还能开机",
+    "updated_at": "2026-10-20 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 45
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 55
+      }
+    ],
+    "age": [
+      {
+        "value": 15,
+        "title": "<18",
+        "color": "#FF2442"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 24
+      },
+      {
+        "value": 27,
+        "title": "25-34",
+        "color": "#FF2442"
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 22
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 11
+      }
+    ],
+    "city": [
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 1
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 1
+      },
+      {
+        "title": "重庆",
+        "color": "#FF2442",
+        "value": 1
+      }
+    ],
+    "interest": [
+      {
+        "color": "#FF2442",
+        "value": 11,
+        "title": "生活记录"
+      },
+      {
+        "title": "游戏",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "搞笑",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6abf2b76000000001b033e9b",
+    "title": "别人帮你磨皮，它偏要拍明白",
+    "updated_at": "2026-10-18 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 50
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 50
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 13
+      },
+      {
+        "value": 14,
+        "title": "18-24",
+        "color": "#FF2442"
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 30
+      },
+      {
+        "value": 30,
+        "title": "35-44",
+        "color": "#FF2442"
+      },
+      {
+        "color": "#FF2442",
+        "value": 13,
+        "title": ">44"
+      }
+    ],
+    "city": [
+      {
+        "color": "#FF2442",
+        "value": 9,
+        "title": "海外"
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "value": 4,
+        "title": "杭州",
+        "color": "#FF2442"
+      },
+      {
+        "color": "#FF2442",
+        "value": 4,
+        "title": "武汉"
+      },
+      {
+        "value": 3,
+        "title": "广州",
+        "color": "#FF2442"
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "value": 9,
+        "title": "生活记录",
+        "color": "#FF2442"
+      },
+      {
+        "value": 9,
+        "title": "社科",
+        "color": "#FF2442"
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6ab93a8f000000001b032079",
+    "title": "进厨房先问：菜刀充电了吗？",
+    "updated_at": "2026-10-18 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 69
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 31
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 17
+      },
+      {
+        "color": "#FF2442",
+        "value": 31,
+        "title": "25-34"
+      },
+      {
+        "color": "#FF2442",
+        "value": 31,
+        "title": "35-44"
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 13
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "value": 3,
+        "title": "广州",
+        "color": "#FF2442"
+      },
+      {
+        "title": "济南",
+        "color": "#FF2442",
+        "value": 1
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 1
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 1
+      }
+    ],
+    "interest": [
+      {
+        "color": "#FF2442",
+        "value": 11,
+        "title": "社科"
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "家居家装",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6ab93a7c000000001a030f02",
+    "title": "跑姿扭扭捏捏，成绩一点没客气",
+    "updated_at": "2026-10-17 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 58
+      },
+      {
+        "value": 42,
+        "title": "女性",
+        "color": "#FF2442"
+      }
+    ],
+    "age": [
+      {
+        "value": 5,
+        "title": "<18",
+        "color": "#FF2442"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 13
+      },
+      {
+        "color": "#FF2442",
+        "value": 31,
+        "title": "25-34"
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 32
+      },
+      {
+        "value": 19,
+        "title": ">44",
+        "color": "#FF2442"
+      }
+    ],
+    "city": [
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "color": "#FF2442",
+        "value": 3,
+        "title": "广州"
+      },
+      {
+        "title": "厦门",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "嘉兴"
+      },
+      {
+        "title": "沈阳",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "color": "#FF2442",
+        "value": 10,
+        "title": "社科"
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "汽车",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "教育",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6ab939eb000000001b01d8ff",
+    "title": "你问什么色号，我说手机号",
+    "updated_at": "2026-10-16 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 55
+      },
+      {
+        "color": "#FF2442",
+        "value": 45,
+        "title": "女性"
+      }
+    ],
+    "age": [
+      {
+        "value": 25,
+        "title": "<18",
+        "color": "#FF2442"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 19
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 21
+      },
+      {
+        "color": "#FF2442",
+        "value": 21,
+        "title": "35-44"
+      },
+      {
+        "color": "#FF2442",
+        "value": 13,
+        "title": ">44"
+      }
+    ],
+    "city": [
+      {
+        "color": "#FF2442",
+        "value": 4,
+        "title": "上海"
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "宁波",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "青岛"
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "title": "游戏",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "value": 8,
+        "title": "搞笑",
+        "color": "#FF2442"
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "value": 4,
+        "title": "美食",
+        "color": "#FF2442"
+      }
+    ]
+  },
+  {
+    "id": "6ab939c20000000018014cc4",
+    "title": "这只蜜蜂不采蜜，先负责飞起来",
+    "updated_at": "2026-10-15 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 63
+      },
+      {
+        "color": "#FF2442",
+        "value": 37,
+        "title": "女性"
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 15
+      },
+      {
+        "value": 34,
+        "title": "25-34",
+        "color": "#FF2442"
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 26
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 17
+      }
+    ],
+    "city": [
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 12
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "重庆",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "value": 2,
+        "title": "天津",
+        "color": "#FF2442"
+      }
+    ],
+    "interest": [
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "color": "#FF2442",
+        "value": 4,
+        "title": "教育"
+      },
+      {
+        "value": 4,
+        "title": "宠物",
+        "color": "#FF2442"
+      }
+    ]
+  },
+  {
+    "id": "6ab939d600000000020298d9",
+    "title": "家具搬不走，配色能带走",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ab939a70000000018028538",
+    "title": "别人轮子不圆得修，它不圆能过坎",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ab2b1fc000000000a01fb12",
+    "title": "站累了找椅子，他给椅子修了条路",
+    "updated_at": "2026-10-12 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 52
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 48
+      }
+    ],
+    "age": [
+      {
+        "value": 9,
+        "title": "<18",
+        "color": "#FF2442"
+      },
+      {
+        "value": 24,
+        "title": "18-24",
+        "color": "#FF2442"
+      },
+      {
+        "color": "#FF2442",
+        "value": 32,
+        "title": "25-34"
+      },
+      {
+        "color": "#FF2442",
+        "value": 22,
+        "title": "35-44"
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 13
+      }
+    ],
+    "city": [
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "重庆"
+      }
+    ],
+    "interest": [
+      {
+        "color": "#FF2442",
+        "value": 10,
+        "title": "生活记录"
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "游戏",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "6ab2b1e100000000180190c4",
+    "title": "走路时给你加速的电动鞋",
+    "updated_at": "2026-10-10 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 54
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 46
+      }
+    ],
+    "age": [
+      {
+        "color": "#FF2442",
+        "value": 10,
+        "title": "<18"
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 12
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 36
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 23
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 19
+      }
+    ],
+    "city": [
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "value": 7,
+        "title": "上海",
+        "color": "#FF2442"
+      },
+      {
+        "value": 6,
+        "title": "海外",
+        "color": "#FF2442"
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "重庆",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "温州",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "家居家装",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "6ab5ed4c00000000020289d5",
+    "title": "手够不着🐾它把自己放出去了",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ab5ec700000000014000196",
+    "title": "别人找车☁️她先给车打气",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ab2b1c300000000020106a5",
+    "title": "以前木头挨钉，现在木头也来上班了",
+    "updated_at": "2026-09-25 20:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 58
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 42
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 21
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 25
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 19
+      },
+      {
+        "color": "#FF2442",
+        "value": 23,
+        "title": "35-44"
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 13
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "value": 2,
+        "title": "杭州",
+        "color": "#FF2442"
+      },
+      {
+        "title": "重庆",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "济南",
+        "color": "#FF2442",
+        "value": 1
+      },
+      {
+        "title": "青岛",
+        "color": "#FF2442",
+        "value": 1
+      },
+      {
+        "title": "天津",
+        "color": "#FF2442",
+        "value": 1
+      }
+    ],
+    "interest": [
+      {
+        "title": "游戏",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "搞笑",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "value": 5,
+        "title": "美食",
+        "color": "#FF2442"
+      }
+    ]
+  },
+  {
+    "id": "6ab2b1ae0000000014032cd2",
+    "title": "别人找车☁️她先给车打气",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ab2b193000000000200d7d3",
+    "title": "手够不着🐾它把自己放出去了",
+    "updated_at": "NA",
+    "gender": [],
+    "age": [],
+    "city": [],
+    "interest": []
+  },
+  {
+    "id": "6ab00a2d0000000026009a5b",
+    "title": "三条拉链，拉出了一个支架？",
+    "updated_at": "2026-10-06 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 74
+      },
+      {
+        "value": 26,
+        "title": "女性",
+        "color": "#FF2442"
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 32
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 37
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 19
+      },
+      {
+        "color": "#FF2442",
+        "value": 10,
+        "title": ">44"
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 12
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "广州",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "title": "东莞",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "武汉",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "value": 11,
+        "title": "生活记录",
+        "color": "#FF2442"
+      },
+      {
+        "value": 8,
+        "title": "社科",
+        "color": "#FF2442"
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "家居家装",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "value": 6,
+        "title": "二次元",
+        "color": "#FF2442"
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "6ab005af000000001001f12c",
+    "title": "这盘蛋糕☀️真是太阳晒熟的",
+    "updated_at": "2026-10-06 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 34
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 66
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 51
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 26
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "value": 6,
+        "title": ">44",
+        "color": "#FF2442"
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "value": 4,
+        "title": "北京",
+        "color": "#FF2442"
+      },
+      {
+        "title": "重庆",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "成都",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "苏州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "天津",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "color": "#FF2442",
+        "value": 12,
+        "title": "生活记录"
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "游戏",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "color": "#FF2442",
+        "value": 4,
+        "title": "宠物"
+      }
+    ]
+  },
+  {
+    "id": "6aac0ff5000000001103a885",
+    "title": "这只小鸟 怎么倒下了？！",
+    "updated_at": "2026-10-02 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 48
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 52
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "18-24",
+        "color": "#FF2442",
+        "value": 29
+      },
+      {
+        "title": "25-34",
+        "color": "#FF2442",
+        "value": 33
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 21
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 9
+      }
+    ],
+    "city": [
+      {
+        "title": "海外",
+        "color": "#FF2442",
+        "value": 20
+      },
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 3
+      },
+      {
+        "color": "#FF2442",
+        "value": 3,
+        "title": "广州"
+      },
+      {
+        "title": "福州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "香港",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "苏州",
+        "color": "#FF2442",
+        "value": 2
+      }
+    ],
+    "interest": [
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 13
+      },
+      {
+        "color": "#FF2442",
+        "value": 10,
+        "title": "影视"
+      },
+      {
+        "title": "娱乐",
+        "color": "#FF2442",
+        "value": 9
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 7
+      },
+      {
+        "title": "美食",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "科技数码",
+        "color": "#FF2442",
+        "value": 5
+      },
+      {
+        "color": "#FF2442",
+        "value": 5,
+        "title": "游戏"
+      }
+    ]
+  },
+  {
+    "id": "6aa95bd9000000000b0340da",
+    "title": "这只机器狗😮出门连走路姿势都换了",
+    "updated_at": "2026-10-01 00:00",
+    "gender": [
+      {
+        "title": "男性",
+        "color": "#3D8AF5",
+        "value": 40
+      },
+      {
+        "title": "女性",
+        "color": "#FF2442",
+        "value": 60
+      }
+    ],
+    "age": [
+      {
+        "title": "<18",
+        "color": "#FF2442",
+        "value": 15
+      },
+      {
+        "color": "#FF2442",
+        "value": 35,
+        "title": "18-24"
+      },
+      {
+        "value": 22,
+        "title": "25-34",
+        "color": "#FF2442"
+      },
+      {
+        "title": "35-44",
+        "color": "#FF2442",
+        "value": 20
+      },
+      {
+        "title": ">44",
+        "color": "#FF2442",
+        "value": 8
+      }
+    ],
+    "city": [
+      {
+        "title": "上海",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "color": "#FF2442",
+        "value": 5,
+        "title": "海外"
+      },
+      {
+        "title": "深圳",
+        "color": "#FF2442",
+        "value": 4
+      },
+      {
+        "value": 3,
+        "title": "香港",
+        "color": "#FF2442"
+      },
+      {
+        "title": "杭州",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "title": "北京",
+        "color": "#FF2442",
+        "value": 2
+      },
+      {
+        "color": "#FF2442",
+        "value": 2,
+        "title": "福州"
+      },
+      {
+        "title": "哈尔滨",
+        "color": "#FF2442",
+        "value": 1
+      }
+    ],
+    "interest": [
+      {
+        "title": "生活记录",
+        "color": "#FF2442",
+        "value": 11
+      },
+      {
+        "title": "二次元",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "title": "影视",
+        "color": "#FF2442",
+        "value": 10
+      },
+      {
+        "title": "游戏",
+        "color": "#FF2442",
+        "value": 8
+      },
+      {
+        "title": "兴趣爱好",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "color": "#FF2442",
+        "value": 6,
+        "title": "娱乐"
+      },
+      {
+        "title": "社科",
+        "color": "#FF2442",
+        "value": 6
+      },
+      {
+        "title": "搞笑",
+        "color": "#FF2442",
+        "value": 5
+      }
+    ]
+  }
+]
