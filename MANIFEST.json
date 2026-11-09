@@ -25,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 788,
-      "sha256": "6fa8ca27e98e3bdba474957bf04bb37474f67b125fa5513ba581450cdaad730a"
+      "bytes": 867,
+      "sha256": "fd2be0ec4dfb9a85352df15717a1fb2cbe9ad8153136fa02751920cd9aa3e2ea"
     },
     {
       "path": "config/local-roots.example.json",
@@ -195,8 +195,8 @@
     },
     {
       "path": "PROJECT-STATE.md",
-      "bytes": 4520,
-      "sha256": "61e1c59093c20bcb5f191e4bb5f0a4e6577a4ccd8608412b656e4b800bb86426"
+      "bytes": 4673,
+      "sha256": "dcc9f4f5e2c6f94d737a19a8ee598566cd850e061b364dc4177c2b3ba4835ce2"
     },
     {
       "path": "README.md",
@@ -210,8 +210,8 @@
     },
     {
       "path": "reports/CODEX-SKILL-AUDIT-COMPLETION-20261109.md",
-      "bytes": 4783,
-      "sha256": "a2ae83b97b2d5a05650b9ea7c989578c7651a42b4e8cce15c4ec931167ddc318"
+      "bytes": 5140,
+      "sha256": "94d850ba7d60261c9f618e08685c3146ac94fff48dd0b76373bb3157269287e6"
     },
     {
       "path": "reports/content-funnel-audit.md",

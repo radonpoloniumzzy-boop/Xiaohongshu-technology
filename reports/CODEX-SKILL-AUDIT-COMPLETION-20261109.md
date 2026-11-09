@@ -1,6 +1,6 @@
 # CODEX-COMPLETION：Issue #3 现有运营能力审计
 
-状态：研究、报告与本地验证已完成，远程PR回执待补。审计日2026-11-09；自有账号结果快照2026-11-08。任务：[Issue #3](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/issues/3)。独立分支：codex/existing-ops-capability-audit-20261109，基于main提交eba2ee734d349fe42e971cae463066bd75d8e701。PR：待创建；不自动合并、不关闭Issue。
+状态：研究、报告、本地验证与独立PR交付已完成；等待人工审阅。审计日2026-11-09；自有账号结果快照2026-11-08。任务：[Issue #3](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/issues/3)。独立分支：codex/existing-ops-capability-audit-20261109，基于main提交eba2ee734d349fe42e971cae463066bd75d8e701。PR：[#4](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/pull/4)，open、未合并；不自动合并、不关闭Issue。
 
 ## 实际完成
 
@@ -23,6 +23,7 @@
 - 既有命令 scripts/validate_handoff.py --refresh-manifest：退出0、pass，核50个受清单管理文件（不含MANIFEST自身），41篇/23篇/56项目覆盖不变；随后普通validate_handoff.py再核。初跑因新增报告/状态未刷新清单而退出1，维护原有MANIFEST后解决，没有修改校验器。
 - 既有命令 scripts/recompute_metrics.py：退出0，周观看3613→5229、关注41→70，累计集中度77.4502%，仍为事件密度/累计口径，不冒称去重转化。
 - 本轮库外一次性复核：退出0、pass；19矩阵行/7维、35条台账ID/引用/校验和、两案例结构、六份新增研究文件的私有根路径/付费原表摘要排除及源完整性均通过。辅助隐私正则初把https://误当盘符，纠正边界后通过；没有实际私有路径泄露。一次性复核脚本不加入仓库，不构成替代系统。
+- 远程首次提交1d5a7036ecda3b3563f9288163010cca6417957d与本地暂存树逐一相同；PR #4为独立分支、9个变更文件，远端检查为open/未合并/可合并（clean），main仍为eba2ee7。本回执随PR更新，不代表自动合并。
 - 本轮两个自建OpenCLI会话的tab lease已释放；共享daemon未停止。未声称关闭用户原窗口。
 
 ## 未解决问题与最小接续材料
