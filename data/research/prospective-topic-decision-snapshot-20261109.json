@@ -1,0 +1,387 @@
+{
+  "schema": "single prospective research decision snapshot; not a new operational system",
+  "frozen_at_utc": "2026-11-09T09:52:32+00:00",
+  "frozen_at_shanghai": "2026-11-09T17:52:32+08:00",
+  "authority": "Issue #5 stage-one research only; no production or publication authorization",
+  "base_main_commit": "eba2ee734d349fe42e971cae463066bd75d8e701",
+  "prior_audit_commit": "d9bb037f57db469669643c4c208b5bf77186b988",
+  "freeze_commit_sha_location": "reports/prospective-closed-loop-handoff-20261109.md in a later append-only receipt commit; this snapshot never self-edited to insert its own SHA",
+  "counts": {
+    "candidates": 5,
+    "conditional_research_priority": 1,
+    "observe": 3,
+    "reject_duplicate": 1,
+    "verified_organic_outliers": 0,
+    "authors_with_history_attempted": 1,
+    "authors_with_rows_recovered": 1,
+    "authors_with_complete_clean_matched_baseline": 0
+  },
+  "candidates": [
+    {
+      "candidate_id": "C01",
+      "topic": "小米人形机器人的工厂8小时作业声明",
+      "decision": "入围研究（有条件探索；异常未证）",
+      "status": "conditional_research_priority",
+      "priority_order": 1,
+      "evidence_type": "application_statement_with_promoted_distribution",
+      "source_refs": [
+        "Q04",
+        "A03",
+        "A04",
+        "A04_CONDITION",
+        "N01_STATE",
+        "N03"
+      ],
+      "source_row_identity_sha256": "f54240b7ee985ec41af19d44d912af69ac53acc27788a7a92984f9c6eb63277d",
+      "publisher_alias": "AUTHOR_A",
+      "author_display_id_observed_in_provider": true,
+      "platform_author_id_independently_verified": false,
+      "platform_original_note_id": null,
+      "original_note_url_verified": false,
+      "provider_row_key_is_note_id": false,
+      "published_at_shanghai": "2026-11-03 14:00:01",
+      "publication_age_days_at_capture": 6.149469,
+      "provider_metric_updated_at_shanghai": "2026-11-04 13:42:50",
+      "captured_at_utc": "2026-11-09T09:35:15.113281+00:00",
+      "content_form": "video",
+      "provider_duration_metadata": "05:59",
+      "metrics": {
+        "likes_saves_comments_shares": "all four original display strings retained in private evidence; paid rows not republished",
+        "reading_or_exposure": "third-party estimates only; excluded from official exposure and conversion calculations"
+      },
+      "promotion": "provider author list marks 投流; timing/spend/accuracy not independently verified",
+      "giveaway": "unknown",
+      "repost_or_source_reuse": "unknown",
+      "reason": "industrial claim worth explaining, not a validated organic-demand signal",
+      "anomaly_status": "not_established",
+      "full_original_media_review": "not_done",
+      "commercial_reedit_permission": "unknown",
+      "future_publication_id": null,
+      "future_asset_or_cover_version": null,
+      "future_published_at": null,
+      "future_outcome_status": "not_applicable"
+    },
+    {
+      "candidate_id": "C02",
+      "topic": "署名线索指向Made by Z的拟生小机器人",
+      "decision": "观察",
+      "status": "observe",
+      "priority_order": null,
+      "evidence_type": "attribution_only_identity_unknown",
+      "source_refs": [
+        "Q04",
+        "Q05"
+      ],
+      "source_row_identity_sha256": "aeab9e5b4adab8f7ce847c853eb0eed635467a6f8b23de12a7363dbb5c82ed5b",
+      "publisher_alias": "AUTHOR_B",
+      "author_display_id_observed_in_provider": true,
+      "platform_author_id_independently_verified": false,
+      "platform_original_note_id": null,
+      "original_note_url_verified": false,
+      "provider_row_key_is_note_id": false,
+      "published_at_shanghai": "2026-11-06 22:30:07",
+      "publication_age_days_at_capture": 2.795233,
+      "provider_metric_updated_at_shanghai": "2026-11-08 09:30:39",
+      "captured_at_utc": "2026-11-09T09:35:15.113281+00:00",
+      "content_form": "video",
+      "provider_duration_metadata": "00:30",
+      "metrics": {
+        "likes_saves_comments_shares": "all four original display strings retained in private evidence; paid rows not republished",
+        "reading_or_exposure": "third-party estimates only; excluded from official exposure and conversion calculations"
+      },
+      "promotion": "unknown; missing brand tag does not prove organic",
+      "giveaway": "unknown",
+      "repost_or_source_reuse": "attribution exists; original and same-object relation unverified",
+      "reason": "original maker/media and same-object relation to paper robot not confirmed",
+      "anomaly_status": "not_established",
+      "full_original_media_review": "not_done",
+      "commercial_reedit_permission": "unknown",
+      "future_publication_id": null,
+      "future_asset_or_cover_version": null,
+      "future_published_at": null,
+      "future_outcome_status": "not_applicable"
+    },
+    {
+      "candidate_id": "C03",
+      "topic": "墨水屏手机的屏幕与使用边界",
+      "decision": "观察",
+      "status": "observe",
+      "priority_order": null,
+      "evidence_type": "single_recent_video_unknown_model",
+      "source_refs": [
+        "Q03"
+      ],
+      "source_row_identity_sha256": "63c5dc30d711edef5f3d5ca946317f692317719a40247dfa4f1e4677d03cb640",
+      "publisher_alias": "AUTHOR_C",
+      "author_display_id_observed_in_provider": true,
+      "platform_author_id_independently_verified": false,
+      "platform_original_note_id": null,
+      "original_note_url_verified": false,
+      "provider_row_key_is_note_id": false,
+      "published_at_shanghai": "2026-11-07 09:54:50",
+      "publication_age_days_at_capture": 2.319131,
+      "provider_metric_updated_at_shanghai": "2026-11-09 00:26:05",
+      "captured_at_utc": "2026-11-09T09:34:22.912721+00:00",
+      "content_form": "video",
+      "provider_duration_metadata": "01:24",
+      "metrics": {
+        "likes_saves_comments_shares": "all four original display strings retained in private evidence; paid rows not republished",
+        "reading_or_exposure": "third-party estimates only; excluded from official exposure and conversion calculations"
+      },
+      "promotion": "unknown; missing brand tag does not prove organic",
+      "giveaway": "unknown",
+      "repost_or_source_reuse": "unknown",
+      "reason": "device model/official dynamic proof and author baseline missing",
+      "anomaly_status": "not_established",
+      "full_original_media_review": "not_done",
+      "commercial_reedit_permission": "unknown",
+      "future_publication_id": null,
+      "future_asset_or_cover_version": null,
+      "future_published_at": null,
+      "future_outcome_status": "not_applicable"
+    },
+    {
+      "candidate_id": "C04",
+      "topic": "西湖景区外骨骼租赁",
+      "decision": "淘汰本轮（重复）",
+      "status": "reject_duplicate",
+      "priority_order": null,
+      "evidence_type": "same_topic_as_existing_batch",
+      "source_refs": [
+        "Q01",
+        "INVENTORY",
+        "OLD_FIVE_BATCH"
+      ],
+      "source_row_identity_sha256": "f52c6d2cfa62f15fa2d1cf74d6077b730ab6415972c1acd071244b49eee34297",
+      "publisher_alias": "AUTHOR_D",
+      "author_display_id_observed_in_provider": true,
+      "platform_author_id_independently_verified": false,
+      "platform_original_note_id": null,
+      "original_note_url_verified": false,
+      "provider_row_key_is_note_id": false,
+      "published_at_shanghai": "2026-11-04 17:06:46",
+      "publication_age_days_at_capture": 5.018071,
+      "provider_metric_updated_at_shanghai": "2026-11-09 11:46:55",
+      "captured_at_utc": "2026-11-09T09:32:47.348092+00:00",
+      "content_form": "video",
+      "provider_duration_metadata": "00:18",
+      "metrics": {
+        "likes_saves_comments_shares": "all four original display strings retained in private evidence; paid rows not republished",
+        "reading_or_exposure": "third-party estimates only; excluded from official exposure and conversion calculations"
+      },
+      "promotion": "unknown; missing brand tag does not prove organic",
+      "giveaway": "unknown",
+      "repost_or_source_reuse": "unknown",
+      "reason": "11/8 existing Tashan scenic-rental topic overlaps; exact device identity not assumed",
+      "anomaly_status": "not_established",
+      "full_original_media_review": "not_done",
+      "commercial_reedit_permission": "unknown",
+      "future_publication_id": null,
+      "future_asset_or_cover_version": null,
+      "future_published_at": null,
+      "future_outcome_status": "not_applicable"
+    },
+    {
+      "candidate_id": "C05",
+      "topic": "展会螃蟹机器人擦鞋线索",
+      "decision": "观察",
+      "status": "observe",
+      "priority_order": null,
+      "evidence_type": "caption_level_exhibition_claim",
+      "source_refs": [
+        "Q04"
+      ],
+      "source_row_identity_sha256": "ef02b5ada9dcbd2e667c7cbbe438d0007b043402d99947c55852cca83e9b5684",
+      "publisher_alias": "AUTHOR_E",
+      "author_display_id_observed_in_provider": true,
+      "platform_author_id_independently_verified": false,
+      "platform_original_note_id": null,
+      "original_note_url_verified": false,
+      "provider_row_key_is_note_id": false,
+      "published_at_shanghai": "2026-11-04 12:21:44",
+      "publication_age_days_at_capture": 5.217721,
+      "provider_metric_updated_at_shanghai": "2026-11-05 04:13:48",
+      "captured_at_utc": "2026-11-09T09:35:15.113281+00:00",
+      "content_form": "video",
+      "provider_duration_metadata": "00:38",
+      "metrics": {
+        "likes_saves_comments_shares": "all four original display strings retained in private evidence; paid rows not republished",
+        "reading_or_exposure": "third-party estimates only; excluded from official exposure and conversion calculations"
+      },
+      "promotion": "unknown; missing brand tag does not prove organic",
+      "giveaway": "unknown",
+      "repost_or_source_reuse": "unknown",
+      "reason": "manufacturer/model, autonomous operation and continuous physical demo not verified",
+      "anomaly_status": "not_established",
+      "full_original_media_review": "not_done",
+      "commercial_reedit_permission": "unknown",
+      "future_publication_id": null,
+      "future_asset_or_cover_version": null,
+      "future_published_at": null,
+      "future_outcome_status": "not_applicable"
+    }
+  ],
+  "same_author_baseline": {
+    "author_alias": "AUTHOR_A",
+    "evidence_refs": [
+      "Q04",
+      "A03",
+      "A04",
+      "A04_CONDITION",
+      "N01_STATE"
+    ],
+    "actual_publication_window": "近30天",
+    "actual_author_title_filter": "empty",
+    "selection": "all 7 notes visible for this author and window; not only viral; all forms/types",
+    "notes_n": 7,
+    "mixed_form_controls_excluding_target_n": 6,
+    "mixed_form_control_likes_median": 42.5,
+    "all_seven_likes_median": 53,
+    "display_likes_distribution_summary": {
+      "ordinary_control_min_max": "computed privately; no raw row distribution published",
+      "lower_than_target_controls": 6
+    },
+    "provider_promoted_label_count": 2,
+    "target_has_provider_promoted_label": true,
+    "near_publication_age_robot_video_controls_n": 1,
+    "near_age_control_has_provider_promoted_label": true,
+    "near_age_control_publication_gap_seconds": 3621,
+    "clean_same_form_same_age_unpromoted_controls_n": 0,
+    "eligible_organic_anomaly_baseline_complete": false,
+    "snapshot_timestamp_span": "notes published 2026-10-15 through 2026-11-03; metric update markers differ; observations 2026-11-09",
+    "conflicts": [
+      "same target, same publication and update marker but discovery and author/modal estimated reading differ",
+      "author header follower snapshot is newer than search-row follower snapshot",
+      "commercial-note count 0 coexists with 投流 labels; commercial and promoted are separate labels"
+    ],
+    "interpretation": "descriptive same-author context recovered; no organic outlier multiplier or prediction inferred"
+  },
+  "hypotheses": [
+    {
+      "id": "H-MARKET",
+      "class": "市场需求",
+      "candidate": "C01",
+      "statement": "ordinary viewers may care about what a claimed work shift demonstrates and what remains unproven",
+      "current_status": "unverified; promoted corporate distribution cannot establish organic demand",
+      "competitive_explanations": [
+        "brand reach/promotion",
+        "news-cycle novelty",
+        "long-form source/video packaging rather than topic",
+        "source footage rarity"
+      ],
+      "disconfirmation": "if future valid observation has sufficient normal distribution but weak watch and follow signals, reduce topic confidence; do not attribute platform or execution problems to topic by default"
+    },
+    {
+      "id": "H-EXEC",
+      "class": "作品可拍",
+      "candidate": "C01",
+      "statement": "a traceable primary dynamic source might show task, intervention and recovery well enough to explain the boundary",
+      "current_status": "metadata only, full media not acquired or viewed; permission unknown",
+      "competitive_explanations": [
+        "edited/time-compressed/multi-machine source",
+        "key action or constraints omitted",
+        "identity/model mismatch"
+      ],
+      "disconfirmation": "no full original/continuous key sequence or unclear commercial permission blocks production; do not fill with other model or animation"
+    },
+    {
+      "id": "H-FOLLOW",
+      "class": "关注价值",
+      "candidate": "C01",
+      "statement": "a repeatable explanation of real industrial tasks may create ongoing value beyond one cute demonstration",
+      "current_status": "unverified; not implied by existing account gender or one viral item",
+      "competitive_explanations": [
+        "one-off brand fans",
+        "instant curiosity without repeat intent",
+        "CTA or profile/version effects"
+      ],
+      "disconfirmation": "future views without adequate follow events and independent repeat-interest comments do not support durable-follow claim"
+    }
+  ],
+  "future_observation": {
+    "authorization_dependency": "separate explicit user production/publication/data-reading authorization; no scheduled follow-up",
+    "link_requirements": [
+      "candidate_id",
+      "frozen_git_commit_sha",
+      "asset_sha256/version",
+      "title_and_cover_version",
+      "platform_note_id",
+      "actual_published_at_with_timezone",
+      "promotion/status",
+      "metric_module_cutoff_and_definitions"
+    ],
+    "prospective_time_gate": "actual future publication must be after the frozen Git commit timestamp; any earlier same-topic item is preexisting, not this prospective pilot",
+    "current_state": "not_applicable",
+    "primary_window": "Asia/Shanghai D0-D6 natural dates; D0 remaining hours reported separately; never call it first 168 hours",
+    "secondary_window": "D1-D7 separately; do not switch primary window after seeing outcomes",
+    "own_historical_descriptive_reference": {
+      "source": "data/snapshots/2026-11-08/timing-23.json",
+      "source_sha256": "e4898f3d089f47ce7cf39301640ef2d5acc23260b80b4ebbfa212248bb0c318d",
+      "selection": "all 23 archived eligible diagnostic notes with summable D0-D6; exclude missing-date record only",
+      "n": 22,
+      "excluded_missing_window_ids": [
+        "6ab2b1c300000000020106a5"
+      ],
+      "median_views": 215.5,
+      "median_impressions": 835.0,
+      "median_follows_per_1000_views": 36.17306897976043,
+      "limits": [
+        "historical cohort selected on eventual >=100 normal views; not unselected account baseline",
+        "different D0 partial hours and dates",
+        "descriptive reference not causal control"
+      ],
+      "included_note_ids": [
+        "6ad6dccf0000000028039ce9",
+        "6ad6dcab000000002a024aef",
+        "6ac7b56d00000000180280bf",
+        "6ac7b54c0000000002010713",
+        "6ac7b52c0000000015001976",
+        "6ac7b5020000000015012768",
+        "6ac7b4d9000000001802bf66",
+        "6abf2bd7000000001a027c3a",
+        "6abf2bc3000000001802a3b5",
+        "6abf2bb6000000000200f05c",
+        "6abf2ba3000000001c02f003",
+        "6abf2b76000000001b033e9b",
+        "6ab93a8f000000001b032079",
+        "6ab93a7c000000001a030f02",
+        "6ab939eb000000001b01d8ff",
+        "6ab939c20000000018014cc4",
+        "6ab2b1fc000000000a01fb12",
+        "6ab2b1e100000000180190c4",
+        "6ab00a2d0000000026009a5b",
+        "6ab005af000000001001f12c",
+        "6aac0ff5000000001103a885",
+        "6aa95bd9000000000b0340da"
+      ]
+    },
+    "predeclared_readout": {
+      "views_scale_reference": 215.5,
+      "impressions_context_reference": 835.0,
+      "follow_events_per_1000_views_reference": 36.17306897976043,
+      "minimum_follow_events_for_density_interpretation": 5,
+      "rule": "for a mature normal-status same-window record with complete additive counts: report scale above/below reference and follow-density above/below reference as a two-axis descriptive readout; both above offers preliminary support, both below reduces support only when distribution and execution are interpretable, mixed remains mixed. Fewer than 5 follow events marks density low-event/unstable regardless of apparent ratio. No statistical superiority or causal win claim",
+      "sample_bias": "reference includes eventual-normal >=100 selected historical notes; not random/all-account expectation; publication hours and versions differ"
+    },
+    "metrics": [
+      "D0 views/impressions/follow events and remaining hours",
+      "D0-D6 additive views/impressions/follow events",
+      "1000 * same-window follow events / views; not unique-user conversion",
+      "same-cutoff entry shares and denominator if available; never divide unmatched follow-source and view-source windows",
+      "same-cutoff 2/5/15/30-second retention and contemporaneous platform reference; beyond length or unavailable fields NA",
+      "completion/avg watch with exact length/version/cutoff",
+      "anonymous actual-comment themes if separately authorized"
+    ],
+    "comments_sampling": "future separate authorization only: all available comments if <=20, otherwise first 20 chronological; no private names or raw comment bundle; distinguish practical question, reliability, cost, misunderstanding, repeat-interest, emotion/unrelated. >=2 independent unsolicited repeat-interest comments is a qualitative clue only, not population demand",
+    "missing_or_confounded": [
+      "unpublished => not_applicable",
+      "restricted/immature/missing dates or mismatched cutoffs => evidence_insufficient for relevant inference",
+      "promotion changes => stratify; do not compare as natural",
+      "no original version link => execution/topic attribution unknown",
+      "no retention/source fields => NA, no zero fill",
+      "material/permission gate failure => production feasibility failure, not market-demand failure"
+    ],
+    "no_future_results_linked": true
+  },
+  "immutability": "after freeze commit, explanations/results go in new files or append-only new commits; do not rewrite this JSON or frozen Markdown"
+}
