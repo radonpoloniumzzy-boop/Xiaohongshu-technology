@@ -149,5 +149,33 @@
     "No live competitor original page/media/comment recheck",
     "Initial failure includes missing receipt target and stale manifest; both must be repaired before submission",
     "A later manifest-only refresh also covers completion/PR receipt text"
-  ]
+  ],
+  "remote_receipt": {
+    "repository": "radonpoloniumzzy-boop/Xiaohongshu-technology",
+    "branch": "codex/primary-source-ops-audit-20261109",
+    "research_commit": "5e399d6104efe119b4147f75d71d2ae762faf7f7",
+    "pull_request": "https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/pull/2",
+    "observed_pr_state": "open",
+    "observed_merged": false,
+    "main_pushed": false,
+    "issue_closed": false,
+    "staged_tree_matched_remote_research_tree": true,
+    "scope": "Observed before receipt-only follow-up; final head is visible on PR"
+  },
+  "pre_submission_handoff_validation": {
+    "command": "python -X utf8 scripts/validate_handoff.py --refresh-manifest",
+    "exit_code": 0,
+    "result": {
+      "status": "pass",
+      "files": 55,
+      "bytes": 1018757,
+      "errors": []
+    },
+    "phase": "after substantive review, before receipt-only follow-up"
+  },
+  "git_diff_check": {
+    "command": "git diff --check",
+    "exit_code": 0,
+    "phase": "pre-submission"
+  }
 }

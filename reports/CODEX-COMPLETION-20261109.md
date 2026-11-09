@@ -54,11 +54,13 @@ python -X utf8 scripts/validate_research_audit.py
 |recompute_metrics|0：同窗复算通过，前周3613/41、本周5229/70；原累计集中度口径保留|
 |validate_research_audit|0：45行台账、28份文档状态、9线索/6元数据卡、2个条件标记、16个快照文件与基线逐字节相同|
 
-最终收据/PR链接更新后再刷新MANIFEST并运行检查。验收脚本检查结构、关联、算术和范围；不会在线重试受限网站，也不能验证网页永久可达、主张真实性或视频听看。脚本通过不等于20条同行样本达标。
+提交前已再次刷新MANIFEST并通过检查；远程完成收据的元数据更新也遵循同样校验。验收脚本检查结构、关联、算术和范围；不会在线重试受限网站，也不能验证网页永久可达、主张真实性或视频听看。脚本通过不等于20条同行样本达标。
 
 ## 分支、变更与审阅
 
-基线 origin/main：eba2ee7。独立分支：`codex/primary-source-ops-audit-20261109`。PR及提交状态在远程创建后补本节；此前不声称已推送。
+基线 origin/main：[eba2ee7](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/commit/eba2ee734d349fe42e971cae463066bd75d8e701)。独立分支：[codex/primary-source-ops-audit-20261109](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/tree/codex/primary-source-ops-audit-20261109)。
+
+已实际创建 [PR #2](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/pull/2)，状态open、merged=false，供人工审核。研究主体提交：[5e399d6](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/commit/5e399d6104efe119b4147f75d71d2ae762faf7f7)。后续同分支提交仅补完成收据与清单；最终head可在PR查看。未推main、未合并、未关闭Issue #1。
 
 变更范围：四份新报告（含本文件）、`data/research/`内台账/候选/访问记录/条件检查/空字段/验收结果、新研究验收脚本，及PROJECT-STATE、CHANGELOG、MANIFEST。既有快照、23篇报告、成片、媒体索引与批次内容保持。
 

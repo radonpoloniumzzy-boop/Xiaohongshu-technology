@@ -25,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 977,
-      "sha256": "631cf9d12ac890beb7b06854f8466ab655b92aadbf08b623f2470df7520ac64d"
+      "bytes": 1167,
+      "sha256": "c09148906caa8eb3a0bacd727e43bc212eb97c0da12bf9e635294e082547aec4"
     },
     {
       "path": "config/local-roots.example.json",
@@ -75,8 +75,8 @@
     },
     {
       "path": "data/research/validation-results-20261109.json",
-      "bytes": 5620,
-      "sha256": "aa82a8db188b9d51842eee1f6bd3d3652b9efe3b62b7534403a848382f0ba42f"
+      "bytes": 6622,
+      "sha256": "a0c98845bbcfddf184d2b5cd680faa89df0d8e5e94e606607d7308087188ba76"
     },
     {
       "path": "data/research/xhs-competitor-candidates-20261109.csv",
@@ -210,8 +210,8 @@
     },
     {
       "path": "PROJECT-STATE.md",
-      "bytes": 4460,
-      "sha256": "35a745eed6f7b690087da529f8b7dfa2bee27e2d23384760dd17b01cc162bee5"
+      "bytes": 5009,
+      "sha256": "1567df96071468cefa80f96867237bd3d75d8175ea2a5099ff27a03e32e48dfe"
     },
     {
       "path": "README.md",
@@ -225,8 +225,8 @@
     },
     {
       "path": "reports/CODEX-COMPLETION-20261109.md",
-      "bytes": 7006,
-      "sha256": "21b2375767fea51184c9c6a5dde7f4a9a5bc3fe9742a4c0972572904deb8ce55"
+      "bytes": 7617,
+      "sha256": "00cffd1ca9b87ecba681392bc8e5eb3b4a11369b5d4a6fcff194aded6336d741"
     },
     {
       "path": "reports/content-funnel-audit.md",
