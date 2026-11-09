@@ -1,0 +1,134 @@
+{
+  "research_date": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "timestamp_precision": "date_only; no invented request timestamps",
+  "base_commit": "eba2ee734d349fe42e971cae463066bd75d8e701",
+  "branch": "codex/primary-source-ops-audit-20261109",
+  "query_log_scope": "selected exact queries from the research, not a full request/network archive",
+  "selected_queries": [
+    "site.xiaohongshu.com/explore \"机器人\" \"科技\"",
+    "site.xiaohongshu.com/user/profile \"科技\"",
+    "site.xiaohongshu.com/discovery/item \"机器人\"",
+    "\"极客湾\" \"小红书\" \"xiaohongshu.com\"",
+    "\"小红书\" \"机器人\" \"笔记\" \"qian-gua.com\"",
+    "\"小红书\" \"科技\" \"爆款\" \"博主\" \"点赞\"",
+    "\"这只会记住我的AI宠物，真的不一样\"",
+    "\"小朋友和他的\" \"好朋狗\" \"小红书\"",
+    "\"2026最好用健康AI\" \"阿福\"",
+    "\"搞定各种育儿问题\" \"元宝\"",
+    "Little Monster Media taxonomy video data methodology",
+    "MrBeast Chucky Appleby interview Creator Insider thumbnails",
+    "Marques Brownlee creative process research review",
+    "小红书 创作中心 灵感中心 官方",
+    "HP SitePrint official layout robot media"
+  ],
+  "direct_xhs_attempts": [
+    {
+      "evidence_id": "S20",
+      "url": "https://www.xiaohongshu.com/explore",
+      "result": "blocked",
+      "observed": "公开发现页跳往rednote登录，工具返回不可读取"
+    },
+    {
+      "evidence_id": "S21",
+      "url": "https://www.xiaohongshu.com/user/profile/668ccf28000000000303311d",
+      "result": "blocked",
+      "observed": "公开主页不可访问；未取得粉丝或笔记"
+    },
+    {
+      "evidence_id": "S22",
+      "url": "https://www.xiaohongshu.com/explore/67a71b42000000002900d9bd",
+      "result": "blocked",
+      "observed": "笔记URL不可访问"
+    },
+    {
+      "evidence_id": "S23",
+      "url": "https://www.xiaohongshu.com/explore/67e91032000000000d016391",
+      "result": "blocked",
+      "observed": "笔记URL不可访问"
+    }
+  ],
+  "source_statistics": {
+    "external_documents": 28,
+    "exclusive_access_status_counts": {
+      "content_read": 18,
+      "landing_only": 4,
+      "search_snippet_only": 1,
+      "blocked": 5
+    },
+    "reference_figures": 3,
+    "repository_evidence_packages": 5,
+    "archival_leads": 9,
+    "evidence_ledger_rows": 45,
+    "team_method_independent_subjects": [
+      "Jellysmack",
+      "Little Monster",
+      "Viewstats/Chucky",
+      "MKBHD",
+      "德洛/小红书"
+    ],
+    "method_source_scope": "public self-report or published first-person/speaker-approved text; not independently verified private operations"
+  },
+  "competitor_targets": {
+    "accounts_min": 8,
+    "accounts_max": 12,
+    "public_notes_min": 20,
+    "full_case_studies_min": 6
+  },
+  "achieved": {
+    "verified_accounts": 0,
+    "verified_public_notes": 0,
+    "verified_outliers": 0,
+    "full_verified_cases": 0,
+    "actual_video_playbacks": 0,
+    "raw_comment_samples": 0,
+    "archival_account_leads": 9,
+    "archival_creator_leads": 6,
+    "archival_brand_leads": 3,
+    "metadata_only_cards": 6
+  },
+  "unmet_target_status": "blocked_external_xhs_original_pages_unavailable; complete remaining independent research",
+  "figure_reading": {
+    "images_uploaded_to_repository": false,
+    "public_image_requests_only": true,
+    "initial_transport_failure": "local proxy refused connection",
+    "resolution": "per-request ProxyHandler({}) for same public image URLs; no site login/cookies changed",
+    "image_reference_hashes": {
+      "F01": "49310a1b3e2089978764e0d6b3de2486b549d9c0d0687b2cdf01438d30e00e32",
+      "F02": "d2974db06d903a398fd03cdd6957a695809a0646527ab52085bf19be0bd884d0",
+      "F03": "f14eae93e77ea92c17f465830df817eb5689c99f7c6c011d05164d81d662256a"
+    },
+    "article_link_position_caution": "Image returned URLs/content differ from expected link positions; actual figure URL/hash controls identification"
+  },
+  "snapshots_before_sha256": {
+    "data/snapshots/2026-11-08/account.json": "a47a0a96182ee4ac3f8802b010c3c275e2c9cd7fcc395e9dd7e8c17731e192b1",
+    "data/snapshots/2026-11-08/cover-observations-23.json": "6dfee98f0102a19f42551c99d9ad130233b56ed4342bbbc73c0f8d09e2b58a25",
+    "data/snapshots/2026-11-08/cover-pk.json": "9ab0ec6562431ea0c2a7b70944080ebccf07542be069f11878473fa3b6905c1b",
+    "data/snapshots/2026-11-08/curve-checkpoints-23.json": "563aba9acae8bc5ed6b9c821d1707e2f48538b383845d65bad2f04fe44eaf927",
+    "data/snapshots/2026-11-08/daily-30.csv": "114a14afe950fbe8d952b668a95e91e6b56ca67460e7322a55307fa8f55f292c",
+    "data/snapshots/2026-11-08/daily-30.json": "2869ae66ef078f245b1973f263c7af927f16531017e72844afedbd11c3566b8c",
+    "data/snapshots/2026-11-08/note-audiences.json": "1164f3c85ac6a1c9e2a054b8ba981a6ac862cff1d2583608bb2ad0b55fff2dd5",
+    "data/snapshots/2026-11-08/note-registry-41.json": "7c2ae274eed56dc344de2c3ff498ac2a48f84ef8c70859742b6f0d6055e6db4d",
+    "data/snapshots/2026-11-08/note-sources.json": "d3475531d7a650ffdfe528d0cb518907914bdc20651abdc858b7aada987e9494",
+    "data/snapshots/2026-11-08/notes-41.csv": "504c62c89567ef16e5e2b19fa326cb230638950e4241a1c1e984aee7130e7bf8",
+    "data/snapshots/2026-11-08/notes-41.json": "37d6c85a0099fb77dfa87ec081cad3479901db9976fcd79cf382afd706916d21",
+    "data/snapshots/2026-11-08/peer-diagnostics.json": "bbb11dbf3658a3fe19456245ee68177ff49fa0f2f2854fe93c7482d62a6803bf",
+    "data/snapshots/2026-11-08/provenance.json": "cb1b38344e592b0d12b41b2fe6886b72318de052688f0e1bcf5ec2c0a95fb2c5",
+    "data/snapshots/2026-11-08/retention-curves.json": "f2b5f61ad0d33768d99019408da8e79b36d46505936257b00a017ecda63a40a2",
+    "data/snapshots/2026-11-08/review-evidence-23.json": "a5111eaf211fcdddb1dfb13770c82ed946efb9cb88bb67155015cd3b10519549",
+    "data/snapshots/2026-11-08/timing-23.json": "e4898f3d089f47ce7cf39301640ef2d5acc23260b80b4ebbfa212248bb0c318d"
+  },
+  "safety_scope": {
+    "account_login": false,
+    "cookies_accessed": false,
+    "private_users_exported": false,
+    "video_downloaded": false,
+    "videos_modified": false,
+    "platform_published": false,
+    "paid_services": false,
+    "direct_messages": false,
+    "new_scraper": false,
+    "automatic_sampling": false,
+    "merge_authorized": false
+  }
+}

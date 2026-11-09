@@ -1,0 +1,41 @@
+{
+  "checked_at": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "snapshot_date": "2026-11-08",
+  "formula": "average_watch_seconds >= completion_pct / 100 * duration_seconds",
+  "condition": "Same content version, observation window, eligible viewing population and compatible platform definitions; not established here",
+  "inspected_indexed_notes": 23,
+  "flagged_records": [
+    {
+      "note_id": "6ab93a8f000000001b032079",
+      "title": "进厨房先问：菜刀充电了吗？",
+      "core_updated_at": "2026-11-08 00:00",
+      "average_watch_seconds": 2.5,
+      "completion_pct": 8.3,
+      "media_asset_id": "published-6ab93a8f000000001b032079",
+      "media_logical_path": "MEDIA_ROOT/01_平台内容/小红书/537013271_咸鱼看科技/6ab93a8f000000001b032079_进厨房先问：菜刀充电了吗？/raw/video/published-datacenter-video.mp4",
+      "media_sha256": "118a63cac36cf239b109f0a7b9b7a718977aa8b871b14550987032b8eac68176",
+      "indexed_duration_seconds": 70.766667,
+      "conditional_lower_bound_seconds": 5.873633361,
+      "shortfall_seconds": 3.3736333610000004,
+      "status": "conditional_inconsistency_not_resolved",
+      "original_fields_modified": false
+    },
+    {
+      "note_id": "6ab93a7c000000001a030f02",
+      "title": "跑姿扭扭捏捏，成绩一点没客气",
+      "core_updated_at": "2026-11-08 00:00",
+      "average_watch_seconds": 1.7,
+      "completion_pct": 6.5,
+      "media_asset_id": "published-6ab93a7c000000001a030f02",
+      "media_logical_path": "MEDIA_ROOT/01_平台内容/小红书/537013271_咸鱼看科技/6ab93a7c000000001a030f02_跑姿扭扭捏捏，成绩一点没客气/raw/video/published-datacenter-video.mp4",
+      "media_sha256": "2b00e7a4dacfed3a9e575234cef1f54dfa75340d468de2fb4396b084a364fa4c",
+      "indexed_duration_seconds": 65.6,
+      "conditional_lower_bound_seconds": 4.263999999999999,
+      "shortfall_seconds": 2.563999999999999,
+      "status": "conditional_inconsistency_not_resolved",
+      "original_fields_modified": false
+    }
+  ],
+  "interpretation": "Conditional arithmetic flags, not proof of platform error, fraud, bad content, or fan inactivity; no source values edited"
+}

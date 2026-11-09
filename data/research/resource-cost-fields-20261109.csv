@@ -1,0 +1,8 @@
+﻿project_id,stage,work_date,started_at,ended_at,actual_minutes,person_role,external_cost_amount,currency,revision_count,rework_reason,source_evidence_url,license_holder,license_scope,license_proof_reference,license_status,core_action_coverage,missing_footage,status
+,选题研究,,,,,,,,,,,,,,unknown,,,schema_only_no_observations
+,素材获取,,,,,,,,,,,,,,unknown,,,schema_only_no_observations
+,脚本,,,,,,,,,,,,,,unknown,,,schema_only_no_observations
+,配音,,,,,,,,,,,,,,unknown,,,schema_only_no_observations
+,剪辑,,,,,,,,,,,,,,unknown,,,schema_only_no_observations
+,审片,,,,,,,,,,,,,,unknown,,,schema_only_no_observations
+,返工,,,,,,,,,,,,,,unknown,,,schema_only_no_observations
