@@ -25,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 350,
-      "sha256": "516e98ef5619b64055e7b981e26cbc8517e9663f39309d9ed25ef5520a9ff0cc"
+      "bytes": 788,
+      "sha256": "6fa8ca27e98e3bdba474957bf04bb37474f67b125fa5513ba581450cdaad730a"
     },
     {
       "path": "config/local-roots.example.json",
@@ -52,6 +52,21 @@
       "path": "data/projects/inventory.json",
       "bytes": 81251,
       "sha256": "edc316ab18e401d26396dc971742b0af9ff5277675512440ee4dac0bf7fc66ae"
+    },
+    {
+      "path": "data/research/existing-skills-capability-matrix-20261109.csv",
+      "bytes": 2822,
+      "sha256": "22cd16af5fcebc2e7be13e63120174c84dc60755153c3f73ab6227a73de2d308"
+    },
+    {
+      "path": "data/research/existing-skills-evidence-ledger-20261109.csv",
+      "bytes": 8706,
+      "sha256": "a84fbbc84690c7c4fe786e79c03103efaaff30a70cf29a8ece7c2e22983d1ea1"
+    },
+    {
+      "path": "data/research/existing-skills-test-results-20261109.json",
+      "bytes": 6794,
+      "sha256": "a65339e2a31bad1b38e954a584c4c5a623c4b98eda9989f9b42550bbda8aff19"
     },
     {
       "path": "data/snapshots/2026-11-08/account.json",
@@ -180,8 +195,8 @@
     },
     {
       "path": "PROJECT-STATE.md",
-      "bytes": 2279,
-      "sha256": "e67b5194744530fa42266952a4429eb25aad6d80825088d577189d103761a4b8"
+      "bytes": 4520,
+      "sha256": "61e1c59093c20bcb5f191e4bb5f0a4e6577a4ccd8608412b656e4b800bb86426"
     },
     {
       "path": "README.md",
@@ -194,6 +209,11 @@
       "sha256": "80de752e3c6c8581895f73f6effb629378bb135450ca2d3d7e042daf2c7b2b8d"
     },
     {
+      "path": "reports/CODEX-SKILL-AUDIT-COMPLETION-20261109.md",
+      "bytes": 4783,
+      "sha256": "a2ae83b97b2d5a05650b9ea7c989578c7651a42b4e8cce15c4ec931167ddc318"
+    },
+    {
       "path": "reports/content-funnel-audit.md",
       "bytes": 3473,
       "sha256": "f8aeed6df4e9a047475574fe797e2b4599ab9763e9dc149ecba6d7c009730a53"
@@ -204,6 +224,11 @@
       "sha256": "42c16f74bff5dd3645cc2e52efd7a7faf8b2246c3ff353db6a4e1c8fba13d8d7"
     },
     {
+      "path": "reports/existing-skills-operations-capability-audit-20261109.md",
+      "bytes": 23462,
+      "sha256": "c091c18739d054821164bac763e9e3a35fb3bf2177aa2a8a9f6b5fb6d2e6092b"
+    },
+    {
       "path": "reports/growth-source-audit.md",
       "bytes": 3104,
       "sha256": "16a275ba32f686bc863bd0fbe90b5c808ca5b207bde2162743f69d19194ba56a"
@@ -212,6 +237,11 @@
       "path": "reports/notes-23-analysis.md",
       "bytes": 87947,
       "sha256": "8982c40c3f7bb83956a2c4e09a4c809b9a79c59c1f2dfac1e7ca3af8ac26be18"
+    },
+    {
+      "path": "reports/operations-elite-gap-decision-20261109.md",
+      "bytes": 8283,
+      "sha256": "5e84c85fc82e314c24221116ddf0a3719dd6f3f436950ffafa0803a3a3d19158"
     },
     {
       "path": "scripts/recompute_metrics.py",
