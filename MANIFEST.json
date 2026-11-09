@@ -25,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 350,
-      "sha256": "516e98ef5619b64055e7b981e26cbc8517e9663f39309d9ed25ef5520a9ff0cc"
+      "bytes": 1167,
+      "sha256": "c09148906caa8eb3a0bacd727e43bc212eb97c0da12bf9e635294e082547aec4"
     },
     {
       "path": "config/local-roots.example.json",
@@ -52,6 +52,36 @@
       "path": "data/projects/inventory.json",
       "bytes": 81251,
       "sha256": "edc316ab18e401d26396dc971742b0af9ff5277675512440ee4dac0bf7fc66ae"
+    },
+    {
+      "path": "data/research/metric-consistency-check-20261109.json",
+      "bytes": 2179,
+      "sha256": "9beacb03953b04b03737cb1e5d88cf075ea928429024f6ddfceda9837b79ffb3"
+    },
+    {
+      "path": "data/research/primary-source-evidence-ledger-20261109.csv",
+      "bytes": 20637,
+      "sha256": "bc7131e1e150cc8f9805689162541606274c341e76e1207f69bcac7996034483"
+    },
+    {
+      "path": "data/research/research-access-log-20261109.json",
+      "bytes": 6295,
+      "sha256": "07763764b4244fefee4ebf4afea2c803a0acfc6ccf0be87bf34646f3e87e90a2"
+    },
+    {
+      "path": "data/research/resource-cost-fields-20261109.csv",
+      "bytes": 693,
+      "sha256": "99352e17f1dbc0f54f91151a8ac4128d23a555d7345bb81cb590ee2d14581667"
+    },
+    {
+      "path": "data/research/validation-results-20261109.json",
+      "bytes": 6622,
+      "sha256": "a0c98845bbcfddf184d2b5cd680faa89df0d8e5e94e606607d7308087188ba76"
+    },
+    {
+      "path": "data/research/xhs-competitor-candidates-20261109.csv",
+      "bytes": 5013,
+      "sha256": "e9b121bea280429e453d07ad00cddcfd67c5a60d02b47fb3a4ac4f6aa98f4a37"
     },
     {
       "path": "data/snapshots/2026-11-08/account.json",
@@ -180,8 +210,8 @@
     },
     {
       "path": "PROJECT-STATE.md",
-      "bytes": 2279,
-      "sha256": "e67b5194744530fa42266952a4429eb25aad6d80825088d577189d103761a4b8"
+      "bytes": 5009,
+      "sha256": "1567df96071468cefa80f96867237bd3d75d8175ea2a5099ff27a03e32e48dfe"
     },
     {
       "path": "README.md",
@@ -192,6 +222,11 @@
       "path": "reports/audience-audit.md",
       "bytes": 3021,
       "sha256": "80de752e3c6c8581895f73f6effb629378bb135450ca2d3d7e042daf2c7b2b8d"
+    },
+    {
+      "path": "reports/CODEX-COMPLETION-20261109.md",
+      "bytes": 7617,
+      "sha256": "00cffd1ca9b87ecba681392bc8e5eb3b4a11369b5d4a6fcff194aded6336d741"
     },
     {
       "path": "reports/content-funnel-audit.md",
@@ -209,9 +244,24 @@
       "sha256": "16a275ba32f686bc863bd0fbe90b5c808ca5b207bde2162743f69d19194ba56a"
     },
     {
+      "path": "reports/industry-ops-gap-and-priorities-20261109.md",
+      "bytes": 10248,
+      "sha256": "773afed0a323509700bbc9fd616b2db12ead49c3e3fee1eb6a1748e2f496f9a1"
+    },
+    {
+      "path": "reports/industry-primary-source-audit-20261109.md",
+      "bytes": 11483,
+      "sha256": "fe8261a6da3f5bc5eb85d83d81391892a219f68858c95b70ebf1f3279b56fd36"
+    },
+    {
       "path": "reports/notes-23-analysis.md",
       "bytes": 87947,
       "sha256": "8982c40c3f7bb83956a2c4e09a4c809b9a79c59c1f2dfac1e7ca3af8ac26be18"
+    },
+    {
+      "path": "reports/xhs-competitor-outlier-sample-20261109.md",
+      "bytes": 6956,
+      "sha256": "3afa3e56e25e9c6b2a0f469e81b925f1f984f5b87fec92e24afe9bdbbe87814f"
     },
     {
       "path": "scripts/recompute_metrics.py",
@@ -222,6 +272,11 @@
       "path": "scripts/validate_handoff.py",
       "bytes": 4211,
       "sha256": "b94cf763b46f9b9e50f466701c497ce625750c8cfe2045cc0039485eb5fcbed6"
+    },
+    {
+      "path": "scripts/validate_research_audit.py",
+      "bytes": 7422,
+      "sha256": "4f8bb3a5313ae578b5bca85645bd2f078aa2e3d7e45779a5de8dc845286249d9"
     }
   ]
 }

@@ -1,0 +1,181 @@
+{
+  "checked_at": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "interpreter": "Existing local Python; commands below use the portable python alias; no dependencies installed",
+  "scope": "Actual offline script execution; no live source or audiovisual revalidation",
+  "runs": [
+    {
+      "phase": "initial-before-manifest-refresh",
+      "command": "python -X utf8 scripts/validate_handoff.py",
+      "exit_code": 1,
+      "result": {
+        "status": "fail",
+        "files": 54,
+        "bytes": 1010326,
+        "coverage": {
+          "notes": 41,
+          "unique_notes": 41,
+          "eligible": 23,
+          "audiences_nonempty": 23,
+          "timing": 23,
+          "reviews": 23,
+          "projects": 56
+        },
+        "errors": [
+          "manifest file set differs",
+          "manifest hash/size mismatch: data/research/metric-consistency-check-20261109.json",
+          "manifest hash/size mismatch: data/research/primary-source-evidence-ledger-20261109.csv",
+          "manifest hash/size mismatch: data/research/research-access-log-20261109.json",
+          "manifest hash/size mismatch: data/research/resource-cost-fields-20261109.csv",
+          "manifest hash/size mismatch: data/research/xhs-competitor-candidates-20261109.csv",
+          "manifest hash/size mismatch: PROJECT-STATE.md",
+          "manifest hash/size mismatch: reports/CODEX-COMPLETION-20261109.md",
+          "manifest hash/size mismatch: reports/industry-ops-gap-and-priorities-20261109.md",
+          "manifest hash/size mismatch: reports/industry-primary-source-audit-20261109.md",
+          "manifest hash/size mismatch: reports/xhs-competitor-outlier-sample-20261109.md",
+          "manifest hash/size mismatch: scripts/validate_research_audit.py",
+          "missing/outside Markdown target: reports/CODEX-COMPLETION-20261109.md -> ../data/research/validation-results-20261109.json",
+          "missing/outside Markdown target: reports/CODEX-COMPLETION-20261109.md -> ../data/research/validation-results-20261109.json"
+        ]
+      }
+    },
+    {
+      "phase": "metrics-recomputation",
+      "command": "python -X utf8 scripts/recompute_metrics.py",
+      "exit_code": 0,
+      "result": {
+        "periods": [
+          {
+            "window": "previous_seven",
+            "views": 3613,
+            "follows": 41,
+            "follows_per_1000_views": 11.3479,
+            "likes_per_1000_views": 40.9632,
+            "saves_per_1000_views": 33.2134
+          },
+          {
+            "window": "seven",
+            "views": 5229,
+            "follows": 70,
+            "follows_per_1000_views": 13.3869,
+            "likes_per_1000_views": 31.5548,
+            "saves_per_1000_views": 28.6862
+          },
+          {
+            "window": "thirty",
+            "views": 26323,
+            "follows": 317,
+            "follows_per_1000_views": 12.0427,
+            "likes_per_1000_views": 37.1918,
+            "saves_per_1000_views": 28.6062
+          }
+        ],
+        "cumulative_top_note": {
+          "title": "糖吃完了，盒子居然还能开机",
+          "views": 28164,
+          "all_visible_views": 36364,
+          "share_pct": 77.4502,
+          "not_a_monthly_share": true
+        },
+        "follower_source_display": [
+          {
+            "source": "首页推荐",
+            "raw_value_untyped": 73,
+            "ui_share_pct": 74.48979591836735
+          },
+          {
+            "source": "视频推荐",
+            "raw_value_untyped": 21,
+            "ui_share_pct": 21.428571428571427
+          },
+          {
+            "source": "其他来源",
+            "raw_value_untyped": 3,
+            "ui_share_pct": 3.061224489795918
+          },
+          {
+            "source": "搜索",
+            "raw_value_untyped": 1,
+            "ui_share_pct": 1.0204081632653061
+          },
+          {
+            "source": "个人主页",
+            "raw_value_untyped": 0,
+            "ui_share_pct": 0
+          }
+        ],
+        "scope": "Count density, not unique-user conversion. Follower-source window unknown."
+      }
+    },
+    {
+      "phase": "research-structure-arithmetic-scope",
+      "command": "python -X utf8 scripts/validate_research_audit.py",
+      "exit_code": 0,
+      "result": {
+        "status": "pass",
+        "evidence_rows": 45,
+        "external_documents": 28,
+        "access_status_counts": {
+          "content_read": 18,
+          "landing_only": 4,
+          "search_snippet_only": 1,
+          "blocked": 5
+        },
+        "archival_candidates": 9,
+        "metadata_cards": 6,
+        "verified_public_notes": 0,
+        "full_verified_cases": 0,
+        "original_comment_samples": 0,
+        "conditional_flags": 2,
+        "snapshot_files_byte_identical_to_base": 16,
+        "scope": "offline structure/arithmetic/immutability; not live source revalidation or audiovisual review",
+        "errors": []
+      }
+    }
+  ],
+  "final_handoff_validation": {
+    "phase": "first-complete-file-set-before-review-and-PR-receipt-text",
+    "command": "python -X utf8 scripts/validate_handoff.py --refresh-manifest",
+    "exit_code": 0,
+    "result": {
+      "status": "pass",
+      "files": 55,
+      "bytes": 1016185,
+      "errors": []
+    },
+    "later_metadata_updates": "Require manifest refresh and independent final rerun; no snapshot edits"
+  },
+  "limitations": [
+    "No live competitor original page/media/comment recheck",
+    "Initial failure includes missing receipt target and stale manifest; both must be repaired before submission",
+    "A later manifest-only refresh also covers completion/PR receipt text"
+  ],
+  "remote_receipt": {
+    "repository": "radonpoloniumzzy-boop/Xiaohongshu-technology",
+    "branch": "codex/primary-source-ops-audit-20261109",
+    "research_commit": "5e399d6104efe119b4147f75d71d2ae762faf7f7",
+    "pull_request": "https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/pull/2",
+    "observed_pr_state": "open",
+    "observed_merged": false,
+    "main_pushed": false,
+    "issue_closed": false,
+    "staged_tree_matched_remote_research_tree": true,
+    "scope": "Observed before receipt-only follow-up; final head is visible on PR"
+  },
+  "pre_submission_handoff_validation": {
+    "command": "python -X utf8 scripts/validate_handoff.py --refresh-manifest",
+    "exit_code": 0,
+    "result": {
+      "status": "pass",
+      "files": 55,
+      "bytes": 1018757,
+      "errors": []
+    },
+    "phase": "after substantive review, before receipt-only follow-up"
+  },
+  "git_diff_check": {
+    "command": "git diff --check",
+    "exit_code": 0,
+    "phase": "pre-submission"
+  }
+}
