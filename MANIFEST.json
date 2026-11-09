@@ -25,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 807,
-      "sha256": "633820bd8f3a2a302d65d49c0c96af3d1812d0e58cb09036695056a831bb75f3"
+      "bytes": 971,
+      "sha256": "b9ba9eb9c480bdbc109a06d13be39dc675d192354f1636d7c7684a66a6e842d1"
     },
     {
       "path": "config/local-roots.example.json",
@@ -195,8 +195,8 @@
     },
     {
       "path": "PROJECT-STATE.md",
-      "bytes": 3638,
-      "sha256": "b71e26c78bb174c14ce35cbb8923cd65fa3f1b89c140f2749c58e343ebf5efad"
+      "bytes": 4077,
+      "sha256": "58b231a7780fee1c998ed091a7522eba84483782deb152e476507fdd390f43ed"
     },
     {
       "path": "README.md",
@@ -230,8 +230,8 @@
     },
     {
       "path": "reports/prospective-closed-loop-handoff-20261109.md",
-      "bytes": 4336,
-      "sha256": "d33147fdbcb4c81e24f99e7fd3d5d67839fd1c44e1a51e0ada51e654f6d5cf73"
+      "bytes": 5968,
+      "sha256": "e672eb6fdd95e5a683e7725e9dd8cf3d9eaa98ae8f65d45a66550c449b472312"
     },
     {
       "path": "reports/prospective-topic-decision-frozen-20261109.md",

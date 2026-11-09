@@ -2,7 +2,7 @@
 
 研究日2026-11-09；任务[Issue #5](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/issues/5)。独立分支codex/prospective-topic-pilot-20261109，main基线eba2ee734d349fe42e971cae463066bd75d8e701；PR #4只引用固定d9bb037，不合并或修改它。
 
-**阶段：选前研究、条件核验与研究建议已完成；Git冻结、仓库验证和PR回执待补。** 完整增长闭环未完成，制作/发布/等待结果/回填依赖新授权和实际发生，当前均not_applicable。
+**阶段：选前研究、条件核验、Git事前冻结及独立PR已完成，等待人工审阅。** 完整增长闭环未完成，制作/发布/等待结果/回填依赖新授权和实际发生，当前均not_applicable。
 
 ## 实际执行
 
@@ -13,13 +13,13 @@
 - 原作品身份仅在供应商行/作者/详情元数据交叉匹配，原ID/原页/原片未核。“查看笔记”返回部分原文不能直开的通知后停止；不拼row-key、不绕认证/限制。
 - 本轮未制作、下载版权媒体、改稿/封面/草稿、上传、发布、投流、购买或开任务。发布前建议和未来观察口径不是发布授权。
 
-## 冻结回执（待Git生成后只更新本回执）
+## 冻结回执（后续提交仅更新本回执，不改冻结对象）
 
 - 冻结内容生成时刻：2026-11-09T09:52:32+00:00；北京2026-11-09T17:52:32+08:00。
-- 冻结提交SHA：PENDING_FREEZE_SHA。
+- 冻结提交SHA：[1a11ad4d87ae5cecda702ed3f68a97c89b5c473a](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/commit/1a11ad4d87ae5cecda702ed3f68a97c89b5c473a)；Git提交实际时刻2026-11-09T09:54:41Z／北京17:54:41，晚于内容快照生成时刻。未来发表必须晚于这个Git时刻。
 - 冻结对象：[决策Markdown](prospective-topic-decision-frozen-20261109.md)与[决策JSON](../data/research/prospective-topic-decision-snapshot-20261109.json)。取得SHA后不回写这两份文件，后续回执/结果另提交。
 - 未来关联发布ID、版本和结果均null/not_applicable。发表时间必须晚于实际冻结Git提交，否则只算既有内容。当前无关联新发布或结果链接，不能用已知旧稿成绩冒充预测。
-- PR：PENDING_PR_URL；不自动合并，不关闭Issue。
+- PR：[#6](https://github.com/radonpoloniumzzy-boop/Xiaohongshu-technology/pull/6)，open、未合并；不自动合并，不关闭Issue。
 
 ## 验证与阻塞
 
@@ -28,7 +28,11 @@
 - 前台bind误落无关标签元数据后立即释放、未读正文；无session API被拒后未绕；computer-use只用于合法灰豚页标签定位。无关窗口/标签不导出。
 - CLI仍为1.8.6；扩展初始健康1.0.22、末期通知1.0.26，来源/外部变更原因未知；本代理没执行升级、安装或配置变更。两个命名会话lease释放，未停共享daemon，未声称全部原生弹出页关闭。
 - 私有付费原行、原始评论、私人路径/窗口清单、网络包、Cookie/密码、私有Skill源码及媒体均未上传。云端仅凭公开摘要无法独立重放私有原件。
-- 仓库既有校验与指标复算、冻结身份/结果为空及隐私交叉检查：待执行补回执。
+- 既有validate_handoff.py初跑退出1，仅为新增文件/状态未刷新MANIFEST；使用原有--refresh-manifest维护后退出0/pass，50个清单管理文件（不含MANIFEST自身），41篇/23篇/56项目覆盖不变；随后普通校验复核。未修改校验脚本。
+- 既有recompute_metrics.py退出0；旧账号周观看3613→5229、关注41→70和累计集中度77.4502%复算不变。这些是11/8历史计数，未当新选题结果。
+- 库外本轮一次性交叉检查退出0/pass：6条件门、26条台账/引用/哈希、1入围/3观察/1拒绝、干净基线0、22篇固定描述性参考、未来结果not_applicable、6新增研究文件隐私检查及源不变性均通过。未添加替代校验器/采集系统到仓库。
+- 冻结远程对象已核：Markdown SHA256 3c8f08ddc7bce8edb5941655e39bce9f44a09cc1d3a0a758c58b2bb95a7fd7dd；JSON SHA256 8c129267ff5040d1ab393b9716fb827c80b8a4dbbd91626374e504e97eae688f，与冻结提交内容一致。后续回执提交保持这两份逐字节不变。
+- 冻结先于本轮任何关联新发布结果链接：所有候选的未来note_id/发表时刻/版本为空且结果not_applicable，本轮未执行制作/发布，也未读取或附加新的本号结果。不能排除用户在别处自行发同题；若以后发现该作品发表早于冻结Git时刻，就排除出前瞻试点，不倒填。
 
 ## 可恢复接班点
 
