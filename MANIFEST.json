@@ -25,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 350,
-      "sha256": "516e98ef5619b64055e7b981e26cbc8517e9663f39309d9ed25ef5520a9ff0cc"
+      "bytes": 807,
+      "sha256": "633820bd8f3a2a302d65d49c0c96af3d1812d0e58cb09036695056a831bb75f3"
     },
     {
       "path": "config/local-roots.example.json",
@@ -52,6 +52,21 @@
       "path": "data/projects/inventory.json",
       "bytes": 81251,
       "sha256": "edc316ab18e401d26396dc971742b0af9ff5277675512440ee4dac0bf7fc66ae"
+    },
+    {
+      "path": "data/research/prospective-topic-decision-snapshot-20261109.json",
+      "bytes": 19035,
+      "sha256": "8c129267ff5040d1ab393b9716fb827c80b8a4dbbd91626374e504e97eae688f"
+    },
+    {
+      "path": "data/research/prospective-topic-source-ledger-20261109.csv",
+      "bytes": 6589,
+      "sha256": "3a5b1000167f3738f08034a04ecd148b4389649a1eee319d52b0fa86b020065b"
+    },
+    {
+      "path": "data/research/prospective-topic-verification-20261109.json",
+      "bytes": 17124,
+      "sha256": "40db4a07054893d03e6343ae73225ec59e8d18367ea1bca2de3825cd223f570e"
     },
     {
       "path": "data/snapshots/2026-11-08/account.json",
@@ -180,8 +195,8 @@
     },
     {
       "path": "PROJECT-STATE.md",
-      "bytes": 2279,
-      "sha256": "e67b5194744530fa42266952a4429eb25aad6d80825088d577189d103761a4b8"
+      "bytes": 3638,
+      "sha256": "b71e26c78bb174c14ce35cbb8923cd65fa3f1b89c140f2749c58e343ebf5efad"
     },
     {
       "path": "README.md",
@@ -212,6 +227,21 @@
       "path": "reports/notes-23-analysis.md",
       "bytes": 87947,
       "sha256": "8982c40c3f7bb83956a2c4e09a4c809b9a79c59c1f2dfac1e7ca3af8ac26be18"
+    },
+    {
+      "path": "reports/prospective-closed-loop-handoff-20261109.md",
+      "bytes": 4336,
+      "sha256": "d33147fdbcb4c81e24f99e7fd3d5d67839fd1c44e1a51e0ada51e654f6d5cf73"
+    },
+    {
+      "path": "reports/prospective-topic-decision-frozen-20261109.md",
+      "bytes": 7260,
+      "sha256": "3c8f08ddc7bce8edb5941655e39bce9f44a09cc1d3a0a758c58b2bb95a7fd7dd"
+    },
+    {
+      "path": "reports/prospective-topic-evidence-20261109.md",
+      "bytes": 10531,
+      "sha256": "e01794cbec62400bfb1bade9badce0e29ef1350568a762af8107658dc319352b"
     },
     {
       "path": "scripts/recompute_metrics.py",
