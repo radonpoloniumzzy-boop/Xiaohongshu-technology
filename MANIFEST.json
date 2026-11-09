@@ -5,8 +5,8 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 83,
-      "sha256": "cfc8f76b1def1fdee271a86bf998675848ad6b0878eafa9f0f2cb6f242372190"
+      "bytes": 90,
+      "sha256": "33cdbda04b4ec552281ba8a26f5dc5c71b6b3061cbcd8558a878190b96849ee3"
     },
     {
       "path": ".gitignore",
