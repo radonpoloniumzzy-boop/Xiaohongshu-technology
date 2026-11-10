@@ -25,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 350,
-      "sha256": "516e98ef5619b64055e7b981e26cbc8517e9663f39309d9ed25ef5520a9ff0cc"
+      "bytes": 710,
+      "sha256": "e1dce7eeb8d4b4daa10a1268bad33e3b9809dd2626d008b536675adcbaf15516"
     },
     {
       "path": "config/local-roots.example.json",
@@ -180,8 +180,8 @@
     },
     {
       "path": "PROJECT-STATE.md",
-      "bytes": 2279,
-      "sha256": "e67b5194744530fa42266952a4429eb25aad6d80825088d577189d103761a4b8"
+      "bytes": 3435,
+      "sha256": "39446961e17afcd480d42001820f08444efe0d38fa3d022aad9af41d7e654933"
     },
     {
       "path": "README.md",
@@ -194,6 +194,11 @@
       "sha256": "80de752e3c6c8581895f73f6effb629378bb135450ca2d3d7e042daf2c7b2b8d"
     },
     {
+      "path": "reports/CODEX-SKILL-MICROTUNE-COMPLETION-20261110.md",
+      "bytes": 3203,
+      "sha256": "e58d73781ab950952a6619f8822fa4b149c0f298effe3b1db4609bc95f4c08ac"
+    },
+    {
       "path": "reports/content-funnel-audit.md",
       "bytes": 3473,
       "sha256": "f8aeed6df4e9a047475574fe797e2b4599ab9763e9dc149ecba6d7c009730a53"
@@ -204,6 +209,11 @@
       "sha256": "42c16f74bff5dd3645cc2e52efd7a7faf8b2246c3ff353db6a4e1c8fba13d8d7"
     },
     {
+      "path": "reports/current-skill-incremental-updates-20261110.md",
+      "bytes": 6384,
+      "sha256": "48cb684613a3e77c1906f21ab7bde86afcffc73f0048311586fc80516621bd49"
+    },
+    {
       "path": "reports/growth-source-audit.md",
       "bytes": 3104,
       "sha256": "16a275ba32f686bc863bd0fbe90b5c808ca5b207bde2162743f69d19194ba56a"
@@ -212,6 +222,11 @@
       "path": "reports/notes-23-analysis.md",
       "bytes": 87947,
       "sha256": "8982c40c3f7bb83956a2c4e09a4c809b9a79c59c1f2dfac1e7ca3af8ac26be18"
+    },
+    {
+      "path": "reports/skill-regression-and-reversal-20261110.md",
+      "bytes": 5515,
+      "sha256": "2adfa289e3656d264400af56f2ffe5f43b8bf3118ff73d71c293f49f01e03c04"
     },
     {
       "path": "scripts/recompute_metrics.py",
